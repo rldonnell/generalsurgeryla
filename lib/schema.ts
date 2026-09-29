@@ -43,7 +43,7 @@ export function siteGraph(procedures: Doc[]) {
         availableService: procedures.map((p) => ({ '@type': 'MedicalProcedure', name: p.navLabel, url: url(p.slug) })),
         employee: { '@id': IDS.physician },
         founder: { '@id': IDS.physician },
-        sameAs: s.social.map((x) => x.url),
+        sameAs: s.social.length ? s.social.map((x) => x.url) : undefined,
       },
       {
         '@type': 'Physician',

@@ -26,7 +26,7 @@ Cholecystectomy, which represents the surgical removal of the gallbladder, is an
 
 ## What are gallstones?
 
-Gallstones are hardened deposits of digestive fluid that form in the gallbladder, and clinical findings range from wholly asymptomatic to causing severe, [sharp pains](https://healthylifebariatrics.com/gallstone-pain-gallbladder-surgery/). While some people may have no symptoms at all, many patients become significantly uncomfortable once gallstones cause the flow of bile from the body to be halted. Prompt recognition of these symptoms is necessary for averting complications as well as providing suitable therapy.
+Gallstones are hardened deposits of digestive fluid that form in the gallbladder, and clinical findings range from wholly asymptomatic to causing severe, sharp pains. While some people may have no symptoms at all, many patients become significantly uncomfortable once gallstones cause the flow of bile from the body to be halted. Prompt recognition of these symptoms is necessary for averting complications as well as providing suitable therapy.
 
   * Back or shoulder area pain: Pain can present in the right scapula or near the upper back, sometimes mistaken as originating from a muscular cause.
   * Nausea and vomiting: Persistent digestive upset can accompany gallstone flare-ups.
@@ -35,7 +35,7 @@ Gallstones are hardened deposits of digestive fluid that form in the gallbladder
 
 ## Diagnosis of Gallbladder Problems at General Surgery LA
 
-At General Surgery LA, we employ the latest techniques of diagnosis to properly diagnose problems with the gallbladder and establish the most appropriate treatment. We aim to make a clear, brief diagnosis so we can recommend the most minimally invasive and [safest possible treatment](https://healthylifebariatrics.com/gallbladder-removal-surgery-is-it-safe/).
+At General Surgery LA, we employ the latest techniques of diagnosis to properly diagnose problems with the gallbladder and establish the most appropriate treatment. We aim to make a clear, brief diagnosis so we can recommend the most minimally invasive and safest possible treatment.
 
 ### Back & Shoulder Pain
 
@@ -75,7 +75,7 @@ An advanced, scarring-minimizing method that is performed through a single small
 
 ## Why Choose Dr. Moein and General Surgery LA for Gallbladder Surgery?
 
-[Dr. Babak Moein](/general-surgeon-dr-babak-moein/) is a highly qualified surgeon based in the U.S., with considerable experience in general surgery, minimally invasive techniques, and [weight loss surgery](https://healthylifebariatrics.com/weight-loss-surgery-los-angeles/).
+[Dr. Babak Moein](/general-surgeon-dr-babak-moein/) is a highly qualified surgeon based in the U.S., with considerable experience in general surgery, and minimally invasive techniques.
 By using modern techniques of surgery along with patient-centered care, he aims to provide each patient with personalized care to ensure safe and successful outcomes with a quick recovery.
 With considerable experience and a proven track record of success, Dr. Moein is dedicated to helping patients enhance both their health and self-confidence through comprehensive surgical care.
 

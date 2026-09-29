@@ -98,7 +98,7 @@ Under **Dr. Babak Moein's** care, most patients return to work within 1-2 weeks.
 
 ### Why Choose Dr. Moein?
 
-With dual board certifications and hundreds of successful repairs, **Dr. Babak Moein** utilizes robotic-assisted and laparoscopic techniques. This approach ensures minimal scarring, less trauma, and superior long-term results.
+With years of experience and hundreds of successful repairs, **Dr. Babak Moein** utilizes robotic-assisted and laparoscopic techniques. This approach ensures minimal scarring, less trauma, and superior long-term results.
 
 ## Benefits of Choosing General Surgery LA
 
@@ -110,7 +110,7 @@ Contact General Surgery LA to [schedule your consultation](/contact-us/) with Dr
 
 ### Specialized Expertise
 
-**Dr. Babak Moein** is a dual board-certified surgeon who has performed hundreds of successful hernia repairs with excellent outcomes and low complication rates.
+**Dr. Babak Moein** is a board-certified general surgeon who has performed hundreds of successful hernia repairs with excellent outcomes and low complication rates.
 
 ### Minimally Invasive Focus
 
@@ -132,7 +132,7 @@ Yes, when medically necessary, hiatal hernia surgery is typically covered by mos
 
 ### **2\. How long does the surgery take?**
 
-Most laparoscopic [hiatal hernia repairs](https://healthylifebariatrics.com/what-size-hiatal-hernia-needs-surgery/) take 2-3 hours. Complex or revision cases may take longer.
+Most laparoscopic hiatal hernia repairs take 2-3 hours. Complex or revision cases may take longer.
 
 ### **3\. What are the risks of surgery?**
 

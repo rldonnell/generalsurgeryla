@@ -50,7 +50,7 @@ In addition, his team provides detailed pre-authorization support and transparen
 
 Have questions about your provider? Arrange a consultation with **Dr. Moein** to review your insurance benefits and map out a clear route to recovery.
 
-Clinic: LA General Surgery (GeneralSurgeryLA)
+Clinic: General Surgery LA
 
 Address: 2080 Century Park East, Suite 501, Los Angeles, CA 90067
 

@@ -13,15 +13,15 @@
   "longitude": -118.4112,
   "mapEmbed": "https://www.google.com/maps?q=2080+Century+Park+East+Suite+501,+Los+Angeles,+CA+90067&output=embed",
   "hours": [
-    { "label": "Monday to Friday", "days": "Mo,Tu,We,Th,Fr", "opens": "09:00", "closes": "17:00" }
+    {
+      "label": "Monday to Friday",
+      "days": "Mo,Tu,We,Th,Fr",
+      "opens": "09:00",
+      "closes": "17:00"
+    }
   ],
   "gtmId": "GTM-TQVVKLDK",
-  "social": [
-    { "name": "Facebook", "url": "https://www.facebook.com/hlbsurgery" },
-    { "name": "Instagram", "url": "https://www.instagram.com/hlbsurgery" },
-    { "name": "YouTube", "url": "https://www.youtube.com/@Healthylifebariatrics" },
-    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/moeinmd/" }
-  ],
+  "social": [],
   "doctor": {
     "name": "Dr. Babak Moein",
     "fullName": "Babak Moeinolmolki",
@@ -30,11 +30,25 @@
     "photo": "/images/dr-moein.jpg",
     "board": "American Board of Surgery",
     "education": [
-      { "school": "University of California, Los Angeles", "detail": "BS and MS, Microbiology and Molecular Genetics" },
-      { "school": "George Washington University School of Medicine", "detail": "Doctor of Medicine" },
-      { "school": "Georgetown University Medical Center", "detail": "General surgery residency, chief resident" },
-      { "school": "Albert Einstein College of Medicine, Montefiore Medical Center", "detail": "Fellowship, laparoscopic and bariatric surgery" }
+      {
+        "school": "University of California, Los Angeles",
+        "detail": "BS and MS, Microbiology and Molecular Genetics"
+      },
+      {
+        "school": "George Washington University School of Medicine",
+        "detail": "Doctor of Medicine"
+      },
+      {
+        "school": "Georgetown University Medical Center",
+        "detail": "General surgery residency, chief resident"
+      },
+      {
+        "school": "Albert Einstein College of Medicine, Montefiore Medical Center",
+        "detail": "Fellowship, advanced laparoscopic surgery"
+      }
     ],
-    "sameAs": ["https://www.linkedin.com/in/moeinmd/"]
+    "sameAs": [
+      "https://www.linkedin.com/in/moeinmd/"
+    ]
   }
 }

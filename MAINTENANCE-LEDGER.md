@@ -17,3 +17,9 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 
 ## Exit condition
 - Maintenance continues while the performance fee is being paid.
+
+## Brand separation (keep this site standing on its own)
+- Dr. Moein runs other brands (bariatrics, Moein Surgical Arts, gynecomastia, XY Sculpt MD). This site is general surgery only: hernias, gallbladder, appendix.
+- No links to, or copy about, the other brands on this site. No shared social accounts.
+- Own phone number and own email on this domain. The street address is shared with his other listings, so never create a second Google Business Profile at it without checking Google's rules first.
+- Same-topic pages on the other sites can compete with this one in search. Review before publishing new blog topics.

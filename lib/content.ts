@@ -6,8 +6,9 @@ import settingsJson from '@/content/settings.json';
 import faqsJson from '@/content/faqs.json';
 
 export type Faq = { q: string; a: string };
-export type Settings = typeof settingsJson;
-export const settings: Settings = settingsJson;
+export type Social = { name: string; url: string };
+export type Settings = Omit<typeof settingsJson, 'social'> & { social: Social[] };
+export const settings = settingsJson as unknown as Settings;
 export const allFaqs: Faq[] = (faqsJson as { items: Faq[] }).items;
 
 const root = path.join(process.cwd(), 'content');

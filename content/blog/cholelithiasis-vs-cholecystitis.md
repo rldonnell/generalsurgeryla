@@ -65,7 +65,7 @@ Typical Treatment | Observation or elective surgery | Hospitalization and urgent
 
 ## The Role of Biliary Colic
 
-It is important for patients to understand that there is an intermediate stage between these two conditions. Clinicians must often differentiate between the temporary discomfort of [**Biliary Colic vs Cholecystitis**](https://healthylifebariatrics.com/biliary-colic-vs-cholecystitis/) to determine if the patient can be managed at home or needs to be admitted for surgery. Biliary colic occurs when a stone intermittently blocks the duct but eventually moves, allowing the pain to subside, whereas cholecystitis is a permanent blockage leading to tissue damage.
+It is important for patients to understand that there is an intermediate stage between these two conditions. Clinicians must often differentiate between the temporary discomfort of **Biliary Colic vs Cholecystitis** to determine if the patient can be managed at home or needs to be admitted for surgery. Biliary colic occurs when a stone intermittently blocks the duct but eventually moves, allowing the pain to subside, whereas cholecystitis is a permanent blockage leading to tissue damage.
 
 ## Diagnostic Imaging and Labs
 

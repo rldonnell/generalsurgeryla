@@ -23,7 +23,7 @@ updated: '2026-09-29'
 
 Hernia surgery is a common procedure for treating a condition in which a body part protrudes through a weakened area in the surrounding tissue. It is characterized by a noticeable bulge and discomfort. Although some hernias do not display signs of discomfort, most of them will need to undergo surgery in order to prevent serious complications such as strangulation or bowel blockage.
 
-[**Dr. Babak Moein**, a dual board-certified specialist](/general-surgeon-dr-babak-moein/), leads LA General Surgery with extensive expertise in treating all types of hernias, including inguinal, umbilical, and complex [abdominal cases](https://healthylifebariatrics.com/abdominal-hernia-repair-surgery/). Using advanced **minimally invasive laparoscopic and robotic-assisted techniques.**
+[**Dr. Babak Moein**, a board-certified general surgeon](/general-surgeon-dr-babak-moein/), leads General Surgery LA with extensive expertise in treating all types of hernias, including inguinal, umbilical, and complex abdominal cases. Using advanced **minimally invasive laparoscopic and robotic-assisted techniques.**
 
 He focuses on high-precision repairs that significantly reduce recovery time and minimize post-operative pain. Every patient benefits from a holistic approach, from a meticulous preoperative evaluation to a personalized recovery plan tailored to their specific lifestyle.
 
@@ -79,9 +79,9 @@ This rare type develops **along the side of the abdominal wall** and often remai
 
 For patients with **failed previous repairs** or multiple hernias, **Dr. Moein** offers advanced reconstruction techniques designed to deliver lasting results where standard treatments have failed.
 
-## Advanced Hernia Treatment Techniques at LA General Surgery
+## Advanced Hernia Treatment Techniques at General Surgery LA
 
-At **LA General Surgery**, a combination of cutting-edge technology and advanced surgical techniques is used to deliver the best possible outcomes for hernia patients. Dr. Babak Moein, with his **years of experience** in general and minimally invasive surgery, ensures that each patient receives a **personalized treatment plan** tailored to their unique condition.
+At **General Surgery LA**, a combination of cutting-edge technology and advanced surgical techniques is used to deliver the best possible outcomes for hernia patients. Dr. Babak Moein, with his **years of experience** in general and minimally invasive surgery, ensures that each patient receives a **personalized treatment plan** tailored to their unique condition.
 
 ### Laparoscopic Repair
 

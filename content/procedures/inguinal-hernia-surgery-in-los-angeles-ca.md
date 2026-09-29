@@ -125,7 +125,7 @@ After 4-6 weeks, you can return to sports and full activity. High-impact exercis
 
 When it comes to **Inguinal Hernia Surgery in Los Angeles**, choosing the right surgical team is essential for a successful, long-term outcome. At **General Surgery LA**, we combine surgical excellence, advanced minimally invasive technology, and a patient-centered approach to deliver superior results for those suffering from groin hernias.
 
-Our board-certified surgeon, [**Dr. Babak Moein**](/general-surgeon-dr-babak-moein/), specializes in the latest hernia repair techniques, including **laparoscopic and robotic-assisted surgery**. By utilizing these cutting-edge methods, we aim to provide our patients with long-lasting relief, significantly **shorter[recovery times](https://healthylifebariatrics.com/hernia-surgery-recovery-time/)**, and minimal post-operative discomfort.
+Our board-certified surgeon, [**Dr. Babak Moein**](/general-surgeon-dr-babak-moein/), specializes in the latest hernia repair techniques, including **laparoscopic and robotic-assisted surgery**. By utilizing these cutting-edge methods, we aim to provide our patients with long-lasting relief, significantly **shorterrecovery times**, and minimal post-operative discomfort.
 
 Whether you are dealing with a [primary hernia](/hernia-surgery-los-angeles-ca/) or a complex recurrent case, our team is dedicated to restoring your physical strength and comfort.
 

@@ -44,7 +44,7 @@ For your convenience, we accept all major credit cards, HSA (Health Savings Acco
 
 Seeking a definitive repair plan with flexible payment options? Arrange a consultation with **Dr. Moein** to discuss our financing packages.
 
-Clinic: LA General Surgery (GeneralSurgeryLA)
+Clinic: General Surgery LA
 
 Address: 2080 Century Park East, Suite 501, Los Angeles, CA 90067
 

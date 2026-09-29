@@ -8,9 +8,9 @@ videos:
 updated: '2026-09-29'
 ---
 
-General Surgeon Dr. Babak Moeinolmolki, MD, FACS is a Los Angeles-based surgeon with advanced expertise in minimally invasive, bariatric, and general surgery. His fellowship training in [bariatric surgery](https://healthylifebariatrics.com/) adds advanced laparoscopic skill to a broad general surgery practice, allowing him to approach both routine and complex abdominal procedures with a comprehensive surgical perspective.
+General Surgeon Dr. Babak Moeinolmolki, MD, FACS is a Los Angeles-based surgeon with advanced expertise in minimally invasive and general surgery. His fellowship training in advanced laparoscopic surgery adds to a broad general surgery practice, allowing him to approach both routine and complex abdominal procedures with a comprehensive surgical perspective.
 
-Dr. Moein completed his general surgery residency at Georgetown University Medical Center and advanced fellowship training in laparoscopic and bariatric surgery at Albert Einstein School of Medicine, Montefiore Hospital in New York City. His expertise in complex abdominal procedures, [weight loss surgery](https://healthylifebariatrics.com/weight-loss-surgery-los-angeles/), and precision-based surgical techniques allows him to deliver highly individualized care with a strong focus on safety, function, and surgical excellence.
+Dr. Moein completed his general surgery residency at Georgetown University Medical Center and advanced fellowship training in laparoscopic surgery at Albert Einstein School of Medicine, Montefiore Hospital in New York City. His expertise in complex abdominal procedures and precision-based surgical techniques allows him to deliver highly individualized care with a strong focus on safety, function, and surgical excellence.
 
 ### Training and Surgical Background
 
