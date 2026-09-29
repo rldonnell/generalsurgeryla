@@ -5,6 +5,10 @@ const nextConfig = {
   poweredByHeader: false,
   async redirects() {
     return [
+      { source: '/gerd-surgery-los-angeles', destination: '/expert-hiatal-hernia-surgery-in-los-angeles/', permanent: true },
+      { source: '/lipoma-removal-los-angeles', destination: '/', permanent: true },
+      { source: '/colonoscopy-and-endoscopy-los-angeles', destination: '/', permanent: true },
+      { source: '/vascular-access-in-los-angeles', destination: '/', permanent: true },
       { source: '/hello-world', destination: '/blog/', permanent: true },
       { source: '/category/:path*', destination: '/blog/', permanent: true },
       { source: '/feed', destination: '/blog/', permanent: true },

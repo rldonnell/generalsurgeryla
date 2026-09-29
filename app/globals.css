@@ -163,7 +163,7 @@ p { margin: 0 0 1em; }
 .table-scroll { overflow-x: auto; }
 
 /* Quotes */
-.quotes { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: clamp(1.25rem, 3vw, 2.5rem); }
+.quotes { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: clamp(1.25rem, 3vw, 2.5rem); }
 .quotes blockquote { margin: 0; }
 .quotes p { font-family: var(--font-display); font-size: 1.22rem; line-height: 1.45; color: #fff; }
 .quotes footer { font-size: .92rem; color: #b9cfca; }

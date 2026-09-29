@@ -7,7 +7,7 @@ import { breadcrumbs, IDS } from '@/lib/schema';
 
 export const metadata = {
   title: 'Contact General Surgeon Dr. Babak Moein, MD in Los Angeles',
-  description: 'Contact Dr. Babak Moein in Century City, Los Angeles to schedule a consultation for hernia, gallbladder, reflux or other general surgery. Call (310) 861-4093.',
+  description: 'Contact Dr. Babak Moein in Century City, Los Angeles to schedule a consultation for hernia, gallbladder, appendix or other general surgery. Call (310) 861-4093.',
   alternates: { canonical: '/contact-us/' },
 };
 
@@ -22,7 +22,7 @@ export default function Contact() {
         <Crumbs items={[{ name: 'Home', href: '/' }, { name: 'Contact' }]} />
         <h1>Schedule a consultation</h1>
         <p style={{ color: 'var(--ink-soft)', fontSize: '1.15rem', maxWidth: '60ch', marginTop: '1rem' }}>
-          Questions about hernia repair, gallbladder removal, reflux surgery, insurance, or pricing? Call the office or send a request and we will get back to you within one business day. In-person and video consultations are available.
+          Questions about hernia repair, gallbladder removal, appendectomy, insurance, or pricing? Call the office or send a request and we will get back to you within one business day. In-person and video consultations are available.
         </p>
       </header>
       <div className="contact-grid" style={{ paddingBottom: '4rem' }}>

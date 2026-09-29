@@ -1,10 +1,6 @@
 {
  "items": [
   {
-   "q": "What is GERD surgery?",
-   "a": "GERD surgery is a procedure used to treat chronic acid reflux when medications and lifestyle changes do not provide enough relief. The goal of surgery is to restore the barrier between the stomach and esophagus so acid is less likely to flow backward. GERD surgery may be recommended for patients with severe reflux, persistent heartburn, regurgitation, esophagitis, or a hiatal hernia contributing to reflux symptoms."
-  },
-  {
    "q": "What are some weird symptoms of a hiatal hernia?",
    "a": "In addition to heartburn and reflux, a hiatal hernia can sometimes cause less obvious symptoms. These may include chest pressure, chronic cough, throat irritation, hoarseness, frequent burping, difficulty swallowing, a feeling of fullness after small meals, shortness of breath, or discomfort that feels similar to heart-related symptoms. Because these symptoms can overlap with other conditions, a proper evaluation is important."
   },
@@ -51,14 +47,6 @@
   {
    "q": "How long does it take to recover from gallbladder surgery?",
    "a": "Most patients recover relatively quickly after laparoscopic gallbladder surgery. Many are able to go home the same day and return to light activities within several days. Full recovery typically takes a few weeks, depending on the patient’s condition, the type of work they do, and how their body heals."
-  },
-  {
-   "q": "What is a lipoma and when should it be removed?",
-   "a": "A lipoma is a benign fatty growth located beneath the skin. It may be removed if it becomes painful, continues to enlarge, causes cosmetic concern, interferes with movement, or if there is any question about the diagnosis. Removal is usually a straightforward outpatient procedure."
-  },
-  {
-   "q": "Does lipoma removal hurt, and can a lipoma come back after surgery?",
-   "a": "Lipoma removal is usually performed with local anesthesia or another appropriate form of anesthesia, so discomfort during the procedure is generally minimal. Mild soreness after removal is common but usually temporary. Once a lipoma is completely removed, it usually does not return in the same spot, although some patients may develop new lipomas elsewhere."
   }
  ]
 }

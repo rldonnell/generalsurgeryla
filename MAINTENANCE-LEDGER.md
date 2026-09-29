@@ -13,7 +13,7 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - **Attribution**: form UTMs feed GHL. Performance billing depends on this working.
 
 ## Roles
-- Irene approves blog posts by merging cms-drafts into main. Robert is not the approver.
+- Robert approves and merges each cms-drafts pull request into main. Irene reviews the site once before it goes to Dr. Moein, not on each pull.
 
 ## Exit condition
 - Maintenance continues while the performance fee is being paid.

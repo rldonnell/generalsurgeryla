@@ -22,13 +22,9 @@ Another significant factor is the facility and anesthesia fees associated with y
 
 The estimated cost for laparoscopic or robotic hernia repair ranges from $5,000 to $9,000. This typically covers the surgical repair and high-quality mesh placement if required.
 
-### Gallbladder / GERD Surgery
+### Gallbladder Surgery and Hiatal Hernia Repair
 
 Advanced procedures like Cholecystectomy or Hiatal Hernia Repair generally range from $6,500 to $12,000. Costs vary based on the complexity and surgical technique used.
-
-### Lipedema Removal
-
-Treatment for Lipedema involves specialized lymph-sparing techniques. Depending on the areas treated, costs typically range from $8,000 to $15,000 per stage/session.
 
 ### Evaluation & Diagnostics
 
@@ -36,7 +32,7 @@ An initial comprehensive evaluation with **Dr. Moein** ranges from $250 to $500.
 
 ### The Advantages of Self-Pay Excellence
 
-For our patients choosing self-pay options or elective enhancements, we provide **all-inclusive transparent pricing** with no hidden fees. This path allows for immediate scheduling without waiting for insurance approvals, giving you full control over your surgical timeline in **Los Angeles**. Whether it's a specialized **Lipedema removal** or an aesthetic refinement, our self-pay packages are designed to be as cost-effective as they are life-changing.
+For our patients choosing self-pay options, we provide **all-inclusive transparent pricing** with no hidden fees. This path allows for immediate scheduling without waiting for insurance approvals, giving you full control over your surgical timeline in **Los Angeles**. Our self-pay packages are designed to be as cost-effective as they are life-changing.
 
 ### CareCredit® Support
 
@@ -62,6 +58,6 @@ Hours: Mon-Fri, 9:00 AM - 5:00 PM
 
 Choosing **Dr. Babak Moein** means more than just selecting a top-tier surgeon; it means gaining a partner dedicated to your total peace of mind. Dr. Moein understands that true healing begins when stress is removed. That’s why he personally ensures every patient receives a **bespoke surgical strategy** that harmonizes medical necessity with financial feasibility.
 
-By leveraging his dual expertise in **General and Cosmetic Surgery**, he doesn't just perform a procedure, he crafts a result. Whether navigating the complexities of your **PPO insurance** to minimize costs or designing a flexible **self-pay plan** for specialized treatments like **Lipedema removal.**
+Whether you are navigating the complexities of your **PPO insurance** to minimize costs or choosing a flexible **self-pay plan**, his team will walk you through the options.
 
-Dr. Moein’s goal remains the same: providing the highest standard of Los Angeles surgical care with absolute transparency and superior aesthetic outcomes.
+Dr. Moein’s goal remains the same: providing the highest standard of Los Angeles surgical care with clear pricing and excellent surgical outcomes.

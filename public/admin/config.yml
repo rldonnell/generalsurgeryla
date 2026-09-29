@@ -1,9 +1,9 @@
-# P5 blog stack: Decap on GitHub, draft branch, Irene approves by merging.
+# P5 blog stack: Decap on GitHub, drafts land on cms-drafts, Robert merges to publish.
 # DO NOT turn on publish_mode: editorial_workflow (breaks every entry).
 backend:
   name: github
   repo: rldonnell/generalsurgeryla      # EXACT owner/repo. Change if the repo lives elsewhere.
-  branch: cms-drafts                    # Irene merges cms-drafts -> main to publish
+  branch: cms-drafts                    # Robert merges cms-drafts -> main to publish
   base_url: https://generalsurgeryla.com
   auth_endpoint: /api/auth
 

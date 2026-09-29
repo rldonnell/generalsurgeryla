@@ -7,7 +7,7 @@ export function GET() {
   const body = [
     `# ${s.siteName}`,
     '',
-    `> ${s.siteName} is the general surgery practice of ${s.doctor.name}, ${s.doctor.credentials}, a board-certified general surgeon (${s.doctor.board}) in Century City, Los Angeles. The practice performs minimally invasive hernia, gallbladder, reflux, appendix and other general surgery.`,
+    `> ${s.siteName} is the general surgery practice of ${s.doctor.name}, ${s.doctor.credentials}, a board-certified general surgeon (${s.doctor.board}) in Century City, Los Angeles. The practice performs minimally invasive hernia, gallbladder and appendix surgery.`,
     '',
     `- Address: ${s.street}, ${s.city}, ${s.region} ${s.postalCode}`,
     `- Phone: ${s.phone}`,

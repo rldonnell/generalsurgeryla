@@ -76,9 +76,9 @@ Procedure Type | Dietary Focus | Activity Restrictions
 
 Choosing the right surgeon is the most important decision in your journey to recovery. **Dr. Babak Moein** is a widely recognized and highly respected surgeon in **Los Angeles**, known for his surgical precision and dedicated patient care.
 
-What truly sets him apart is his unique dual expertise: he holds professional qualifications in both **General Surgery** and **Cosmetic Surgery**. This rare combination allows him to perform essential medical repairs, such as hernia and reflux surgeries, with the meticulous eye of a cosmetic specialist.
+What sets him apart is his focus on minimally invasive technique. He performs essential repairs, such as hernia and gallbladder surgery, through small incisions with careful attention to healing.
 
-As a result, his patients benefit from successful medical outcomes while achieving the best possible aesthetic results with **minimal scarring**. By choosing Dr. Moein, you are trusting your health to a specialist who perfectly blends the science of general surgery with the art of aesthetic medicine.
+As a result, patients can expect strong medical outcomes with **minimal scarring** and a faster return to normal life.
 
 Do you have questions about your upcoming surgery or need guidance during your recovery? Schedule a consultation with **Dr. Moein** to ensure your surgical plan is clear and your path to healing is optimized.
 

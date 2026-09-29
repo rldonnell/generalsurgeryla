@@ -9,11 +9,19 @@ import { faqPage } from '@/lib/schema';
 export const metadata = {
   title: 'General Surgeon Los Angeles | Hernia & Gallbladder Surgery | Dr. Moein',
   description:
-    'Board-certified general surgeon Dr. Babak Moein, MD, FACS performs minimally invasive hernia, gallbladder, reflux and appendix surgery in Century City, Los Angeles. Most patients go home the same day.',
+    'Board-certified general surgeon Dr. Babak Moein, MD, FACS performs minimally invasive hernia, gallbladder and appendix surgery in Century City, Los Angeles. Most patients go home the same day.',
   alternates: { canonical: '/' },
 };
 
-const homeFaqs = [allFaqs[4], allFaqs[7], allFaqs[8], allFaqs[12], allFaqs[0], allFaqs[13]];
+const homeQuestions = [
+  'Can you heal a hernia without surgery?',
+  'How long does it take to recover from hernia surgery?',
+  'What is the difference between open and laparoscopic hernia surgery?',
+  'What are the symptoms of an inguinal hernia?',
+  'What does gallstone pain feel like?',
+  'How long does it take to recover from gallbladder surgery?',
+];
+const homeFaqs = homeQuestions.map((q) => allFaqs.find((f) => f.q === q)!).filter(Boolean);
 
 const firstSentence = (t = '') => t.split(/(?<=\.)\s/)[0];
 
@@ -27,7 +35,7 @@ export default function Home() {
           <div>
             <h1>General surgery in Los Angeles, through the smallest incision that works.</h1>
             <p className="lede">
-              Dr. Babak Moein treats hernias, gallbladder disease, reflux, appendicitis and more with laparoscopic and robotic
+              Dr. Babak Moein treats hernias, gallbladder disease and appendicitis with laparoscopic and robotic
               techniques in Century City. Many patients go home the same day.
             </p>
             <div className="actions">
@@ -128,10 +136,6 @@ export default function Home() {
             <blockquote>
               <p>Dr. Moein performed my hernia surgery laparoscopically. Recovery was much faster than I expected, and I was back at work in a few days.</p>
               <footer>Michael R., hernia repair</footer>
-            </blockquote>
-            <blockquote>
-              <p>His skill and care made my lipoma removal simple, with minimal scarring and a great result.</p>
-              <footer>Sarah L., lipoma removal</footer>
             </blockquote>
             <blockquote>
               <p>He removed my gallbladder laparoscopically. The whole process was seamless, and his team supported me through recovery.</p>

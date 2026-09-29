@@ -8,17 +8,17 @@ videos:
 updated: '2026-09-29'
 ---
 
-General Surgeon Dr. Babak Moeinolmolki, MD, FACS is a Los Angeles-based surgeon with advanced expertise in minimally invasive, bariatric, and general surgery. His dual fellowship training in [bariatric surgery](https://healthylifebariatrics.com/) and [cosmetic body contouring](https://moeinsurgicalarts.com/) provides a distinctive combination of technical precision and aesthetic judgment, allowing him to approach both functional and body contouring procedures with a comprehensive surgical perspective.
+General Surgeon Dr. Babak Moeinolmolki, MD, FACS is a Los Angeles-based surgeon with advanced expertise in minimally invasive, bariatric, and general surgery. His fellowship training in [bariatric surgery](https://healthylifebariatrics.com/) adds advanced laparoscopic skill to a broad general surgery practice, allowing him to approach both routine and complex abdominal procedures with a comprehensive surgical perspective.
 
-Dr. Moein completed his general surgery residency at Georgetown University Medical Center and advanced fellowship training in laparoscopic and bariatric surgery at Albert Einstein School of Medicine, Montefiore Hospital in New York City, followed by additional fellowship training in cosmetic surgery. His expertise in complex abdominal procedures, [weight loss surgery](https://healthylifebariatrics.com/weight-loss-surgery-los-angeles/), and precision-based surgical techniques allows him to deliver highly individualised care with a strong focus on safety, function, and surgical excellence.
+Dr. Moein completed his general surgery residency at Georgetown University Medical Center and advanced fellowship training in laparoscopic and bariatric surgery at Albert Einstein School of Medicine, Montefiore Hospital in New York City. His expertise in complex abdominal procedures, [weight loss surgery](https://healthylifebariatrics.com/weight-loss-surgery-los-angeles/), and precision-based surgical techniques allows him to deliver highly individualized care with a strong focus on safety, function, and surgical excellence.
 
-### Exceptional Training and a Rare Multidisciplinary Surgical Background
+### Training and Surgical Background
 
 Dr. Babak Moein, MD, FACS, brings together a combination of advanced surgical training, academic distinction, and broad clinical experience in general surgery, minimally invasive surgery, and complex abdominal procedures. A Los Angeles native, he completed both his Bachelor’s and Master’s degrees in Microbiology and Molecular Genetics at UCLA, graduating with distinction from the College of Honors Program and earning recognition for his service at UCLA Medical Center. He then went on to medical school at George Washington University School of Medicine, where he received the Robert Dodeck Scholarship award. His surgical training continued through a rigorous internship at the University of Maryland Shock Trauma Center and a general surgery residency at Georgetown University Medical Center, where he developed a strong foundation in complex surgical care, critical decision-making, and minimally invasive operative techniques.
 
 ### Advanced Expertise in General Surgery and Minimally Invasive Procedures
 
-What general surgeon sets Dr. Moein apart is the breadth of his surgical training and the way he applies it to patient care. He completed advanced fellowship training in laparoscopic surgery, where he refined his expertise in minimally invasive abdominal procedures and modern surgical management of a wide range of conditions. He later pursued additional fellowship training in cosmetic surgery under the mentorship of nationally recognised leaders in the field. This rare combination gives Dr. Moein a unique perspective: he is able to approach surgical problems with both technical precision and a careful appreciation for contour, closure, and recovery. Few surgeons in Southern California offer this level of integrated expertise under one roof. His background allows him to tailor treatment plans with a strong emphasis on surgical safety, functional outcomes, and meticulous technique. This is especially valuable for patients seeking advanced care for both straightforward and more complex general surgical concerns.
+What sets Dr. Moein apart is the breadth of his surgical training and the way he applies it to patient care. He completed advanced fellowship training in laparoscopic surgery, where he refined his expertise in minimally invasive abdominal procedures and modern surgical management of a wide range of conditions. He approaches each problem with both technical precision and careful attention to closure and recovery. His background allows him to tailor treatment plans with a strong emphasis on surgical safety, functional outcomes, and meticulous technique. This is especially valuable for patients seeking advanced care for both straightforward and more complex general surgical concerns.
 
 ### Experience, Compassion, and a Patient-First Philosophy
 
@@ -53,30 +53,6 @@ Dr. Moein offers patients in Los Angeles and surrounding communities access to a
 ### American Medical Association, Member in Good Standing
 
 Professional Membership
-
-### Tulsa Surgical Arts, General Cosmetic Surgery Fellowship
-
-2013-2014
-
-### American Academy of Cosmetic Surgery, Clinical Fellowship
-
-2013-2014
-
-### American Board of Cosmetic Surgery
-
-2014
-
-### Advanced Techniques Using Facial Implants
-
-2014
-
-### California Academy of Cosmetic Surgery, Fellow in Good Standing
-
-2016
-
-### California Academy of Cosmetic Surgery, Fellow
-
-2017
 
 ## Why Choose General Surgeon Dr. Babak Moein, MD in Los Angeles?
 

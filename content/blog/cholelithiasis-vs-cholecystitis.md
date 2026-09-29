@@ -97,7 +97,7 @@ If you are diagnosed with symptomatic gallstones or inflammation, the most commo
 
 > ## Final Verdict: Cholelithiasis vs Cholecystitis Management
 
-If you are seeking specialized care, [**Dr. Babak Moein** is a premier general and cosmetic surgeon in Los Angele](/general-surgeon-dr-babak-moein)s, renowned for his surgical precision and decades of experience in performing advanced laparoscopic procedures. His patient-first approach ensures that, whether you are managing silent gallstones or facing an acute inflammatory crisis, you receive the highest level of clinical expertise.
+If you are seeking specialized care, [**Dr. Babak Moein**](/general-surgeon-dr-babak-moein/) is a general surgeon in Los Angeles with decades of experience performing advanced laparoscopic procedures. His patient-first approach ensures that, whether you are managing silent gallstones or facing an acute inflammatory crisis, you receive the highest level of clinical expertise.
 
 To discuss your symptoms or schedule a consultation, please contact us through the following options:
 

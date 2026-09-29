@@ -93,7 +93,7 @@ Many patients can go home **the same day or after a short overnight stay**, depe
 
 The **HD laparoscopic camera** provides a detailed view, supporting precise diagnosis and treatment.
 
-### Minimal Aesthetic Impact
+### Minimal Scarring
 
 Small incisions are placed strategically to achieve an **effective result with minimal visible scarring**.
 
@@ -145,4 +145,4 @@ Patients seeking laparoscopic appendectomy in Los Angeles often value:
 
 Your evaluation may include a detailed discussion of symptoms, examination findings, imaging review, and treatment options. If appendicitis is suspected, urgent action may be recommended. The focus is always on making a prompt diagnosis and moving efficiently towards the safest treatment plan.
 
-In addition to emergency appendicitis care, we also provide expert [**Gallbladder surgery**](/gallbladder-surgery-in-los-angeles/), as well as comprehensive [**Colonoscopy and Endoscopy in Los Angeles**](/colonoscopy-and-endoscopy-los-angeles/) to address your full range of digestive health needs.
+In addition to emergency appendicitis care, we also provide expert [**Gallbladder surgery**](/gallbladder-surgery-in-los-angeles/), and repair of [hernias](/hernia-surgery-los-angeles-ca/), so you can get care for the full range of common abdominal conditions from one surgeon.

@@ -81,7 +81,7 @@ For patients with **failed previous repairs** or multiple hernias, **Dr. Moein**
 
 ## Advanced Hernia Treatment Techniques at LA General Surgery
 
-At **LA General Surgery**, a combination of cutting-edge technology and advanced surgical techniques is used to deliver the best possible outcomes for hernia patients. Dr. Babak Moein, with his **years of experience** and **dual board certifications** in general and cosmetic surgery, ensures that each patient receives a **personalized treatment plan** tailored to their unique condition.
+At **LA General Surgery**, a combination of cutting-edge technology and advanced surgical techniques is used to deliver the best possible outcomes for hernia patients. Dr. Babak Moein, with his **years of experience** in general and minimally invasive surgery, ensures that each patient receives a **personalized treatment plan** tailored to their unique condition.
 
 ### Laparoscopic Repair
 
@@ -126,7 +126,7 @@ This is the milestone where you can return to sports and full physical activity.
 
 ## Why Choose General Surgery LA and Dr. Babak Moein?
 
-Selecting a hernia specialist is a decision that impacts comfort, recovery, and long-term outcomes. Care at **General Surgery LA** is led by **Dr. Babak Moein**, a dual board-certified **general** and **cosmetic surgeon**, with years of experience treating straightforward and complex hernias.
+Selecting a hernia specialist is a decision that impacts comfort, recovery, and long-term outcomes. Care at **General Surgery LA** is led by **Dr. Babak Moein**, a board-certified **general surgeon**, with years of experience treating straightforward and complex hernias.
 
 Patients benefit from evidence-based protocols, minimally invasive options where appropriate, and attentive aftercare designed to reduce downtime and support a confident return to normal activity.
 

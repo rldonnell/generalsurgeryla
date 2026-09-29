@@ -4,14 +4,11 @@
 type Spot = { x: number; y: number; lx: number; ly: number; side: 'l' | 'r'; lines: string[]; href: string };
 
 const spots: Spot[] = [
-  { x: 158, y: 112, lx: 132, ly: 112, side: 'l', lines: ['Lipomas'], href: '/lipoma-removal-los-angeles/' },
   { x: 232, y: 230, lx: 132, ly: 230, side: 'l', lines: ['Gallbladder'], href: '/gallbladder-surgery-in-los-angeles/' },
   { x: 214, y: 398, lx: 132, ly: 380, side: 'l', lines: ['Appendix'], href: '/laparoscopic-appendectomy-in-los-angeles/' },
   { x: 226, y: 458, lx: 132, ly: 470, side: 'l', lines: ['Inguinal', 'hernia'], href: '/inguinal-hernia-surgery-in-los-angeles-ca/' },
-  { x: 326, y: 106, lx: 432, ly: 96, side: 'r', lines: ['Vascular', 'access'], href: '/vascular-access-in-los-angeles/' },
-  { x: 290, y: 176, lx: 432, ly: 176, side: 'r', lines: ['Hiatal hernia', 'and reflux'], href: '/expert-hiatal-hernia-surgery-in-los-angeles/' },
+  { x: 290, y: 176, lx: 432, ly: 176, side: 'r', lines: ['Hiatal', 'hernia'], href: '/expert-hiatal-hernia-surgery-in-los-angeles/' },
   { x: 280, y: 318, lx: 432, ly: 296, side: 'r', lines: ['Abdominal', 'hernia'], href: '/hernia-surgery-los-angeles-ca/' },
-  { x: 347, y: 360, lx: 432, ly: 384, side: 'r', lines: ['Colonoscopy'], href: '/colonoscopy-and-endoscopy-los-angeles/' },
 ];
 
 export default function BodyMap() {

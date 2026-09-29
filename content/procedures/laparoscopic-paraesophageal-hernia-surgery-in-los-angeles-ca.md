@@ -52,7 +52,7 @@ With over 20 years of experience in Los Angeles and Beverly Hills, Dr. Moein emp
   * **Complete Hernia Sac Reduction:** Careful mobilization and reduction of all herniated organs back into the abdominal cavity
   * **Crural Repair:** Strengthening the diaphragmatic opening with non-absorbable sutures
   * **Mesh Reinforcement:** When indicated, use biological or synthetic mesh for additional support
-  * **Fundoplication:** Anti-reflux procedure to prevent post-operative [GERD](/gerd-surgery-los-angeles/)
+  * **Fundoplication:** Anti-reflux procedure to prevent post-operative GERD
   * **Short Gastric Division:** Complete mobilization of the stomach for tension-free repair
 
 ### Robotic-Assisted Precision Surgery
@@ -70,7 +70,7 @@ Recovery from a paraesophageal hernia procedure is usually gradual but quite eas
 
 ## Dr. Babak Moein, MD: Advanced Laparoscopic Surgeon in Los Angeles
 
-With over 20 years of specialized experience in both general and cosmetic surgery, [Dr. Moein](/general-surgeon-dr-babak-moein/) serves Los Angeles and Beverly Hills with exceptional expertise in complex [paraesophageal hernia repair](/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/), ensuring optimal outcomes through advanced minimally invasive techniques.
+With over 20 years of surgical experience, [Dr. Moein](/general-surgeon-dr-babak-moein/) serves Los Angeles and Beverly Hills with exceptional expertise in complex [paraesophageal hernia repair](/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/), ensuring optimal outcomes through advanced minimally invasive techniques.
 
   * **Specialized Training:** Fellowship-trained with specific expertise in complex foregut surgery
   * **High-Volume Experience:** Over 20 years performing paraesophageal hernia repairs in Los Angeles

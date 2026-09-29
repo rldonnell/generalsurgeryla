@@ -6,7 +6,7 @@ import { breadcrumbs, IDS } from '@/lib/schema';
 
 export const metadata = {
   title: 'General Surgery Blog | Dr. Moein, Los Angeles',
-  description: 'Plain-language guides from Los Angeles general surgeon Dr. Babak Moein on hernias, gallbladder disease, reflux, and recovery after surgery.',
+  description: 'Plain-language guides from Los Angeles general surgeon Dr. Babak Moein on hernias, gallbladder disease, and recovery after surgery.',
   alternates: { canonical: '/blog/' },
 };
 

@@ -6,7 +6,7 @@ import { breadcrumbs, faqPage } from '@/lib/schema';
 
 export const metadata = {
   title: 'General Surgery Frequently Asked Questions | Dr. Moein',
-  description: 'Answers to common questions about hernia, hiatal hernia, GERD, gallbladder and lipoma surgery, recovery and what to expect, from Dr. Babak Moein in Los Angeles.',
+  description: 'Answers to common questions about hernia, hiatal hernia and gallbladder surgery, recovery and what to expect, from Dr. Babak Moein in Los Angeles.',
   alternates: { canonical: '/frequently-asked-question/' },
 };
 

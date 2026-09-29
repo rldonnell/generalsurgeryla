@@ -71,11 +71,11 @@ As the gold standard, it is a minimally invasive surgery that involves few cuts 
 
 ### Single Incision Laparoscopic Surgery (SILS)
 
-An advanced, scarring-minimizing method that is performed through a single small incision near the belly button. SILS offers enhanced cosmetic results and is appropriate for those who prioritize aesthetics as much as technical superiority.
+An advanced, scarring-minimizing method that is performed through a single small incision near the belly button. SILS leaves a single, less visible scar and is appropriate for selected patients.
 
 ## Why Choose Dr. Moein and General Surgery LA for Gallbladder Surgery?
 
-[Dr. Babak Moein](/general-surgeon-dr-babak-moein/) is a highly qualified surgeon based in the U.S., with considerable experience in general surgery, minimally invasive techniques, [weight loss surgery](https://healthylifebariatrics.com/weight-loss-surgery-los-angeles/), and cosmetic surgery.
+[Dr. Babak Moein](/general-surgeon-dr-babak-moein/) is a highly qualified surgeon based in the U.S., with considerable experience in general surgery, minimally invasive techniques, and [weight loss surgery](https://healthylifebariatrics.com/weight-loss-surgery-los-angeles/).
 By using modern techniques of surgery along with patient-centered care, he aims to provide each patient with personalized care to ensure safe and successful outcomes with a quick recovery.
 With considerable experience and a proven track record of success, Dr. Moein is dedicated to helping patients enhance both their health and self-confidence through comprehensive surgical care.
 

@@ -16,12 +16,13 @@ faqs:
 videos:
 - PTfhHe-tcRo
 - tX0BrRUNn8w
+- wXeKxpQPlkA
 updated: '2026-09-29'
 ---
 
 Hiatal hernia surgery in Los Angeles is a highly effective solution for patients suffering from chronic heartburn, acid reflux, and persistent chest discomfort caused by a hiatal hernia. When these symptoms begin to interfere with daily life, surgical treatment is often the most reliable way to achieve long-term relief.
 
-Dr. Moein, a prominent general and cosmetic surgeon at General Surgery LA, uses the most up-to-date minimally invasive [laparoscopic surgical techniques](/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/) to achieve the best clinical results and help patients recover more quickly.
+Dr. Moein, an experienced general surgeon at General Surgery LA, uses the most up-to-date minimally invasive [laparoscopic surgical techniques](/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/) to achieve the best clinical results and help patients recover more quickly.
 
 We customize your procedure based on your unique anatomy and symptoms using our top-level strategy, which includes detailed diagnostic testing, such as endoscopy, pH testing, and, if appropriate, esophageal motility testing, to inform our approach.
 
@@ -101,9 +102,9 @@ With dual board certifications and hundreds of successful repairs, **Dr. Babak M
 
 ## Benefits of Choosing General Surgery LA
 
-With over 20 years of specialized experience in both general and cosmetic surgery, [Dr. Moein](/general-surgeon-dr-babak-moein/) has established himself as a leading surgeon serving Los Angeles and Beverly Hills. His extensive expertise in minimally invasive techniques, combined with hundreds of successful hiatal hernia repairs, ensures you receive the highest standard of care.
+With over 20 years of surgical experience, [Dr. Moein](/general-surgeon-dr-babak-moein/) has established himself as a leading surgeon serving Los Angeles and Beverly Hills. His extensive expertise in minimally invasive techniques, combined with hundreds of successful hiatal hernia repairs, ensures you receive the highest standard of care.
 
-Dr. Moein's dual specialization allows him to deliver not only functional excellence but also aesthetic consideration for optimal healing and minimal scarring, making him the preferred choice for discerning patients throughout the greater Los Angeles area.
+Dr. Moein's minimally invasive approach focuses on durable repair, optimal healing, and minimal scarring for patients throughout the greater Los Angeles area.
 
 Contact General Surgery LA to [schedule your consultation](/contact-us/) with Dr. Moein and experience expert care backed by decades of surgical excellence and precision.
 
