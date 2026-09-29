@@ -15,7 +15,7 @@ const publicSans = Public_Sans({ subsets: ['latin'], weight: ['400', '500', '600
 export const metadata: Metadata = {
   metadataBase: new URL(s.baseUrl),
   title: { default: `General Surgeon in Los Angeles | ${s.doctor.name}`, template: `%s` },
-  description: 'Minimally invasive hernia, gallbladder and appendix surgery in Century City, Los Angeles with board-certified general surgeon Dr. Babak Moein, MD, FACS.',
+  description: 'Board-certified general surgeon Dr. Babak Moein performs minimally invasive hernia, gallbladder and appendix surgery in Century City, Los Angeles.',
   openGraph: { siteName: s.siteName, locale: 'en_US', type: 'website', images: [{ url: s.doctor.photo, width: 500, height: 496, alt: s.doctor.name }] },
   twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 },

@@ -1,10 +1,10 @@
 ---
 title: 'Hernia Mesh vs Non-Mesh Repair: How Surgeons Actually Decide in 2026'
-metaTitle: 'Hernia Mesh vs Non-Mesh Repair: How Surgeons Actually Decide in 2026'
-description: The mesh question has changed every hernia consultation since FDA warnings and lawsuits made the news. What the data actually shows, where the public perception comes from (mostly transvaginal mesh, not hernia mesh), when non-mesh repair is still the right answer, and how a board-certified general surgeon thinks through the decision in 2026.
+metaTitle: 'Hernia Mesh vs Non-Mesh Repair: How Surgeons Decide in 2026'
+description: What the data shows about hernia mesh, where the fears come from, and when non-mesh repair is still the right choice.
 date: '2026-05-14'
 updated: '2026-09-29'
-excerpt: The mesh question has changed every hernia consultation since FDA warnings and lawsuits made the news. What the data actually shows, where the public perception comes from (mostly transvaginal mesh, not hernia mesh), when non-mesh repair is still the right answer, and how a board-certified general surgeon thinks through the decision in 2026.
+excerpt: What the data shows about hernia mesh, where the fears come from, and when non-mesh repair is still the right choice.
 ---
 
 The single most common question in a hernia consultation has changed over the last five years. It used to be "Do I really need surgery?" Now it's "If I have surgery, what about the mesh?"

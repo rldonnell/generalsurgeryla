@@ -7,9 +7,9 @@ import { allFaqs, getProcedures, settings as s } from '@/lib/content';
 import { faqPage } from '@/lib/schema';
 
 export const metadata = {
-  title: 'General Surgeon Los Angeles | Hernia & Gallbladder Surgery | Dr. Moein',
+  title: 'Los Angeles General Surgeon | Hernia & Gallbladder | Dr. Moein',
   description:
-    'Board-certified general surgeon Dr. Babak Moein, MD, FACS performs minimally invasive hernia, gallbladder and appendix surgery in Century City, Los Angeles. Most patients go home the same day.',
+    'Board-certified general surgeon Dr. Babak Moein performs minimally invasive hernia, gallbladder and appendix surgery in Century City, Los Angeles.',
   alternates: { canonical: '/' },
 };
 

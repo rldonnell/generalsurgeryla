@@ -1,10 +1,10 @@
 ---
 title: 'Inguinal Hernia: When Surgery Is the Right Answer (And When Watchful Waiting Works)'
 metaTitle: 'Inguinal Hernia: When Surgery Is Needed, When to Wait'
-description: About 1 in 4 men will develop an inguinal hernia at some point. The diagnosis is usually straightforward; the harder question is when to proceed with surgery vs continue watchful waiting. How surgeons actually think about that decision, the specific signs that should push you off the fence, and what the 6-week recovery really looks like.
+description: How surgeons decide between inguinal hernia surgery and watchful waiting, the signs that mean it is time, and what recovery looks like.
 date: '2026-05-14'
 updated: '2026-09-29'
-excerpt: About 1 in 4 men will develop an inguinal hernia at some point. The diagnosis is usually straightforward; the harder question is when to proceed with surgery vs continue watchful waiting. How surgeons actually think about that decision, the specific signs that should push you off the fence, and what the 6-week recovery really looks like.
+excerpt: How surgeons decide between inguinal hernia surgery and watchful waiting, the signs that mean it is time, and what recovery looks like.
 ---
 
 An inguinal hernia is one of the most common reasons men over 40 end up in a general surgeon's consultation room. About 1 in 4 men will develop one at some point in life. The actual diagnosis is usually straightforward. The harder question is the one that brings patients to the conversation: **do I need surgery now, or can I wait?**

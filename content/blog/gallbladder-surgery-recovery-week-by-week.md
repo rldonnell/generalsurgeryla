@@ -1,10 +1,10 @@
 ---
 title: 'Gallbladder Surgery Recovery: An Honest Week-by-Week Timeline'
-metaTitle: 'Gallbladder Surgery Recovery: An Honest Week-by-Week Timeline'
-description: Most patients are told gallbladder removal is &#039;easy recovery.&#039; That&#039;s mostly true, but &#039;easy&#039; still includes a real curve with predictable rough patches. The honest day-by-day timeline for laparoscopic cholecystectomy, including the shoulder pain nobody warns you about and the bowel changes that take weeks to settle.
+metaTitle: 'Gallbladder Surgery Recovery: A Week-by-Week Timeline'
+description: 'What gallbladder surgery recovery really looks like, day by day: shoulder pain, bowel changes, and when you can return to normal activity.'
 date: '2026-05-14'
 updated: '2026-09-29'
-excerpt: Most patients are told gallbladder removal is &#039;easy recovery.&#039; That&#039;s mostly true, but &#039;easy&#039; still includes a real curve with predictable rough patches. The honest day-by-day timeline for laparoscopic cholecystectomy, including the shoulder pain nobody warns you about and the bowel changes that take weeks to settle.
+excerpt: 'What gallbladder surgery recovery really looks like, day by day: shoulder pain, bowel changes, and when you can return to normal activity.'
 ---
 
 Most patients are told gallbladder surgery is "routine, in and out, easy recovery." That's mostly true. Mostly. The part that gets glossed over is what the first six weeks actually look like, day by day, when you're the one living through it.
