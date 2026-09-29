@@ -1,0 +1,40 @@
+{
+  "siteName": "General Surgery LA",
+  "baseUrl": "https://generalsurgeryla.com",
+  "tagline": "Minimally invasive general surgery in Century City, Los Angeles",
+  "phone": "(310) 861-4093",
+  "phoneE164": "+13108614093",
+  "email": "info@generalsurgeryla.com",
+  "street": "2080 Century Park East, Suite 501",
+  "city": "Los Angeles",
+  "region": "CA",
+  "postalCode": "90067",
+  "latitude": 34.0593,
+  "longitude": -118.4112,
+  "mapEmbed": "https://www.google.com/maps?q=2080+Century+Park+East+Suite+501,+Los+Angeles,+CA+90067&output=embed",
+  "hours": [
+    { "label": "Monday to Friday", "days": "Mo,Tu,We,Th,Fr", "opens": "09:00", "closes": "17:00" }
+  ],
+  "gtmId": "GTM-TQVVKLDK",
+  "social": [
+    { "name": "Facebook", "url": "https://www.facebook.com/hlbsurgery" },
+    { "name": "Instagram", "url": "https://www.instagram.com/hlbsurgery" },
+    { "name": "YouTube", "url": "https://www.youtube.com/@Healthylifebariatrics" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/moeinmd/" }
+  ],
+  "doctor": {
+    "name": "Dr. Babak Moein",
+    "fullName": "Babak Moeinolmolki",
+    "credentials": "MD, FACS",
+    "jobTitle": "General Surgeon",
+    "photo": "/images/dr-moein.jpg",
+    "board": "American Board of Surgery",
+    "education": [
+      { "school": "University of California, Los Angeles", "detail": "BS and MS, Microbiology and Molecular Genetics" },
+      { "school": "George Washington University School of Medicine", "detail": "Doctor of Medicine" },
+      { "school": "Georgetown University Medical Center", "detail": "General surgery residency, chief resident" },
+      { "school": "Albert Einstein College of Medicine, Montefiore Medical Center", "detail": "Fellowship, laparoscopic and bariatric surgery" }
+    ],
+    "sameAs": ["https://www.linkedin.com/in/moeinmd/"]
+  }
+}

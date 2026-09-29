@@ -1,0 +1,131 @@
+# P5 blog stack: Decap on GitHub, draft branch, Irene approves by merging.
+# DO NOT turn on publish_mode: editorial_workflow (breaks every entry).
+backend:
+  name: github
+  repo: rldonnell/generalsurgeryla      # EXACT owner/repo. Change if the repo lives elsewhere.
+  branch: cms-drafts                    # Irene merges cms-drafts -> main to publish
+  base_url: https://generalsurgeryla.com
+  auth_endpoint: /api/auth
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog posts"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title (H1)", name: "title", widget: "string" }
+      - { label: "SEO title", name: "metaTitle", widget: "string", hint: "Under 60 characters. Shows in Google." }
+      - { label: "Meta description", name: "description", widget: "text", hint: "Under 160 characters." }
+      - { label: "Publish date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Last updated", name: "updated", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "procedures"
+    label: "Procedure pages"
+    folder: "content/procedures"
+    create: false
+    delete: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title (H1)", name: "title", widget: "string" }
+      - { label: "Menu label", name: "navLabel", widget: "string" }
+      - { label: "SEO title", name: "metaTitle", widget: "string" }
+      - { label: "Meta description", name: "description", widget: "text" }
+      - { label: "Menu order", name: "order", widget: "number", value_type: "int" }
+      - { label: "Body area", name: "area", widget: "string", hint: "Groups related procedures. Leave as is." }
+      - { label: "Short answer (shown at top, quoted by AI search)", name: "summary", widget: "text" }
+      - label: "FAQs"
+        name: "faqs"
+        widget: "list"
+        fields:
+          - { label: "Question", name: "q", widget: "string" }
+          - { label: "Answer", name: "a", widget: "text" }
+      - { label: "YouTube video IDs", name: "videos", widget: "list", required: false }
+      - { label: "Last reviewed", name: "updated", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Patient care and about pages"
+    folder: "content/pages"
+    create: false
+    delete: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title (H1)", name: "title", widget: "string" }
+      - { label: "SEO title", name: "metaTitle", widget: "string" }
+      - { label: "Meta description", name: "description", widget: "text" }
+      - { label: "YouTube video IDs", name: "videos", widget: "list", required: false }
+      - { label: "Last updated", name: "updated", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "settings"
+    label: "Practice details"
+    files:
+      - label: "Name, address, phone, hours"
+        name: "settings"
+        file: "content/settings.json"
+        fields:
+          - { label: "Practice name", name: "siteName", widget: "string" }
+          - { label: "Site URL (do not change)", name: "baseUrl", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string" }
+          - { label: "Phone (display)", name: "phone", widget: "string" }
+          - { label: "Phone (dialing, +1...)", name: "phoneE164", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Street", name: "street", widget: "string" }
+          - { label: "City", name: "city", widget: "string" }
+          - { label: "State", name: "region", widget: "string" }
+          - { label: "ZIP", name: "postalCode", widget: "string" }
+          - { label: "Latitude", name: "latitude", widget: "number", value_type: "float" }
+          - { label: "Longitude", name: "longitude", widget: "number", value_type: "float" }
+          - { label: "Google Maps embed URL (update with the address)", name: "mapEmbed", widget: "string" }
+          - label: "Hours"
+            name: "hours"
+            widget: "list"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Days (Mo,Tu,We,Th,Fr,Sa,Su)", name: "days", widget: "string" }
+              - { label: "Opens (24h)", name: "opens", widget: "string" }
+              - { label: "Closes (24h)", name: "closes", widget: "string" }
+          - { label: "Google Tag Manager ID", name: "gtmId", widget: "string" }
+          - label: "Social profiles"
+            name: "social"
+            widget: "list"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+          - label: "Doctor"
+            name: "doctor"
+            widget: "object"
+            fields:
+              - { label: "Display name", name: "name", widget: "string" }
+              - { label: "Full legal name", name: "fullName", widget: "string" }
+              - { label: "Credentials", name: "credentials", widget: "string" }
+              - { label: "Job title", name: "jobTitle", widget: "string" }
+              - { label: "Photo", name: "photo", widget: "string" }
+              - { label: "Certifying board", name: "board", widget: "string" }
+              - label: "Education"
+                name: "education"
+                widget: "list"
+                fields:
+                  - { label: "School", name: "school", widget: "string" }
+                  - { label: "Detail", name: "detail", widget: "string" }
+              - { label: "Profiles (LinkedIn etc.)", name: "sameAs", widget: "list" }
+
+  - name: "faq"
+    label: "FAQ page"
+    files:
+      - label: "All FAQs"
+        name: "faqs"
+        file: "content/faqs.json"
+        fields:
+          - label: "Questions"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: "Question", name: "q", widget: "string" }
+              - { label: "Answer", name: "a", widget: "text" }
