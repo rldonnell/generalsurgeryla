@@ -29,6 +29,7 @@ export type Doc = {
   navLabel?: string;
   order?: number;
   area?: string;
+  diagram?: string;
   summary?: string;
   faqs?: Faq[];
   // posts
@@ -86,6 +87,7 @@ function readDir(dir: string, kind: Doc['kind']): Doc[] {
         navLabel: data.navLabel,
         order: data.order,
         area: data.area,
+        diagram: data.diagram,
         summary: data.summary,
         faqs: data.faqs || [],
         date: data.date ? String(data.date) : undefined,

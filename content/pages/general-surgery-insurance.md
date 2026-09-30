@@ -49,13 +49,3 @@ UHC typically provides comprehensive coverage for outpatient general surgeries. 
 In addition, his team provides detailed pre-authorization support and transparent cost guidance for General Surgery Insurance, helping you understand exactly what is covered and what to expect before surgery. This proactive approach minimizes unexpected expenses and allows you to move forward with confidence and clarity. This means you receive a customized, cost-effective treatment plan designed to deliver the best possible functional and visual outcomes without unnecessary financial burden.
 
 Have questions about your provider? Arrange a consultation with **Dr. Moein** to review your insurance benefits and map out a clear route to recovery.
-
-Clinic: General Surgery LA
-
-Address: 2080 Century Park East, Suite 501, Los Angeles, CA 90067
-
-Telephone: (310) 455-8020
-
-Email: info@generalsurgeryla.com
-
-Hours: Mon-Fri, 9:00 AM - 5:00 PM

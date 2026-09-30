@@ -44,15 +44,15 @@ export default function Header() {
         <details className="menu-toggle">
           <summary>Menu</summary>
           <div className="mobile-menu">
-            <h2>Procedures</h2>
+            <p className="menu-title">Procedures</p>
             {procs.map((p) => (
               <Link key={p.slug} href={`/${p.slug}/`}>{p.navLabel}</Link>
             ))}
-            <h2>Patient care</h2>
+            <p className="menu-title">Patient care</p>
             {patientCare.map((l) => (
               <Link key={l.href} href={l.href}>{l.label}</Link>
             ))}
-            <h2>Practice</h2>
+            <p className="menu-title">Practice</p>
             <Link href="/general-surgeon-dr-babak-moein/">About Dr. Moein</Link>
             <Link href="/blog/">Blog</Link>
             <Link href="/contact-us/">Contact</Link>

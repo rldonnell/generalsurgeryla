@@ -5,6 +5,7 @@ import ConsultForm from '@/components/ConsultForm';
 import Crumbs from '@/components/Crumbs';
 import FaqList from '@/components/FaqList';
 import JsonLd from '@/components/JsonLd';
+import HerniaMap from '@/components/HerniaMap';
 import Video from '@/components/Video';
 import videoTitles from '@/content/videos.json';
 import { getDoc, getPages, getPosts, getProcedures, settings as s } from '@/lib/content';
@@ -27,9 +28,13 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
       title: d.metaTitle,
       description: d.description,
       url: `/${d.slug}/`,
+      siteName: s.siteName,
+      locale: 'en_US',
       type: d.kind === 'post' ? 'article' : 'website',
+      images: [{ url: '/og-default.png', width: 1200, height: 630, alt: `${s.siteName}, ${s.doctor.name}` }],
       ...(d.kind === 'post' ? { publishedTime: d.date, modifiedTime: d.updated } : {}),
     },
+    twitter: { card: 'summary_large_image', title: d.metaTitle, description: d.description, images: ['/og-default.png'] },
   };
 }
 
@@ -82,6 +87,7 @@ export default function DocPage({ params }: { params: { slug: string } }) {
 
         <div className="layout">
           <article>
+            {d.diagram === 'hernia' && <HerniaMap />}
             <div className="prose" dangerouslySetInnerHTML={{ __html: d.html }} />
 
             {d.videos.length > 0 && (
@@ -109,14 +115,14 @@ export default function DocPage({ params }: { params: { slug: string } }) {
 
           <aside className="aside" aria-label="Contact and related pages">
             <div className="aside-card">
-              <h2>See Dr. Moein in Century City</h2>
+              <p className="aside-title">See Dr. Moein in Century City</p>
               <p>Consultations in person or by video. Call to check your insurance before your visit.</p>
               <a className="btn btn-marker" href={`tel:${s.phoneE164}`}>Call {s.phone}</a>
               <a className="btn btn-line" href="#request">Request a consultation</a>
             </div>
             {d.headings.length > 2 && (
               <nav className="aside-card toc" aria-label="On this page">
-                <h2>On this page</h2>
+                <p className="aside-title">On this page</p>
                 <ol>
                   {d.headings.map((h) => (
                     <li key={h.id}><a href={`#${h.id}`}>{h.text}</a></li>
@@ -125,7 +131,7 @@ export default function DocPage({ params }: { params: { slug: string } }) {
               </nav>
             )}
             <nav className="aside-card" aria-label="Related procedures">
-              <h2 style={{ fontSize: '1.05rem', fontFamily: 'var(--font-body)', fontWeight: 700 }}>Related procedures</h2>
+              <p className="aside-title small">Related procedures</p>
               <ul className="related">
                 {related.map((p) => (
                   <li key={p.slug}><Link href={`/${p.slug}/`}>{p.navLabel}</Link></li>

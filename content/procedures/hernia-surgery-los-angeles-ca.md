@@ -1,8 +1,8 @@
 ---
 title: Hernia Surgery Los Angeles, CA
 navLabel: Hernia Surgery
-metaTitle: Hernia Surgery Los Angeles | Advanced Hernia Treatment
-description: Dr. Moein offers expert hernia surgery in Los Angeles with advanced minimally invasive treatment and personalized care.
+metaTitle: Hernia Surgery Los Angeles | Dr. Babak Moein, MD, FACS
+description: Hernia surgery in Los Angeles with Dr. Babak Moein, a board-certified general surgeon. Minimally invasive repair in Century City. Call (310) 861-4093.
 order: 1
 area: abdomen
 summary: Hernia surgery repairs a weak spot in the abdominal wall where tissue pushes through. Most hernias do not heal on their own and tend to grow, so repair is usually recommended once a hernia causes pain or gets bigger. Dr. Moein repairs most hernias laparoscopically or with robotic assistance, and most patients go home the same day and return to full activity in four to six weeks.
@@ -15,10 +15,15 @@ faqs:
   a: Recovery after hernia surgery depends on the type of hernia, the surgical approach, and the patient’s general health. Many patients return to light activities within a few days and resume office-type work within one to two weeks. More strenuous activity and heavy lifting usually require a longer recovery period, based on the surgeon’s recommendations.
 - q: What is the difference between open and laparoscopic hernia surgery?
   a: Open hernia surgery is performed through a larger incision over the affected area, while laparoscopic hernia surgery uses several small incisions and a camera to repair the hernia internally. Laparoscopic surgery may result in less postoperative discomfort and a faster return to normal activities for some patients, while open surgery may still be the best choice in selected or more complex cases.
+- q: Does insurance cover hernia surgery?
+  a: Most insurance plans cover repair of a symptomatic hernia because it is a medically necessary operation. Coverage, deductibles, and prior authorization requirements vary by plan, so it is best to confirm your benefits before scheduling. Our office can help you review them.
+- q: How much does hernia surgery cost?
+  a: The cost depends on the type of hernia, the surgical approach, whether mesh is used, and facility and anesthesia fees. With insurance, your share depends on your deductible and coverage. If you pay out of pocket, ask for an itemized quote. Call our office to talk through your situation.
 videos:
 - LBf5wMnscoo
 - cxfStNZWcwU
 updated: '2026-09-29'
+diagram: hernia
 ---
 
 Hernia surgery is a common procedure for treating a condition in which a body part protrudes through a weakened area in the surrounding tissue. It is characterized by a noticeable bulge and discomfort. Although some hernias do not display signs of discomfort, most of them will need to undergo surgery in order to prevent serious complications such as strangulation or bowel blockage.
@@ -49,15 +54,15 @@ Watch for digestive issues like bloating or heartburn. **Sudden, severe pain** a
 
 ### Inguinal Hernia
 
-[Inguinal Hernia Surgery](/inguinal-hernia-surgery-in-los-angeles-ca/) is the most common type, occurring when tissue pushes through a weak spot in the **lower abdominal wall or groin**. Dr. Moein typically treats these hernias using advanced **laparoscopic repair** to support a faster recovery.
+[Inguinal Hernia Surgery](/inguinal-hernia-surgery-in-los-angeles-ca/) is the most common type, occurring when tissue pushes through a weak spot in the **lower abdominal wall or groin**. Dr. Moein typically treats these hernias using advanced **laparoscopic repair** to support a faster recovery. Read more about [when inguinal hernia surgery becomes necessary](/inguinal-hernia-when-surgery-becomes-necessary/).
 
 ### Umbilical Hernia
 
-This develops **near the belly button** when part of the intestine protrudes through the abdominal muscles. Common in both infants and adults, surgical repair is used to **restore abdominal strength**.
+This develops **near the belly button** when part of the intestine protrudes through the abdominal muscles. Common in both infants and adults, surgical repair is used to **restore abdominal strength**. Our [guide to umbilical hernia repair in adults](/umbilical-hernia-adults-2026-guide/) explains when surgery is needed.
 
 ### Hiatal Hernia
 
-Happens when part of the stomach pushes up through the **diaphragm into the chest cavity**. It often causes severe **acid reflux and heartburn**, which are effectively treated with minimally invasive techniques.
+Happens when part of the stomach pushes up through the **diaphragm into the chest cavity**. It often causes severe **acid reflux and heartburn**, which are effectively treated with minimally invasive techniques. See [hiatal hernia surgery](/expert-hiatal-hernia-surgery-in-los-angeles/) and [paraesophageal hernia repair](/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/).
 
 ### Incisional Hernia
 
@@ -97,7 +102,7 @@ For larger or more complicated hernias, traditional open repair remains a highly
 
 ### Mesh Reinforcement
 
-High-quality medical mesh is used when necessary to strengthen weakened tissues and reduce recurrence. **Benefits:** Long-term durability and lower re-herniation risk.
+High-quality medical mesh is used when necessary to strengthen weakened tissues and reduce recurrence. **Benefits:** Long-term durability and lower re-herniation risk. Our article on [mesh vs non-mesh repair](/hernia-mesh-vs-non-mesh-repair-2026/) explains how that decision is made.
 
 ### Emergency Hernia Repair
 
@@ -124,6 +129,12 @@ At this stage, most patients can resume light work and daily routines. You will 
 
 This is the milestone where you can return to sports and full physical activity. Transitioning back to high-impact exercise should only be done after receiving final clearance from **Dr. Moein**.
 
+## Hernia Surgery Cost and Insurance in Los Angeles
+
+The cost of hernia surgery depends on the type of hernia, whether the repair is laparoscopic, robotic, or open, whether mesh is used, and the facility and anesthesia fees. Repair of a symptomatic hernia is a medically necessary operation, and most insurance plans cover it. Coverage, deductibles, and authorization requirements vary by plan, so the office can help you review your benefits before your visit.
+
+If you pay out of pocket, ask for an itemized quote that lists the surgeon fee, anesthesia, facility, and mesh separately. You can read more on our [insurance](/general-surgery-insurance/) and [financing](/general-surgery-financing/) pages. For detailed care instructions, see [before and after surgery](/pre-and-post-instructions/).
+
 ## Why Choose General Surgery LA and Dr. Babak Moein?
 
 Selecting a hernia specialist is a decision that impacts comfort, recovery, and long-term outcomes. Care at **General Surgery LA** is led by **Dr. Babak Moein**, a board-certified **general surgeon**, with years of experience treating straightforward and complex hernias.
@@ -134,3 +145,9 @@ Patients benefit from evidence-based protocols, minimally invasive options where
 
 Expert hernia repair by Dr. Moein using advanced minimally invasive and robotic techniques, designed to reduce pain, accelerate recovery, and deliver durable, long-term results. Each treatment plan is tailored to restore your comfort and help you return safely to your daily activities.
 [Book your consultation](/contact-us/) today and take the next step toward lasting relief and improved quality of life.
+
+## Sources and Further Reading
+
+* [Hernia, MedlinePlus Medical Encyclopedia (U.S. National Library of Medicine)](https://medlineplus.gov/ency/article/000960.htm)
+* [International guidelines for groin hernia management, HerniaSurge Group, Hernia 2018](https://pubmed.ncbi.nlm.nih.gov/29330835/)
+* [Update of the international HerniaSurge guidelines for groin hernia management, BJS Open 2023](https://doi.org/10.1093/bjsopen/zrad080)

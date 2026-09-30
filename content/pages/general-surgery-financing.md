@@ -6,7 +6,7 @@ videos: []
 updated: '2026-09-29'
 ---
 
-> At **General Surgery LA**, we believe that financial constraints should never stand in the way of high-quality surgical care. For elective procedures or patients without insurance, we offer a variety of flexible financing options designed to fit your budget. Our goal is to provide transparent pricing and manageable payment plans, allowing you to prioritize your health and aesthetic goals with total peace of mind.
+> At **General Surgery LA**, we believe that financial constraints should never stand in the way of high-quality surgical care. For elective procedures or patients without insurance, we offer a variety of flexible financing options designed to fit your budget. Our goal is to provide transparent pricing and manageable payment plans, allowing you to prioritize your health with total peace of mind.
 
 ## General Surgery Financing
 
@@ -43,16 +43,6 @@ We proudly accept **CareCredit**, the leading healthcare credit card. It allows 
 For your convenience, we accept all major credit cards, HSA (Health Savings Accounts), and FSA (Flexible Spending Accounts) to help you utilize your pre-tax dollars for surgical care.
 
 Seeking a definitive repair plan with flexible payment options? Arrange a consultation with **Dr. Moein** to discuss our financing packages.
-
-Clinic: General Surgery LA
-
-Address: 2080 Century Park East, Suite 501, Los Angeles, CA 90067
-
-Telephone: (310) 455-8020
-
-Email: info@generalsurgeryla.com
-
-Hours: Mon-Fri, 9:00 AM - 5:00 PM
 
 ## Financial Transparency: Optimized Care and Coverage in Los Angeles
 

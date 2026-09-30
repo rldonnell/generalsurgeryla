@@ -81,13 +81,3 @@ What sets him apart is his focus on minimally invasive technique. He performs es
 As a result, patients can expect strong medical outcomes with **minimal scarring** and a faster return to normal life.
 
 Do you have questions about your upcoming surgery or need guidance during your recovery? Schedule a consultation with **Dr. Moein** to ensure your surgical plan is clear and your path to healing is optimized.
-
-Clinic: General Surgery LA
-
-Address: 2080 Century Park East, Suite 501, Los Angeles, CA 90067
-
-Telephone: (310) 455-8020
-
-Email: info@generalsurgeryla.com
-
-Hours: Mon-Fri, 9:00 AM - 5:00 PM

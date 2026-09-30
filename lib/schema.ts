@@ -1,4 +1,6 @@
 import { settings as s, Doc, Faq, url } from './content';
+import videoTitles from '@/content/videos.json';
+import videoDates from '@/content/video-dates.json';
 
 const base = s.baseUrl;
 export const IDS = {
@@ -43,7 +45,7 @@ export function siteGraph(procedures: Doc[]) {
         availableService: procedures.map((p) => ({ '@type': 'MedicalProcedure', name: p.navLabel, url: url(p.slug) })),
         employee: { '@id': IDS.physician },
         founder: { '@id': IDS.physician },
-        sameAs: s.social.length ? s.social.map((x) => x.url) : undefined,
+        sameAs: [...s.social.map((x) => x.url), ...(s.gbpUrl ? [s.gbpUrl] : [])].length ? [...s.social.map((x) => x.url), ...(s.gbpUrl ? [s.gbpUrl] : [])] : undefined,
       },
       {
         '@type': 'Physician',
@@ -58,6 +60,7 @@ export function siteGraph(procedures: Doc[]) {
         telephone: s.phoneE164,
         address,
         medicalSpecialty: 'Surgical',
+        knowsAbout: ['Hernia repair', 'Laparoscopic surgery', 'Cholecystectomy (gallbladder removal)', 'Appendectomy'],
         worksFor: { '@id': IDS.clinic },
         memberOf: { '@type': 'Organization', name: 'American College of Surgeons' },
         hasCredential: {
@@ -79,6 +82,55 @@ export function siteGraph(procedures: Doc[]) {
     ],
   };
 }
+
+type Cond = { name: string; alt?: string[]; symptoms: string[]; risks?: string[]; anatomy: string; bodyLocation: string; prep: string; followup: string };
+const CONDITIONS: Record<string, Cond> = {
+  'hernia-surgery-los-angeles-ca': {
+    name: 'Hernia', alt: ['Abdominal wall hernia'],
+    symptoms: ['Visible bulge or swelling', 'Pain or discomfort at the site', 'Heaviness or pressure in the abdomen or groin', 'Bulge that is worse when standing or coughing'],
+    risks: ['Heavy lifting', 'Chronic coughing', 'Obesity', 'Straining during bowel movements', 'Previous abdominal surgery'],
+    anatomy: 'Abdominal wall', bodyLocation: 'Abdominal wall',
+    prep: 'Pre-operative evaluation, medication review, and fasting before anesthesia.',
+    followup: 'Post-operative check of healing, with lifting restrictions during recovery. Most patients return to full activity in four to six weeks.',
+  },
+  'inguinal-hernia-surgery-in-los-angeles-ca': {
+    name: 'Inguinal hernia', alt: ['Groin hernia'],
+    symptoms: ['Bulge in the groin', 'Groin pain or heaviness, worse with lifting or coughing'],
+    risks: ['Male sex', 'Family history of hernia', 'Chronic cough', 'Straining'],
+    anatomy: 'Groin', bodyLocation: 'Groin',
+    prep: 'Pre-operative evaluation, medication review, and fasting before anesthesia.',
+    followup: 'Post-operative check of healing. Many patients return to desk work within about a week.',
+  },
+  'expert-hiatal-hernia-surgery-in-los-angeles': {
+    name: 'Hiatal hernia',
+    symptoms: ['Heartburn and acid reflux', 'Regurgitation', 'Chest pressure or discomfort', 'Difficulty swallowing', 'Feeling full quickly'],
+    anatomy: 'Diaphragm and stomach', bodyLocation: 'Upper abdomen and diaphragm',
+    prep: 'Diagnostic testing such as endoscopy and a review of reflux symptoms.',
+    followup: 'Gradual return to a normal diet and activity, guided by the surgeon.',
+  },
+  'laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca': {
+    name: 'Paraesophageal hernia', alt: ['Type II to IV hiatal hernia'],
+    symptoms: ['Chest pain after meals', 'Difficulty swallowing', 'Feeling full quickly', 'Reflux'],
+    anatomy: 'Stomach and diaphragm', bodyLocation: 'Upper abdomen and diaphragm',
+    prep: 'Diagnostic testing such as endoscopy and imaging, and fasting before anesthesia.',
+    followup: 'Gradual return to a normal diet and activity, guided by the surgeon.',
+  },
+  'gallbladder-surgery-in-los-angeles': {
+    name: 'Gallstones', alt: ['Cholelithiasis', 'Gallbladder disease'],
+    symptoms: ['Pain in the upper right abdomen, often after fatty meals', 'Nausea', 'Pain that spreads to the back or right shoulder'],
+    risks: ['Rapid weight loss', 'Obesity', 'Female sex', 'Family history of gallstones'],
+    anatomy: 'Gallbladder', bodyLocation: 'Gallbladder',
+    prep: 'Ultrasound or other imaging, and fasting before anesthesia.',
+    followup: 'Post-operative check of healing and guidance on returning to a normal diet and activity.',
+  },
+  'laparoscopic-appendectomy-in-los-angeles': {
+    name: 'Appendicitis',
+    symptoms: ['Pain that starts near the belly button and moves to the lower right abdomen', 'Nausea', 'Fever', 'Loss of appetite'],
+    anatomy: 'Appendix', bodyLocation: 'Appendix',
+    prep: 'Urgent evaluation and imaging as needed.',
+    followup: 'Post-operative check of healing. Most patients with uncomplicated appendicitis return to light activity within about a week.',
+  },
+};
 
 const DAY: Record<string, string> = {
   Mo: 'Monday', Tu: 'Tuesday', We: 'Wednesday', Th: 'Thursday', Fr: 'Friday', Sa: 'Saturday', Su: 'Sunday',
@@ -113,6 +165,7 @@ export function docGraph(doc: Doc) {
   const pageUrl = url(doc.slug);
   const graph: Record<string, unknown>[] = [];
   const reviewed = { '@id': IDS.physician };
+  const cond = CONDITIONS[doc.slug];
 
   if (doc.kind === 'procedure') {
     graph.push({
@@ -122,7 +175,7 @@ export function docGraph(doc: Doc) {
       name: doc.metaTitle,
       description: doc.description,
       isPartOf: { '@id': IDS.website },
-      about: { '@id': `${pageUrl}#procedure` },
+      about: { '@id': cond ? `${pageUrl}#condition` : `${pageUrl}#procedure` },
       mainEntity: { '@id': `${pageUrl}#procedure` },
       author: reviewed,
       reviewedBy: reviewed,
@@ -142,7 +195,21 @@ export function docGraph(doc: Doc) {
       howPerformed: doc.summary,
       availableAtOrFrom: { '@id': IDS.clinic },
       performer: reviewed,
+      ...(cond ? { bodyLocation: cond.bodyLocation, preparation: cond.prep, followup: cond.followup } : {}),
     });
+    if (cond) {
+      graph.push({
+        '@type': 'MedicalCondition',
+        '@id': `${pageUrl}#condition`,
+        name: cond.name,
+        ...(cond.alt ? { alternateName: cond.alt } : {}),
+        url: pageUrl,
+        signOrSymptom: cond.symptoms.map((n) => ({ '@type': 'MedicalSymptom', name: n })),
+        ...(cond.risks ? { riskFactor: cond.risks.map((n) => ({ '@type': 'MedicalRiskFactor', name: n })) } : {}),
+        associatedAnatomy: { '@type': 'AnatomicalStructure', name: cond.anatomy },
+        possibleTreatment: { '@id': `${pageUrl}#procedure` },
+      });
+    }
     if (doc.faqs?.length) graph.push(faqPage(doc.faqs, pageUrl));
     graph.push(breadcrumbs([{ name: 'Home', path: '/' }, { name: 'Procedures', path: '/#procedures' }, { name: doc.navLabel || doc.title, path: `/${doc.slug}/` }]));
   } else if (doc.kind === 'post') {
@@ -178,6 +245,21 @@ export function docGraph(doc: Doc) {
     });
     graph.push(breadcrumbs([{ name: 'Home', path: '/' }, { name: doc.title, path: `/${doc.slug}/` }]));
   }
-  // VideoObject intentionally omitted until real upload dates are confirmed (see README).
+  // VideoObject only when a real upload date is on file (content/video-dates.json). Google requires uploadDate.
+  const dates = videoDates as Record<string, string>;
+  const titles = videoTitles as Record<string, string>;
+  for (const id of doc.videos) {
+    if (!dates[id]) continue;
+    graph.push({
+      '@type': 'VideoObject',
+      name: titles[id] || doc.title,
+      description: `${titles[id] || doc.title}. Dr. Babak Moein explains.`,
+      thumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+      embedUrl: `https://www.youtube-nocookie.com/embed/${id}`,
+      contentUrl: `https://www.youtube.com/watch?v=${id}`,
+      uploadDate: dates[id],
+      publisher: { '@id': IDS.clinic },
+    });
+  }
   return { '@context': 'https://schema.org', '@graph': graph };
 }

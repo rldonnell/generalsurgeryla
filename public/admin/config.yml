@@ -38,6 +38,7 @@ collections:
       - { label: "Meta description", name: "description", widget: "text" }
       - { label: "Menu order", name: "order", widget: "number", value_type: "int" }
       - { label: "Body area", name: "area", widget: "string", hint: "Groups related procedures. Leave as is." }
+      - { label: "Diagram (leave blank unless told)", name: "diagram", widget: "string", required: false }
       - { label: "Short answer (shown at top, quoted by AI search)", name: "summary", widget: "text" }
       - label: "FAQs"
         name: "faqs"
@@ -91,6 +92,7 @@ collections:
               - { label: "Days (Mo,Tu,We,Th,Fr,Sa,Su)", name: "days", widget: "string" }
               - { label: "Opens (24h)", name: "opens", widget: "string" }
               - { label: "Closes (24h)", name: "closes", widget: "string" }
+          - { label: "Google Business Profile URL (add once the profile is verified)", name: "gbpUrl", widget: "string", required: false }
           - { label: "Google Tag Manager ID", name: "gtmId", widget: "string" }
           - label: "Social profiles"
             name: "social"

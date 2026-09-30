@@ -23,15 +23,15 @@ export default function Footer() {
             </p>
           </div>
           <div>
-            <h2>Procedures</h2>
+            <p className="footer-title">Procedures</p>
             <ul>{procs.map((p) => <li key={p.slug}><Link href={`/${p.slug}/`}>{p.navLabel}</Link></li>)}</ul>
           </div>
           <div>
-            <h2>Patient care</h2>
+            <p className="footer-title">Patient care</p>
             <ul>{patientCare.map((l) => <li key={l.href}><Link href={l.href}>{l.label}</Link></li>)}</ul>
           </div>
           <div>
-            <h2>Practice</h2>
+            <p className="footer-title">Practice</p>
             <ul>
               <li><Link href="/general-surgeon-dr-babak-moein/">About Dr. Moein</Link></li>
               <li><Link href="/blog/">Blog</Link></li>

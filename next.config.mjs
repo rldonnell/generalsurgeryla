@@ -9,6 +9,8 @@ const nextConfig = {
       { source: '/lipoma-removal-los-angeles', destination: '/', permanent: true },
       { source: '/colonoscopy-and-endoscopy-los-angeles', destination: '/', permanent: true },
       { source: '/vascular-access-in-los-angeles', destination: '/', permanent: true },
+      { source: '/hemorrhoid-treatment-and-surgery-when-you-need-it-and-what-to-expect', destination: '/blog/', permanent: true },
+      { source: '/contact', destination: '/contact-us/', permanent: true },
       { source: '/hello-world', destination: '/blog/', permanent: true },
       { source: '/category/:path*', destination: '/blog/', permanent: true },
       { source: '/feed', destination: '/blog/', permanent: true },
@@ -25,6 +27,12 @@ const nextConfig = {
   },
   async headers() {
     return [
+      {
+        // Preview and *.vercel.app addresses must never compete with the real domain.
+        source: '/:path*',
+        has: [{ type: 'host', value: '(.*)\\.vercel\\.app' }],
+        headers: [{ key: 'X-Robots-Tag', value: 'noindex, nofollow' }],
+      },
       {
         source: '/:path*',
         headers: [

@@ -77,7 +77,7 @@ With over 20 years of surgical experience, [Dr. Moein](/general-surgeon-dr-babak
   * **Advanced Technology:** State-of-the-art laparoscopic and robotic surgical platforms
   * **Emergency Availability:** 24/7 access for urgent consultations and emergency surgery
   * **Comprehensive Team:** Anesthesiologists and nurses specialized in foregut surgery
-  * **Beverly Hills Location:** Convenient access with premium surgical facilities
+  * **Century City Location:** Convenient access from across Los Angeles
   * **Insurance Accepted:** Working with most major insurance plans for coverage
 
 Dr. Moein provides specialized care using advanced laparoscopic and robotic techniques for complex hernia repairs, ensuring optimal outcomes and faster recovery. [Book your consultation](/contact-us/) today to take a crucial step toward safe, effective treatment and lasting relief.
