@@ -7,7 +7,7 @@ import { allFaqs, getProcedures, settings as s } from '@/lib/content';
 import { faqPage } from '@/lib/schema';
 
 export const metadata = {
-  title: 'Los Angeles General Surgeon | Hernia & Gallbladder | Dr. Moein',
+  title: 'General Surgeon in Los Angeles | Dr. Moein | Hernia & Gallbladder',
   description:
     'Board-certified general surgeon Dr. Babak Moein performs minimally invasive hernia, gallbladder and appendix surgery in Century City, Los Angeles.',
   alternates: { canonical: '/' },
@@ -35,8 +35,9 @@ export default function Home() {
           <div>
             <h1>General surgery in <span className="nowrap">Los Angeles</span>, through the smallest incision that works.</h1>
             <p className="lede">
-              Dr. Babak Moein treats hernias, gallbladder disease and appendicitis with laparoscopic and robotic
-              techniques in Century City. Many patients go home the same day.
+              Dr. Babak Moein is a board-certified general surgeon in Century City. His general surgery practice treats
+              hernias, gallbladder disease and appendicitis with laparoscopic and robotic techniques. Many patients go home
+              the same day.
             </p>
             <div className="actions">
               <a className="btn btn-marker" href={`tel:${s.phoneE164}`}>Call {s.phone}</a>
@@ -59,8 +60,12 @@ export default function Home() {
       <section className="section band" id="procedures">
         <div className="wrap">
           <div className="section-head">
-            <h2>Procedures</h2>
-            <p>Each page explains the condition, how the operation is done, and what recovery looks like, in plain language.</p>
+            <h2>General surgery services in Los Angeles</h2>
+            <p>
+              Dr. Moein&rsquo;s general surgery services include hernia repair (inguinal, hiatal and paraesophageal), gallbladder
+              surgery and laparoscopic appendectomy. Each page explains the condition, how the operation is done, and what
+              recovery looks like, in plain language.
+            </p>
           </div>
           <ul className="proc-index">
             {procs.map((p) => (
@@ -81,7 +86,7 @@ export default function Home() {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/images/dr-moein-3.webp" alt={`${s.doctor.name}, ${s.doctor.credentials}`} width={489} height={630} loading="lazy" />
           <div>
-            <h2>Your surgeon, from first visit to final check-up</h2>
+            <h2>Your Los Angeles general surgeon, from first visit to final check-up</h2>
             <p style={{ marginTop: '1rem', maxWidth: '60ch' }}>
               Dr. Moein is a Los Angeles native and a Fellow of the American College of Surgeons with more than 20 years of surgical
               experience. He focuses on minimally invasive abdominal surgery and follows each patient through recovery.
@@ -106,7 +111,7 @@ export default function Home() {
       <section className="section band">
         <div className="wrap">
           <div className="section-head">
-            <h2>Minimally invasive or open surgery?</h2>
+            <h2>Minimally invasive or open general surgery?</h2>
             <p>
               Dr. Moein uses laparoscopic or robotic techniques whenever they are safe for your case. Open surgery is still the right
               choice for some large or complicated repairs.
@@ -148,7 +153,7 @@ export default function Home() {
       <section className="section">
         <div className="wrap">
           <div className="section-head">
-            <h2>Common questions</h2>
+            <h2>Common questions about general surgery</h2>
             <p><Link href="/frequently-asked-question/">See all questions</Link></p>
           </div>
           <FaqList faqs={homeFaqs} />
