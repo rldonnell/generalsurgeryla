@@ -33,7 +33,7 @@ export default function Home() {
       <section className="hero">
         <div className="wrap">
           <div>
-            <h1>General surgery in Los Angeles, through the smallest incision that works.</h1>
+            <h1>General surgery in <span className="nowrap">Los Angeles</span>, through the smallest incision that works.</h1>
             <p className="lede">
               Dr. Babak Moein treats hernias, gallbladder disease and appendicitis with laparoscopic and robotic
               techniques in Century City. Many patients go home the same day.
