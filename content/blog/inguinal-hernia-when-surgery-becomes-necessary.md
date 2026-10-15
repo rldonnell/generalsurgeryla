@@ -120,6 +120,6 @@ The honest framework for deciding when to have surgery:
 
 For most patients, the decision isn't whether to have surgery, it's when. Done by a board-certified general surgeon in an accredited facility, inguinal hernia repair has excellent outcomes and a recovery curve that fits into a normal life.
 
-If you're trying to figure out whether your situation calls for surgery now or watchful waiting, schedule a consultation through our [consultation request form](/contact/). The first conversation is about your specific anatomy and your specific symptoms, not a default to one answer.
+If you're trying to figure out whether your situation calls for surgery now or watchful waiting, schedule a consultation through our [consultation request form](/contact-us/). The first conversation is about your specific anatomy and your specific symptoms, not a default to one answer.
 
 _General Surgery Los Angeles provides board-certified general surgical care, specializing in hernia repair, gallbladder surgery, and abdominal wall reconstruction._

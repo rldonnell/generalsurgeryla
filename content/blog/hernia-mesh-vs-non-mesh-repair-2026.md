@@ -116,6 +116,6 @@ Hernia mesh in 2026 is well-studied, well-understood, and the standard of care f
 
 Non-mesh repair is the right answer for specific patients in specific situations. The decision should be made with full information about your hernia type, your anatomy, your other health factors, and what tradeoffs you actually want to make.
 
-If you're trying to figure out which approach fits your situation, schedule a consultation through our [consultation request form](/contact/). The right plan starts with an honest conversation, not a default to one technique.
+If you're trying to figure out which approach fits your situation, schedule a consultation through our [consultation request form](/contact-us/). The right plan starts with an honest conversation, not a default to one technique.
 
 _General Surgery Los Angeles provides board-certified general surgical care, specializing in hernia repair, gallbladder surgery, and abdominal wall reconstruction._

@@ -140,6 +140,6 @@ Gallbladder surgery in 2026 is a well-refined operation with excellent long-term
 
 The patients who do best are the ones who arrive with realistic expectations about the first week (especially the shoulder pain and the bowel adaptation period), follow lifting restrictions during the muscle-healing phase, and call their surgeon for any concerning symptom rather than waiting.
 
-If you have gallbladder symptoms and want a candid conversation about whether surgery is the right next step, contact our team through the [consultation request form](/contact/).
+If you have gallbladder symptoms and want a candid conversation about whether surgery is the right next step, contact our team through the [consultation request form](/contact-us/).
 
 _General Surgery Los Angeles provides board-certified general surgical care, specializing in gallbladder surgery, hernia repair, and abdominal wall reconstruction._
