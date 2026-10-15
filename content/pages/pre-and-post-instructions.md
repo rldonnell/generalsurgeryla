@@ -7,7 +7,7 @@ videos:
 updated: '2026-09-29'
 ---
 
-At **General Surgery LA,** we value your safety and wish to make your recovery as seamless as possible. This guide is to help you prepare for your procedure and support your recovery at home. Although we have provided instructions for most general surgeries, including hernia repairs and anti-reflux procedures, we always advise you to follow any individual instructions from **Dr. Babak Moein**.
+At **General Surgery LA,** we value your safety and wish to make your recovery as seamless as possible. This guide is to help you prepare for your procedure and support your recovery at home. Although we have provided instructions for most general surgeries, including hernia repairs and anti-reflux procedures, we always advise you to follow any individual instructions from **Dr. Babak Moein**. Our surgical services start with a clear plan for the day before, the day of, and the days after your operation.
 
 ## Pre-Operative Preparation: Before General Surgery
 
@@ -17,8 +17,8 @@ To ensure your journey to recovery is seamless, your surgery begins long before 
 
   * **Strict Fasting (NPO):** Do not consume any food, water, candy, or gum after midnight on the eve of your surgery. An empty stomach is a critical safety requirement for general anesthesia.
   * **Medication Review:** Certain medications, particularly blood thinners and specific herbal supplements, must be discontinued 7-10 days prior to your appointment.
-  * **Skin Preparation:** Showering with antibacterial soap the night before and the morning of surgery significantly lowers the risk of post-operative infection.
-  * **Support System:** You must arrange for a responsible adult to drive you home and assist you during the first 24 hours of your immediate post-surgery phase.
+  * **Skin Preparation:** Showering with antibacterial soap the night before and the morning of surgery significantly lowers the risk of post-operative infection. Lay out loose, comfortable clothes for the day of surgery.
+  * **Support System:** You must arrange for a responsible adult to drive you home from the hospital and assist you during the first 24 hours of your immediate post-surgery phase. Plan for someone to stay with you the day of surgery and the day after.
 
 ### Procedure-Specific Considerations
 

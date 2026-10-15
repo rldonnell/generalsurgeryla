@@ -9,13 +9,13 @@ excerpt: 'What gallbladder surgery recovery really looks like, day by day: shoul
 
 Most patients are told gallbladder surgery is "routine, in and out, easy recovery." That's mostly true. Mostly. The part that gets glossed over is what the first six weeks actually look like, day by day, when you're the one living through it.
 
-Laparoscopic cholecystectomy (gallbladder removal) is one of the most common operations performed in the US. The recovery is genuinely easier than open abdominal surgery. But "easier" still includes a real recovery curve, with predictable rough patches that patients aren't always warned about.
+Laparoscopic cholecystectomy (gallbladder removal) is one of the most common operations performed in the US. The recovery is genuinely easier than open abdominal surgery. But "easier" still includes a real recovery curve, with predictable rough patches that patients aren't always warned about. Your digestive system needs a little time to adjust, so what you eat early on matters.
 
 Here's the honest week-by-week timeline.
 
 ## Day of surgery (Day 0)
 
-You arrive in the morning, surgery takes 30-90 minutes (longer if anatomy is complex or stones have caused inflammation), recovery in PACU runs 1-2 hours. Most patients go home the same day.
+You arrive in the morning, surgery takes 30-90 minutes (longer if anatomy is complex or stones have caused inflammation), recovery in PACU runs 1-2 hours. Most patients go home the same day. Gallbladder removal is usually an outpatient operation, so you leave the hospital the same day.
 
 You'll have 3-4 small incisions, typically about half an inch each, with surgical glue or absorbable sutures. No drains usually. Pain is manageable with prescription medication for the first 48 hours. The most surprising sensation isn't pain at the incisions; it's **shoulder pain** from the CO2 gas used to inflate the abdomen during laparoscopy. The gas takes 24-48 hours to absorb, and during that time the diaphragm refers pain to the shoulder. It's normal and self-limiting.
 
@@ -35,12 +35,12 @@ What to do:
 
   * Walk short distances every couple of hours. Even a lap around the living room helps. Movement prevents blood clots and clears the residual CO2 faster.
   * Drink water aggressively
-  * Eat small, light, low-fat meals. Your bile flow has changed; fatty meals in the first week often cause diarrhea
+  * Eat small, light, low-fat meals. Your bile flow has changed; fatty meals in the first week often cause diarrhea Plain foods like rice, toast and baked chicken are easy on your digestive system.
   * Stool softeners (over-the-counter) help with the inevitable opioid constipation
 
 ## Days 4-7: the corner turn
 
-By day 4, most patients feel meaningfully better. Pain has dropped to soreness rather than sharp pain. Most patients transition off prescription pain medication to acetaminophen or ibuprofen between days 3 and 5.
+By day 4, most patients feel meaningfully better. Pain has dropped to soreness rather than sharp pain. Most patients transition off prescription pain medication to acetaminophen or ibuprofen between days 3 and 5. That is typical after gallbladder removal, though everyone heals at their own pace.
 
 You can usually:
 

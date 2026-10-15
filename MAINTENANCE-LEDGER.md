@@ -54,3 +54,8 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - First report: home page, keyword "general surgeon in los angeles", POP score 19.36.
 - Batch runner: `node scripts/pop-batch.mjs` runs every page in pop-keywords.json (about 2 POP calls and 3 to 6 minutes per page) and writes pop-reports/summary-DATE.csv. Run it in your own terminal, it can be stopped and resumed. Keywords in pop-keywords.json are drafts chosen by Claude, review before relying on them. Add new pages and posts to that file.
 - Home page POP score after first copy pass: 19.36 to 38.84 (Oct 14, 2026).
+
+## Interlinking map (Oct 15, 2026)
+- `lib/links.ts` decides which blog posts and procedure pages link to each other (the "Related reading" and "Keep reading" blocks). Every new blog post needs a line in `postProcedures`, or it gets no procedure link and no siblings.
+- Home page, 3 post titles and several pages got POP term edits. Re-score after publish with `node scripts/pop-batch.mjs --force --only <path>`.
+- Next.js 14.2.33 prints a security-update warning on install. Not upgraded as part of this work. Price it separately.

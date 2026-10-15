@@ -1,6 +1,6 @@
 ---
 title: 'Umbilical Hernia in Adults: When Surgery Is Really Needed (2026 Los Angeles Guide)'
-metaTitle: 'Umbilical Hernia in Adults: When Surgery Is Really Needed (2026 Guide)'
+metaTitle: 'Umbilical Hernia in Adults: When Surgery Is Needed'
 description: Umbilical hernias &mdash; the small bulge or protrusion at or just above the belly button &mdash; affect an estimated 10 to 25 percent of adults at some point
 date: '2026-06-28'
 updated: '2026-09-29'
@@ -21,7 +21,7 @@ How umbilical hernia presentation drives treatment timing.
 
 The umbilicus, the belly button, is the anatomic weak spot where the umbilical cord attached during fetal development. In adulthood, that spot is typically closed over by fascial tissue, but the fibers there are thinner than the surrounding abdominal wall. When intra-abdominal pressure rises repeatedly, from pregnancy, chronic cough, straining with heavy lifting, obesity, ascites, or prior surgical scars, a small opening can develop through which fat or bowel protrudes.
 
-The visible bulge you may feel is the fat or intestine pushing through that opening. When you lie flat and the bulge disappears (reducible), the hernia has slid back inside the abdomen. When you cannot push it back in, or lying flat does not resolve the bulge, that is a more urgent picture called **incarceration**. If the trapped tissue also loses its blood supply, the hernia becomes **strangulated**, a surgical emergency requiring same-day operation to prevent bowel death.
+The visible bulge you may feel is the fat or intestine pushing through that opening. When you lie flat and the bulge disappears (reducible), the hernia has slid back inside the abdomen. When you cannot push it back in, or lying flat does not resolve the bulge, that is a more urgent picture called **incarceration**. If the trapped tissue also loses its blood supply, the hernia becomes **strangulated**, a surgical emergency requiring same-day operation to prevent bowel death. A doctor can usually confirm an umbilical hernia with a physical exam, and imaging is rarely needed.
 
 ## Symptoms That Mean You Should Get Seen Soon
 
@@ -32,11 +32,11 @@ The visible bulge you may feel is the fat or intestine pushing through that open
   * **Skin discoloration over the hernia**, red, blue, or dusky color over the bulge is a warning of compromised blood supply
   * **Fever or severe pain**, go directly to the emergency room
 
-A painless bulge that has been stable for years, reduces when you lie down, and does not interfere with daily life is typically safe to monitor. A hernia with any of the above signals warrants a surgical evaluation within days to weeks.
+A painless bulge that has been stable for years, reduces when you lie down, and does not interfere with daily life is typically safe to monitor. A hernia with any of the above signals warrants a surgical evaluation within days to weeks. Ask your doctor to recheck it at least once a year, and seek medical care sooner if it changes.
 
 ## Modern Umbilical Hernia Repair, Techniques and Choice
 
-Adult umbilical hernia is repaired one of two ways:
+Adult umbilical hernia is repaired one of two ways: The right treatment depends on the size of the defect and your medical history.
 
 ### Open repair (small defects)
 

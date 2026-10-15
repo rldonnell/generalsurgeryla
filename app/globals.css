@@ -314,3 +314,11 @@ p { margin: 0 0 1em; }
 .section-head h2::before { content: ''; display: block; width: 44px; height: 3px; border-radius: 3px; background: var(--marker); margin-bottom: 1rem; }
 .doctor img { border-radius: 28px 28px 28px 8px; }
 .nowrap { white-space: nowrap; }
+
+/* Related reading and procedure links at the foot of an article */
+.more-reading { margin-top: 3rem; max-width: var(--measure); }
+.more-reading h2 { font-size: 1.35rem; margin: 1.75rem 0 .6rem; }
+.more-reading h2:first-child { margin-top: 0; }
+.more-reading ul { margin: 0; padding-left: 1.2rem; }
+.more-reading li { margin: .45rem 0; }
+.more-reading a { color: var(--scrub-deep); text-underline-offset: 3px; }

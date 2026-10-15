@@ -70,7 +70,7 @@ Recovery from a paraesophageal hernia procedure is usually gradual but quite eas
 
 ## Dr. Babak Moein, MD: Advanced Laparoscopic Surgeon in Los Angeles
 
-With over 20 years of surgical experience, [Dr. Moein](/general-surgeon-dr-babak-moein/) serves Los Angeles and Beverly Hills with exceptional expertise in complex [paraesophageal hernia repair](/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/), ensuring optimal outcomes through advanced minimally invasive techniques.
+With over 20 years of surgical experience, [Dr. Moein](/general-surgeon-dr-babak-moein/) serves Los Angeles and Beverly Hills with exceptional expertise in complex paraesophageal hernia repair, ensuring optimal outcomes through advanced minimally invasive techniques.
 
   * **Specialized Training:** Fellowship-trained with specific expertise in complex foregut surgery
   * **High-Volume Experience:** Over 20 years performing paraesophageal hernia repairs in Los Angeles

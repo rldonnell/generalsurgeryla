@@ -7,7 +7,7 @@ import { allFaqs, getProcedures, settings as s } from '@/lib/content';
 import { faqPage } from '@/lib/schema';
 
 export const metadata = {
-  title: 'General Surgeon in Los Angeles | Dr. Moein | Hernia & Gallbladder',
+  title: 'General Surgeon in Los Angeles | Dr. Babak Moein, MD',
   description:
     'Board-certified general surgeon Dr. Babak Moein performs minimally invasive hernia, gallbladder and appendix surgery in Century City, Los Angeles.',
   alternates: { canonical: '/' },
@@ -60,10 +60,10 @@ export default function Home() {
       <section className="section band" id="procedures">
         <div className="wrap">
           <div className="section-head">
-            <h2>General surgery services in Los Angeles</h2>
+            <h2>Surgical services in Los Angeles</h2>
             <p>
-              Dr. Moein&rsquo;s general surgery services include hernia repair (inguinal, hiatal and paraesophageal), gallbladder
-              surgery and laparoscopic appendectomy. Each page explains the condition, how the operation is done, and what
+              Dr. Moein&rsquo;s surgical services include hernia repair (inguinal, hiatal and paraesophageal), gallbladder
+              surgery and laparoscopic appendectomy. Each service page explains the condition, how the operation is done, and what
               recovery looks like, in plain language.
             </p>
           </div>
@@ -86,10 +86,10 @@ export default function Home() {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/images/dr-moein-3.webp" alt={`${s.doctor.name}, ${s.doctor.credentials}`} width={489} height={630} loading="lazy" />
           <div>
-            <h2>Your Los Angeles general surgeon, from first visit to final check-up</h2>
+            <h2>Your surgeon and surgical team, from first visit to final check-up</h2>
             <p style={{ marginTop: '1rem', maxWidth: '60ch' }}>
               Dr. Moein is a Los Angeles native and a Fellow of the American College of Surgeons with more than 20 years of surgical
-              experience. He focuses on minimally invasive abdominal surgery and follows each patient through recovery.
+              experience. He focuses on minimally invasive abdominal surgery and he and his surgical team follow each patient through recovery.
             </p>
             <dl>
               {s.doctor.education.map((e) => (

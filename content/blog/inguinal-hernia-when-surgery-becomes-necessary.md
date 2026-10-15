@@ -9,7 +9,7 @@ excerpt: How surgeons decide between inguinal hernia surgery and watchful waitin
 
 An inguinal hernia is one of the most common reasons men over 40 end up in a general surgeon's consultation room. About 1 in 4 men will develop one at some point in life. The actual diagnosis is usually straightforward. The harder question is the one that brings patients to the conversation: **do I need surgery now, or can I wait?**
 
-Here's how surgeons actually think about that decision in 2026, and the specific signs that should push you off the fence.
+Here's how surgeons actually think about that decision in 2026, and the specific signs that should push you off the fence. If you are not sure where you stand, a doctor can examine the bulge in one visit and help you find the right timing for care.
 
 ## What an inguinal hernia actually is
 
@@ -40,7 +40,7 @@ The specific signs that surgery has become necessary (or near-necessary):
 
 **The hernia gets stuck (incarceration).** If the bulge doesn't reduce when you lie down or push gently, this is a sign the tissue has become trapped. Sometimes manageable with manual reduction in the office, but typically points to surgery within weeks.
 
-**Severe sudden pain, redness, fever, vomiting.** This is the strangulation emergency, the trapped tissue has lost its blood supply. This is a same-day emergency room situation. Strangulated hernia requires emergency surgery within hours to save the bowel.
+**Severe sudden pain, redness, fever, vomiting.** This is the strangulation emergency, the trapped tissue has lost its blood supply. This is a same-day emergency room situation. Strangulated hernia requires emergency surgery within hours to save the bowel. Strangulation is one of the serious complications of an untreated hernia, which is why we do not wait once these signs appear.
 
 **Activity limitations the patient cares about.** Surgery is the right choice when the hernia is keeping you from things that matter, exercise, work that requires lifting, intimacy that's become uncomfortable, sleep that's disrupted by groin discomfort.
 

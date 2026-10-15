@@ -10,6 +10,7 @@ import Video from '@/components/Video';
 import videoTitles from '@/content/videos.json';
 import { getDoc, getPages, getPosts, getProcedures, settings as s } from '@/lib/content';
 import { docGraph } from '@/lib/schema';
+import { postProcedures, postsForProcedure, siblingPosts } from '@/lib/links';
 
 export const dynamicParams = false;
 
@@ -107,6 +108,39 @@ export default function DocPage({ params }: { params: { slug: string } }) {
                 <FaqList faqs={d.faqs} />
               </section>
             )}
+
+            {(() => {
+              const bySlug = (slug: string) => getDoc(slug);
+              const procLinks = d.kind === 'post' ? (postProcedures[d.slug] || []) : [];
+              const readLinks = d.kind === 'procedure' ? postsForProcedure(d.slug) : d.kind === 'post' ? siblingPosts(d.slug) : [];
+              const procDocs = procLinks.map(bySlug).filter(Boolean);
+              const readDocs = readLinks.map(bySlug).filter(Boolean).slice(0, 4);
+              if (!procDocs.length && !readDocs.length) return null;
+              return (
+                <section className="more-reading" aria-labelledby="more-reading">
+                  {procDocs.length > 0 && (
+                    <>
+                      <h2 id="more-reading">{procDocs.length > 1 ? 'Procedures that go with this article' : 'The procedure behind this article'}</h2>
+                      <ul>
+                        {procDocs.map((p) => (
+                          <li key={p!.slug}><Link href={`/${p!.slug}/`}>{p!.navLabel || p!.title}</Link></li>
+                        ))}
+                      </ul>
+                    </>
+                  )}
+                  {readDocs.length > 0 && (
+                    <>
+                      <h2 id={procDocs.length ? 'keep-reading' : 'more-reading'}>{d.kind === 'procedure' ? 'Related reading' : 'Keep reading'}</h2>
+                      <ul>
+                        {readDocs.map((p) => (
+                          <li key={p!.slug}><Link href={`/${p!.slug}/`}>{p!.title}</Link></li>
+                        ))}
+                      </ul>
+                    </>
+                  )}
+                </section>
+              );
+            })()}
 
             <div style={{ marginTop: '3rem', maxWidth: 'var(--measure)' }}>
               <ConsultForm heading={`Talk with Dr. Moein about ${d.kind === 'procedure' ? (d.navLabel || '').toLowerCase() : 'your options'}`} />

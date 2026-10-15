@@ -1,6 +1,6 @@
 ---
 title: 'Ozempic and Gallstones: Why GLP-1 Weight Loss Raises Your Gallbladder Risk'
-metaTitle: 'Ozempic and Gallstones: Why GLP-1 Weight Loss Raises Your Gallbladder Risk'
+metaTitle: 'Ozempic and Gallstones: Why GLP-1 Raises Gallbladder Risk'
 description: GLP-1 drugs like Ozempic and Wegovy raise gallstone risk, driven mostly by rapid weight loss. Learn the symptoms, the science, and when to see a surgeon.
 date: '2026-09-08'
 updated: '2026-09-29'

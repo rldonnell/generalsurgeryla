@@ -22,7 +22,7 @@ Gallbladder surgery in Los Angeles represents a specific therapeutic solution fo
 
 Dr. Babak Moein, an experienced general surgeon in Los Angeles, represents an invaluable solution for those who are seeking comprehensive evaluation and individualized treatment plans, which are developed through cutting-edge imaging technologies and extensive diagnostic testing methodologies.
 
-Cholecystectomy, which represents the surgical removal of the gallbladder, is an extremely effective solution for those who are affected by gallstones, cholecystitis, or biliary duct problems.
+Cholecystectomy, which represents the surgical removal of the gallbladder, is an extremely effective solution for those who are affected by gallstones, cholecystitis, or biliary duct problems. Gallbladder removal is one of the most common operations in general surgery, and Dr. Moein performs most of them with a laparoscopic approach.
 
 ## What are gallstones?
 

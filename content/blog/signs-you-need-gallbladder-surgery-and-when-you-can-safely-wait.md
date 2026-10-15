@@ -1,6 +1,6 @@
 ---
 title: Signs You Need Gallbladder Surgery (and When You Can Safely Wait)
-metaTitle: Signs You Need Gallbladder Surgery (and When You Can Safely Wait)
+metaTitle: 'Signs You Need Gallbladder Surgery (and When to Wait)'
 description: Learn to tell biliary colic from real complications like cholecystitis or pancreatitis, plus red-flag symptoms, diagnosis, and life after gallbladder surgery.
 date: '2026-09-08'
 updated: '2026-09-29'
@@ -55,13 +55,13 @@ These point to a blocked duct, an infected gallbladder, or pancreatitis, and the
 
 ## How gallstones are diagnosed
 
-Diagnosis is usually straightforward. The first and most useful test is an abdominal ultrasound. It is painless, involves no radiation, and is very good at spotting stones in the gallbladder. A technician moves a small probe across your upper abdomen and the images show whether stones are present and whether the gallbladder wall looks inflamed.
+Diagnosis is usually straightforward. The first and most useful test is an abdominal ultrasound. It is painless, involves no radiation, and is very good at spotting stones in the gallbladder. A technician moves a small probe across your upper abdomen and the images show whether stones are present and whether the gallbladder wall looks inflamed. Your doctor will also take a history and may order blood tests to check your liver and pancreas.
 
 When symptoms are typical but the ultrasound does not tell the whole story, a surgeon may add other tests. A HIDA scan uses a small amount of safe radioactive tracer to watch how well the gallbladder fills and empties, which helps diagnose a poorly functioning gallbladder even when no stones are seen. An MRCP or, in select cases, an ERCP can map the bile ducts to look for a stone that has slipped downstream. The NIDDK explains these options in its overview of [how gallstones are diagnosed](https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/diagnosis).
 
 ## Watchful waiting versus surgery
 
-Here is the practical decision most patients face. If stones are found by accident, for example on a scan done for another reason, and they are not causing symptoms, the standard advice is to leave them alone and watch. Silent stones have a low chance of ever causing trouble, and there is no benefit to removing a gallbladder that is behaving itself. This is watchful waiting, and it is a legitimate, evidence based choice.
+Here is the practical decision most patients face. If stones are found by accident, for example on a scan done for another reason, and they are not causing symptoms, the standard advice is to leave them alone and watch. Silent stones have a low chance of ever causing trouble, and there is no benefit to removing a gallbladder that is behaving itself. This is watchful waiting, and it is a legitimate, evidence based choice. For most people with symptoms, gallbladder removal is the lasting fix.
 
 The calculation changes once stones become symptomatic. After a first clear episode of biliary colic, the odds of more attacks and of complications climb. For most people with symptomatic gallstones, planned surgical removal is the recommended path, because it solves the problem before an emergency forces the issue. And when a complication like cholecystitis, a duct stone, or pancreatitis has already occurred, surgery is no longer optional, it is the treatment. Our page on [gallbladder surgery in Los Angeles](/gallbladder-surgery-in-los-angeles/) covers the procedure and recovery in detail.
 
