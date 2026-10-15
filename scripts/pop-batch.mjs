@@ -2,7 +2,7 @@
 // Run POP reports for many pages, one after another, and write a ranked summary.
 // Usage: node scripts/pop-batch.mjs [--base https://generalsurgeryla.vercel.app] [--keywords pop-keywords.json] [--force] [--only slug]
 // Each page costs about 2 POP API calls and takes 3 to 6 minutes. Run it in your own terminal and leave it going.
-// Pages already scored today are skipped unless you pass --force, so you can stop and resume safely.
+// Pages that already have a report are skipped unless you pass --force, so you can stop and resume safely.
 import fs from 'node:fs';
 import { spawnSync } from 'node:child_process';
 
@@ -20,12 +20,13 @@ const rows = [];
 
 for (const [i, p] of pages.entries()) {
   const url = base + p.path;
-  const out = `pop-reports/${slugOf(url)}-${stamp}.json`;
+  const prior = fs.existsSync('pop-reports') ? fs.readdirSync('pop-reports').filter((f) => f.startsWith(slugOf(url) + '-2') && f.endsWith('.json')).sort().pop() : null;
+  const out = !force && prior ? `pop-reports/${prior}` : `pop-reports/${slugOf(url)}-${stamp}.json`;
   console.log(`\n[${i + 1}/${pages.length}] ${url}  ("${p.keyword}")`);
   if (force || !fs.existsSync(out)) {
     const r = spawnSync('node', ['scripts/pop-report.mjs', url, p.keyword], { stdio: 'inherit' });
     if (r.status !== 0) { console.error('  failed, moving on'); rows.push({ path: p.path, keyword: p.keyword, error: true }); continue; }
-  } else console.log('  already scored today, skipping');
+  } else console.log('  already scored, skipping (use --force to rescore)');
   try {
     const d = JSON.parse(fs.readFileSync(out, 'utf8')).report.report;
     const c = d.cleanedContentBrief;

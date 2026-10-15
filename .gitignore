@@ -8,3 +8,4 @@ node_modules
 pop-reports/
 .env.local.*
 .env*.textile
+.DS_Store

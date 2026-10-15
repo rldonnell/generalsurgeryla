@@ -104,7 +104,8 @@ p { margin: 0 0 1em; }
 /* Hero */
 .hero { background: var(--scrub-deep); color: #e9eef5; padding: clamp(3rem, 7vw, 6rem) 0 clamp(3rem, 6vw, 5rem); position: relative; overflow: hidden; }
 .hero::after { content: ''; position: absolute; right: -12%; bottom: -45%; width: 60vw; height: 60vw; max-width: 760px; max-height: 760px; border-radius: 50%; background: radial-gradient(closest-side, rgba(184,74,48,.24), transparent); pointer-events: none; }
-.hero .wrap { position: relative; z-index: 1; display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr); gap: clamp(2rem, 5vw, 4.5rem); align-items: center; }
+.hero .wrap { position: relative; z-index: 1; display: grid; grid-template-columns: minmax(0, .92fr) minmax(0, 1.08fr); gap: clamp(2rem, 5vw, 4.5rem); align-items: center; max-width: 1360px; }
+.hero .map-figure { padding: clamp(.6rem, 2vw, 1.1rem); }
 .hero h1 { max-width: 15ch; color: #fff; }
 .hero .lede { font-size: 1.2rem; color: #c9d6e6; max-width: 46ch; margin: 1.4rem 0 2rem; }
 .hero .actions { display: flex; flex-wrap: wrap; gap: .75rem; }
