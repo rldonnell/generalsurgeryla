@@ -32,3 +32,11 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - *.vercel.app hosts send noindex. The real domain does not. Do not remove this rule.
 - Facts on the hernia page that Dr. Moein must confirm before launch: robotic repair, emergency repair, reconstruction of failed repairs, "years of experience".
 - Cost section on the hernia page intentionally has no dollar figures. Add a range only after Dr. Moein confirms it.
+
+## Visual redesign, Oct 14, 2026 (navy and sand)
+- Scope: look only. Content, schema, CMS, form, UTMs and routes were not touched. Changed files: app/globals.css, app/layout.tsx (fonts, theme color), public/icon.svg.
+- Fonts are now Fraunces (headings) and Figtree (body), loaded through next/font. Nothing to host or renew.
+- Token names --scrub and --marker are historical. --scrub is now navy and --marker is now terracotta. Keep the names: components and the SVG diagrams reference them.
+- public/og-default.png still has the old green and violet look. Regenerate it to match before the site is shown to the doctor.
+- Not yet reviewed visually by Irene or Dr. Moein. Run `npm run dev` and check the home page, a procedure page, the blog and the contact form on desktop and phone first.
+- To undo: `git diff` shows every change, and `git checkout -- app/globals.css app/layout.tsx public/icon.svg` reverts them.

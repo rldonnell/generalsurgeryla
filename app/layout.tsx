@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next';
-import { Newsreader, Public_Sans } from 'next/font/google';
+import { Fraunces, Figtree } from 'next/font/google';
 import Script from 'next/script';
 import './globals.css';
 import Header from '@/components/Header';
@@ -9,8 +9,8 @@ import JsonLd from '@/components/JsonLd';
 import { getProcedures, settings as s } from '@/lib/content';
 import { siteGraph } from '@/lib/schema';
 
-const newsreader = Newsreader({ subsets: ['latin'], weight: ['400', '500'], style: ['normal'], variable: '--font-newsreader', display: 'swap', adjustFontFallback: false });
-const publicSans = Public_Sans({ subsets: ['latin'], weight: ['400', '500', '600', '700'], variable: '--font-public', display: 'swap' });
+const fraunces = Fraunces({ subsets: ['latin'], variable: '--font-fraunces', display: 'swap' });
+const figtree = Figtree({ subsets: ['latin'], variable: '--font-figtree', display: 'swap' });
 
 export const metadata: Metadata = {
   metadataBase: new URL(s.baseUrl),
@@ -23,11 +23,11 @@ export const metadata: Metadata = {
   icons: { icon: '/icon.svg' },
 };
 
-export const viewport: Viewport = { themeColor: '#123f3b', width: 'device-width', initialScale: 1 };
+export const viewport: Viewport = { themeColor: '#10263f', width: 'device-width', initialScale: 1 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en-US" className={`${newsreader.variable} ${publicSans.variable}`}>
+    <html lang="en-US" className={`${fraunces.variable} ${figtree.variable}`}>
       <head>
         <JsonLd data={siteGraph(getProcedures())} />
       </head>
