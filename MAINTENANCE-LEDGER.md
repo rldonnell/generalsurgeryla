@@ -40,3 +40,8 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - public/og-default.png still has the old green and violet look. Regenerate it to match before the site is shown to the doctor.
 - Not yet reviewed visually by Irene or Dr. Moein. Run `npm run dev` and check the home page, a procedure page, the blog and the contact form on desktop and phone first.
 - To undo: `git diff` shows every change, and `git checkout -- app/globals.css app/layout.tsx public/icon.svg` reverts them.
+
+## GTM load timing, Oct 14, 2026
+- GTM (GTM-TQVVKLDK) now loads on first scroll, tap, click or keypress, or after 10 seconds, instead of on page load. Done for page speed (mobile score 69 to 84 so far).
+- Effect: visitors who leave in under 10 seconds without interacting are not tracked. Intentional, Robert prefers engaged-user data.
+- If analytics ever looks low, check this first. To undo, change the Script in app/layout.tsx back to the plain loader.
