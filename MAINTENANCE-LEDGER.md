@@ -52,3 +52,5 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - Location must match POP's list exactly (Los Angeles is "United States, California, CA, Los Angeles"). Language is lowercase ("english").
 - EEAT option is not wired up yet. Re-check POP's docs (api-docs.pageoptimizer.pro) if POP changes its API.
 - First report: home page, keyword "general surgeon in los angeles", POP score 19.36.
+- Batch runner: `node scripts/pop-batch.mjs` runs every page in pop-keywords.json (about 2 POP calls and 3 to 6 minutes per page) and writes pop-reports/summary-DATE.csv. Run it in your own terminal, it can be stopped and resumed. Keywords in pop-keywords.json are drafts chosen by Claude, review before relying on them. Add new pages and posts to that file.
+- Home page POP score after first copy pass: 19.36 to 38.84 (Oct 14, 2026).

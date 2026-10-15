@@ -21,7 +21,7 @@ function loadKey() {
 const args = process.argv.slice(2);
 const flag = (n) => args.includes(n);
 const opt = (n, d) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : d; };
-const pos = args.filter((a, i) => !a.startsWith('--') && !(i > 0 && args[i - 1] === '--location'));
+const pos = args.filter((a, i) => !a.startsWith('--') && !(i > 0 && ['--location', '--task', '--terms-task', '--language'].includes(args[i - 1])));
 const [targetUrl, keyword] = pos;
 const location = opt('--location', 'United States, California, CA, Los Angeles');
 const language = opt('--language', 'english');
@@ -61,8 +61,8 @@ if (!langs.includes(language)) { console.error(`Language "${language}" not found
 
 console.log(`Keyword: ${keyword}\nPage: ${targetUrl}\nLocation: ${location}`);
 if (opt('--task')) { const j = await poll(opt('--task'), 'Resume'); fs.mkdirSync('pop-reports', { recursive: true }); const f = path.join('pop-reports', `task-${opt('--task')}.json`); fs.writeFileSync(f, JSON.stringify(j, null, 2)); console.log('Saved ' + f); process.exit(0); }
-const t1 = await post('/expose/get-terms/', { keyword, locationName: location, targetUrl, targetLanguage: language });
-const terms = await poll(t1.taskId, 'Terms');
+const termsTask = opt('--terms-task') || (await post('/expose/get-terms/', { keyword, locationName: location, targetUrl, targetLanguage: language })).taskId;
+const terms = await poll(termsTask, 'Terms');
 console.log('\nTerms ready.');
 
 const t2 = await post('/expose/create-report/', {
