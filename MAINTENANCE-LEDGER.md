@@ -45,3 +45,10 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - GTM (GTM-TQVVKLDK) now loads on first scroll, tap, click or keypress, or after 10 seconds, instead of on page load. Done for page speed (mobile score 69 to 84 so far).
 - Effect: visitors who leave in under 10 seconds without interacting are not tracked. Intentional, Robert prefers engaged-user data.
 - If analytics ever looks low, check this first. To undo, change the Script in app/layout.tsx back to the plain loader.
+
+## POP (Page Optimizer Pro) report script, Oct 14, 2026
+- scripts/pop-report.mjs runs a POP report for one page and keyword: `node scripts/pop-report.mjs <url> "<keyword>"`. Saves raw JSON to pop-reports/ (git-ignored).
+- Needs POP_API_KEY in .env.local (git-ignored). Never commit the key. Each run costs about 2 POP API calls.
+- Location must match POP's list exactly (Los Angeles is "United States, California, CA, Los Angeles"). Language is lowercase ("english").
+- EEAT option is not wired up yet. Re-check POP's docs (api-docs.pageoptimizer.pro) if POP changes its API.
+- First report: home page, keyword "general surgeon in los angeles", POP score 19.36.
