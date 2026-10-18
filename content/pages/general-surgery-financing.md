@@ -12,7 +12,7 @@ updated: '2026-09-29'
 
 Determining the cost of surgery at **General Surgery LA** involves several factors, as each procedure is tailored to the patient's specific medical needs. The primary influence on the final price is the complexity of the surgery, such as whether it is a routine hernia repair or a more intricate anti-reflux procedure.
 
-Additionally, the surgical technique used, whether laparoscopic or robotic-assisted, can affect the overall cost.
+Additionally, the surgical technique used, whether laparoscopic or open, can affect the overall cost.
 
 Another significant factor is the facility and anesthesia fees associated with your care in **Los Angeles**. Your choice of insurance coverage also plays a major role, as PPO plans often cover a large portion of medically necessary procedures, leaving only a deductible or co-pay for the patient. For those without insurance, we provide transparent estimates to ensure you can plan for your path to healing with confidence.
 
@@ -20,7 +20,7 @@ Another significant factor is the facility and anesthesia fees associated with y
 
 ### Hernia Repair
 
-The estimated cost for laparoscopic or robotic hernia repair ranges from $5,000 to $9,000. This typically covers the surgical repair and high-quality mesh placement if required.
+The estimated cost for laparoscopic hernia repair ranges from $5,000 to $9,000. This typically covers the surgical repair and high-quality mesh placement if required.
 
 ### Gallbladder Surgery and Hiatal Hernia Repair
 

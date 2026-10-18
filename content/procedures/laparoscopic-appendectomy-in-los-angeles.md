@@ -10,7 +10,7 @@ faqs:
 - q: Is appendicitis an emergency?
   a: Yes. Appendicitis usually needs prompt treatment because an inflamed appendix can rupture and spread infection through the abdomen. If you have pain that starts near the belly button and moves to the lower right abdomen, with fever, nausea, or pain that worsens when you move, seek care the same day.
 - q: How long is recovery after a laparoscopic appendectomy?
-  a: For uncomplicated appendicitis, many patients go home the same day or the next day and return to light activity within about a week. Recovery is longer if the appendix had ruptured. Heavy lifting is usually avoided for a few weeks.
+  a: For uncomplicated appendicitis, most patients go home the same day or the next day and return to light activity within about a week. Recovery is longer if the appendix had ruptured. Heavy lifting is usually avoided for a few weeks.
 videos: []
 updated: '2026-09-29'
 ---
@@ -87,7 +87,7 @@ Recovery is often quicker, allowing patients to return to **normal daily activit
 
 ### Shorter Hospital Stay
 
-Many patients can go home **the same day or after a short overnight stay**, depending on the severity of the case.
+Most patients can go home **the same day or after a short overnight stay**, depending on the severity of the case.
 
 ### Better Visualization
 

@@ -63,18 +63,9 @@ Our preferred method for most hiatal hernia repairs. This minimally invasive tec
 * Wrapping the upper part of the stomach around the esophagus to prevent reflux
 * Repairing the hiatal opening to prevent recurrence
 
-### Robotic-Assisted Surgery
-
-For complex cases, we offer robotic surgery featuring:
-
-* Enhanced surgical precision with 3D visualization
-* Improved dexterity for delicate tissue handling
-* Reduced trauma to surrounding tissues
-* Faster recovery times
-
 ## Your Hiatal Hernia Surgery Journey
 
-Embark on a clear path to recovery under the specialized care of **Dr. Babak Moein**. Our process prioritizes minimally invasive techniques, such as laparoscopic and robotic-assisted repairs, to ensure maximum precision and a faster return to your daily life.
+Embark on a clear path to recovery under the specialized care of **Dr. Babak Moein**. Our process prioritizes minimally invasive techniques, such as laparoscopic repair, to ensure maximum precision and a faster return to your daily life.
 
 From thorough pre-surgery evaluation to expert post-operative support, we provide a personalized experience focused on your long-term health and comfort.
 
@@ -98,7 +89,7 @@ Under **Dr. Babak Moein's** care, most patients return to work within 1-2 weeks.
 
 ### Why Choose Dr. Moein?
 
-With years of experience and hundreds of successful repairs, **Dr. Babak Moein** utilizes robotic-assisted and laparoscopic techniques. This approach ensures minimal scarring, less trauma, and superior long-term results.
+With years of experience and hundreds of successful repairs, **Dr. Babak Moein** uses mostly laparoscopic techniques. This approach ensures minimal scarring, less trauma, and superior long-term results.
 
 ## Benefits of Choosing General Surgery LA
 
@@ -114,7 +105,7 @@ Contact General Surgery LA to [schedule your consultation](/contact-us/) with Dr
 
 ### Minimally Invasive Focus
 
-Utilizing advanced laparoscopic and robotic-assisted techniques, **Dr. Babak Moein** prioritizes procedures that minimize scarring, reduce post-operative pain, and significantly speed up the recovery process.
+Using laparoscopic techniques, **Dr. Babak Moein** prioritizes procedures that minimize scarring, reduce post-operative pain, and significantly speed up the recovery process.
 
 ### Comprehensive Care
 

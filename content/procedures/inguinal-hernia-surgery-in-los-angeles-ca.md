@@ -5,7 +5,7 @@ metaTitle: Inguinal Hernia Surgery Los Angeles | Expert Surgical Care
 description: Dr. Moein specializes in inguinal hernia surgery in Los Angeles, using advanced minimally invasive techniques to relieve pain and support recovery.
 order: 2
 area: groin
-summary: An inguinal hernia is a bulge in the groin where tissue pushes through the lower abdominal wall. It is the most common type of hernia. Repair is usually done laparoscopically with mesh as an outpatient procedure, and many patients return to desk work within a week.
+summary: An inguinal hernia is a bulge in the groin where tissue pushes through the lower abdominal wall. It is the most common type of hernia. Repair is usually done laparoscopically with mesh as an outpatient procedure, and most patients return to desk work within a week.
 faqs:
 - q: What are the symptoms of an inguinal hernia?
   a: Common symptoms of an inguinal hernia include a bulge in the groin, pain or pressure when standing, coughing, lifting, or exercising, and a heavy or aching feeling in the lower abdomen or groin. Some patients notice discomfort that worsens throughout the day or with physical activity.
@@ -23,7 +23,7 @@ At our clinic, led by **Dr. Moein**, we understand that a groin hernia can cause
 
 Our goal is to provide a definitive surgical solution that not only eliminates these symptoms but also prevents long-term risks such as incarceration or strangulation.
 
-By choosing our team for your **Inguinal Hernia Surgery in Los Angeles**, you gain access to the most advanced surgical technologies available today, including **robotic-assisted and[laparoscopic techniques](/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/)**. These minimally invasive approaches are specifically chosen to ensure smaller incisions, less post-operative pain, and a much faster return to your routine.
+By choosing our team for your **Inguinal Hernia Surgery in Los Angeles**, you gain access to the most advanced surgical technologies available today, including **[laparoscopic techniques](/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/)**. These minimally invasive approaches are specifically chosen to ensure smaller incisions, less post-operative pain, and a much faster return to your routine.
 
 From our modern surgical center in Century City, we provide a structured and personalized recovery path, ensuring you receive the highest standard of care from your first consultation to your final follow-up.
 
@@ -55,7 +55,7 @@ Inguinal Hernia Surgery Los Angeles
 
 Expert Inguinal Hernia Repair by Dr. Moein
 
-Advanced Laparoscopic & Robotic Techniques - Minimally Invasive Surgery
+Mostly Laparoscopic - Minimally Invasive Surgery
 
 SCHEDULE CONSULTATION
 
@@ -94,15 +94,6 @@ This minimally invasive approach uses small incisions and a camera to repair the
   * ✔️ Faster recovery time
   * ✔️ Reduced scarring
 
-### Robotic-Assisted Hernia Repair
-
-Utilizing advanced robotic systems, this method provides enhanced precision and visualization for complex hernia repairs.
-
-  * ✔️ Enhanced surgeon precision
-  * ✔️ 3D visualization
-  * ✔️ Ideal for complex cases
-  * ✔️ Optimal repair outcomes
-
 ## Inguinal Hernia Surgery Recovery Timeline
 
 ### 1\. Immediate Post-Surgery
@@ -125,7 +116,7 @@ After 4-6 weeks, you can return to sports and full activity. High-impact exercis
 
 When it comes to **Inguinal Hernia Surgery in Los Angeles**, choosing the right surgical team is essential for a successful, long-term outcome. At **General Surgery LA**, we combine surgical excellence, advanced minimally invasive technology, and a patient-centered approach to deliver superior results for those suffering from groin hernias.
 
-Our board-certified surgeon, [**Dr. Babak Moein**](/general-surgeon-dr-babak-moein/), specializes in the latest hernia repair techniques, including **laparoscopic and robotic-assisted surgery**. By utilizing these cutting-edge methods, we aim to provide our patients with long-lasting relief, significantly **shorterrecovery times**, and minimal post-operative discomfort.
+Our board-certified surgeon, [**Dr. Babak Moein**](/general-surgeon-dr-babak-moein/), specializes in the latest hernia repair techniques, including **laparoscopic surgery**. By utilizing these cutting-edge methods, we aim to provide our patients with long-lasting relief, significantly **shorterrecovery times**, and minimal post-operative discomfort.
 
 Whether you are dealing with a [primary hernia](/hernia-surgery-los-angeles-ca/) or a complex recurrent case, our team is dedicated to restoring your physical strength and comfort.
 

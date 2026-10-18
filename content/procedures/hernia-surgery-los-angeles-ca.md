@@ -5,7 +5,7 @@ metaTitle: Hernia Surgery Los Angeles | Dr. Babak Moein, MD, FACS
 description: Hernia surgery in Los Angeles with Dr. Babak Moein, a board-certified general surgeon. Minimally invasive repair in Century City. Call (310) 861-4093.
 order: 1
 area: abdomen
-summary: Hernia surgery repairs a weak spot in the abdominal wall where tissue pushes through. Most hernias do not heal on their own and tend to grow, so repair is usually recommended once a hernia causes pain or gets bigger. Dr. Moein repairs most hernias laparoscopically or with robotic assistance, and most patients go home the same day and return to full activity in four to six weeks.
+summary: Hernia surgery repairs a weak spot in the abdominal wall where tissue pushes through. Most hernias do not heal on their own and tend to grow, so repair is usually recommended once a hernia causes pain or gets bigger. Dr. Moein repairs most hernias laparoscopically, and most patients go home the same day and return to full activity in four to six weeks.
 faqs:
 - q: Can you heal a hernia without surgery?
   a: No. A true hernia does not heal on its own because the weakness or opening in the muscle wall remains present. Some hernias can be observed for a period of time if they are small and not causing significant symptoms, but they do not close naturally. Surgery is the only definitive treatment to repair the defect.
@@ -28,7 +28,7 @@ diagram: hernia
 
 Hernia surgery is a common procedure for treating a condition in which a body part protrudes through a weakened area in the surrounding tissue. It is characterized by a noticeable bulge and discomfort. Although some hernias do not display signs of discomfort, most of them will need to undergo surgery in order to prevent serious complications such as strangulation or bowel blockage.
 
-[**Dr. Babak Moein**, a board-certified general surgeon](/general-surgeon-dr-babak-moein/), leads General Surgery LA with extensive expertise in treating all types of hernias, including inguinal, umbilical, and complex abdominal cases. Using advanced **minimally invasive laparoscopic and robotic-assisted techniques.**
+[**Dr. Babak Moein**, a board-certified general surgeon](/general-surgeon-dr-babak-moein/), leads General Surgery LA with extensive expertise in treating all types of hernias, including inguinal, umbilical, and complex abdominal cases. Most repairs are done with **minimally invasive laparoscopic techniques.**
 
 He focuses on high-precision repairs that significantly reduce recovery time and minimize post-operative pain. Every patient benefits from a holistic approach, from a meticulous preoperative evaluation to a personalized recovery plan tailored to their specific lifestyle.
 
@@ -92,10 +92,6 @@ At **General Surgery LA**, a combination of cutting-edge technology and advanced
 
 This minimally invasive technique involves small incisions and a laparoscope to repair the hernia. **Benefits:** Less post-operative pain, smaller scars, and faster recovery.
 
-### Robotic-Assisted Surgery
-
-Robotic technology enhances precision, allowing for highly accurate repairs even in complex cases. **Benefits:** Superior control and minimal tissue trauma.
-
 ### Open Hernia Repair
 
 For larger or more complicated hernias, traditional open repair remains a highly effective option. **Benefits:** Direct visualization and effective wall strengthening.
@@ -131,7 +127,7 @@ This is the milestone where you can return to sports and full physical activity.
 
 ## Hernia Surgery Cost and Insurance in Los Angeles
 
-The cost of hernia surgery depends on the type of hernia, whether the repair is laparoscopic, robotic, or open, whether mesh is used, and the facility and anesthesia fees. Repair of a symptomatic hernia is a medically necessary operation, and most insurance plans cover it. Coverage, deductibles, and authorization requirements vary by plan, so the office can help you review your benefits before your visit.
+The cost of hernia surgery depends on the type of hernia, whether the repair is laparoscopic or open, whether mesh is used, and the facility and anesthesia fees. Repair of a symptomatic hernia is a medically necessary operation, and most insurance plans cover it. Coverage, deductibles, and authorization requirements vary by plan, so the office can help you review your benefits before your visit.
 
 If you pay out of pocket, ask for an itemized quote that lists the surgeon fee, anesthesia, facility, and mesh separately. You can read more on our [insurance](/general-surgery-insurance/) and [financing](/general-surgery-financing/) pages. For detailed care instructions, see [before and after surgery](/pre-and-post-instructions/).
 
@@ -143,7 +139,7 @@ Patients benefit from evidence-based protocols, minimally invasive options where
 
 ## Schedule Your Hernia Surgery in Los Angeles
 
-Expert hernia repair by Dr. Moein using advanced minimally invasive and robotic techniques, designed to reduce pain, accelerate recovery, and deliver durable, long-term results. Each treatment plan is tailored to restore your comfort and help you return safely to your daily activities.
+Expert hernia repair by Dr. Moein using minimally invasive, mostly laparoscopic techniques, designed to reduce pain, accelerate recovery, and deliver durable, long-term results. Each treatment plan is tailored to restore your comfort and help you return safely to your daily activities.
 [Book your consultation](/contact-us/) today and take the next step toward lasting relief and improved quality of life.
 
 ## Sources and Further Reading

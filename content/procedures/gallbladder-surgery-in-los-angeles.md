@@ -5,12 +5,12 @@ metaTitle: Gallbladder Surgery Los Angeles | Expert Care
 description: Dr. Moein provides gallbladder surgery in Los Angeles with expert diagnosis and advanced minimally invasive removal for safe treatment.
 order: 6
 area: gallbladder
-summary: Gallbladder surgery, or cholecystectomy, removes a gallbladder that is causing pain from gallstones or inflammation. It is usually done laparoscopically in under an hour, and many patients go home the same day. You can live and digest normally without a gallbladder.
+summary: Gallbladder surgery, or cholecystectomy, removes a gallbladder that is causing pain from gallstones or inflammation. It is usually done laparoscopically in under an hour, and most patients go home the same day. You can live and digest normally without a gallbladder.
 faqs:
 - q: What does gallstone pain feel like?
   a: Gallstone pain is often described as a sudden, steady pain in the upper right abdomen or the center of the upper abdomen. It may occur after eating, especially after fatty meals, and can radiate to the back or right shoulder. Some patients also experience nausea, bloating, vomiting, or episodes that last from minutes to several hours.
 - q: How long does it take to recover from gallbladder surgery?
-  a: Most patients recover relatively quickly after laparoscopic gallbladder surgery. Many are able to go home the same day and return to light activities within several days. Full recovery typically takes a few weeks, depending on the patient’s condition, the type of work they do, and how their body heals.
+  a: Most patients recover relatively quickly after laparoscopic gallbladder surgery. Most are able to go home the same day and return to light activities within several days. Full recovery typically takes a few weeks, depending on the patient’s condition, the type of work they do, and how their body heals.
 videos:
 - TIlHQyo21qY
 - rwLGf0ovWIc

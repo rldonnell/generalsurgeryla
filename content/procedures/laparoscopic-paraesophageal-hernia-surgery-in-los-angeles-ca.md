@@ -17,7 +17,7 @@ updated: '2026-09-29'
 
 Laparoscopic Paraesophageal Hernia Repair: This is an advanced method of treatment for complex hernias in which a portion of the stomach protrudes through the diaphragm and accompanies the esophagus. Unlike hiatal hernias, in paraesophageal hernias, the stomach protrudes into the chest, creating a life-threatening condition in which the stomach can twist and cut off its blood supply, requiring urgent medical attention.
 
-At our Los Angeles clinic, Dr. Babak Moein and his multidisciplinary team provide expert, patient-centered care for paraesophageal and [hiatal hernias](/expert-hiatal-hernia-surgery-in-los-angeles/). We combine advanced diagnostics (endoscopy, pH monitoring, and esophageal motility testing) with minimally invasive laparoscopic and robotic repair techniques to reduce pain, shorten hospital stay, and speed recovery.
+At our Los Angeles clinic, Dr. Babak Moein and his multidisciplinary team provide expert, patient-centered care for paraesophageal and [hiatal hernias](/expert-hiatal-hernia-surgery-in-los-angeles/). We combine advanced diagnostics (endoscopy, pH monitoring, and esophageal motility testing) with minimally invasive laparoscopic repair techniques to reduce pain, shorten hospital stay, and speed recovery.
 
 ## Types of Paraesophageal Hernias
 
@@ -55,15 +55,6 @@ With over 20 years of experience in Los Angeles and Beverly Hills, Dr. Moein emp
   * **Fundoplication:** Anti-reflux procedure to prevent post-operative GERD
   * **Short Gastric Division:** Complete mobilization of the stomach for tension-free repair
 
-### Robotic-Assisted Precision Surgery
-
-For complex Type III and IV hernias, Dr. Moein utilizes robotic assistance, providing:
-
-  * Enhanced 3D visualization of anatomical structures
-  * Precise suturing in confined spaces
-  * Improved ergonomics for complex procedures
-  * Reduced operative time and complications
-
 ## Recovery and Outcomes of Paraesophageal Hernias Surgery
 
 Recovery from a paraesophageal hernia procedure is usually gradual but quite easily tolerated. Most patients find that there is a notable reduction in pressure, reflux symptoms, difficulty swallowing, and discomfort after eating as healing progresses. In some cases, patients are urged to ambulate soon after surgery, take a gradual diet from liquids or soft foods, and abstain from lifting for a few weeks to allow proper healing of the diaphragm and stomach. Mild bloating, tightness in swallowing, or reduced appetite are possible during the initial stages of healing. However, these are usually temporary.
@@ -74,13 +65,13 @@ With over 20 years of surgical experience, [Dr. Moein](/general-surgeon-dr-babak
 
   * **Specialized Training:** Fellowship-trained with specific expertise in complex foregut surgery
   * **High-Volume Experience:** Over 20 years performing paraesophageal hernia repairs in Los Angeles
-  * **Advanced Technology:** State-of-the-art laparoscopic and robotic surgical platforms
+  * **Advanced Technology:** State-of-the-art laparoscopic surgical equipment
   * **Emergency Availability:** 24/7 access for urgent consultations and emergency surgery
   * **Comprehensive Team:** Anesthesiologists and nurses specialized in foregut surgery
   * **Century City Location:** Convenient access from across Los Angeles
   * **Insurance Accepted:** Working with most major insurance plans for coverage
 
-Dr. Moein provides specialized care using advanced laparoscopic and robotic techniques for complex hernia repairs, ensuring optimal outcomes and faster recovery. [Book your consultation](/contact-us/) today to take a crucial step toward safe, effective treatment and lasting relief.
+Dr. Moein provides specialized care using advanced laparoscopic techniques for complex hernia repairs, ensuring optimal outcomes and faster recovery. [Book your consultation](/contact-us/) today to take a crucial step toward safe, effective treatment and lasting relief.
 
 Paraesophageal Hernias Require Expert Care
 

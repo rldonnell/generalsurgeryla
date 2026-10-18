@@ -38,7 +38,7 @@ Cigna plans in the **Los Angeles** area frequently cover emergency and elective 
 
 ### UnitedHealthcare (UHC)
 
-UHC typically provides comprehensive coverage for outpatient general surgeries. Their policies often favor the robotic and laparoscopic methods used by **Dr. Moein** to achieve **minimal scarring**.
+UHC typically provides comprehensive coverage for outpatient general surgeries. Their policies often favor the laparoscopic methods used by **Dr. Moein** to achieve **minimal scarring**.
 
 ## The Gold Standard of Surgical Care in Los Angeles
 

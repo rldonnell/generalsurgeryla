@@ -30,7 +30,7 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - Video schema: fill real upload dates into content/video-dates.json ({"videoId": "YYYY-MM-DD"}). Videos without a date get no VideoObject markup on purpose.
 - Condition and procedure schema for the six procedure pages lives in lib/schema.ts (CONDITIONS). Update it if the page content changes.
 - *.vercel.app hosts send noindex. The real domain does not. Do not remove this rule.
-- Facts on the hernia page that Dr. Moein must confirm before launch: robotic repair, emergency repair, reconstruction of failed repairs, "years of experience".
+- Facts on the hernia page that Dr. Moein must confirm before launch: emergency repair, reconstruction of failed repairs, "years of experience".
 - Cost section on the hernia page intentionally has no dollar figures. Add a range only after Dr. Moein confirms it.
 
 ## Visual redesign, Oct 14, 2026 (navy and sand)

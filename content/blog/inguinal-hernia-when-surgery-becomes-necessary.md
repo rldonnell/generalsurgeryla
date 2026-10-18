@@ -46,11 +46,9 @@ The specific signs that surgery has become necessary (or near-necessary):
 
 ## What the surgery actually involves
 
-Inguinal hernia repair in 2026 is one of three approaches:
+Inguinal hernia repair in 2026 is one of two approaches:
 
 **Laparoscopic repair (TEP or TAPP).** 3-4 small incisions, mesh placed behind the muscle wall, typically done as outpatient surgery under general anesthesia. Most common modern approach. Recovery is typically 1-2 weeks for most activities, 4-6 weeks for full exercise.
-
-**Robotic repair.** Same anatomical approach as laparoscopic but with a robotic platform that gives the surgeon more precise control. Useful for complex cases, recurrent hernias, or bilateral repairs. Recovery is similar to laparoscopic.
 
 **Open repair (Lichtenstein).** Single incision over the hernia, mesh placed through that incision. Often done under spinal or local anesthesia with sedation. Useful for very large hernias, certain recurrent hernias, or patients who can't have general anesthesia. Recovery is similar timeline but the single incision is slightly more uncomfortable initially.
 
@@ -58,7 +56,7 @@ The choice depends on the hernia type, the patient's anatomy, the patient's pref
 
 ## Recovery realities
 
-For laparoscopic or robotic repair:
+For laparoscopic repair:
 
   * **Day 0-3:** Soreness manageable with prescription medication or strong over-the-counter. Walking the first day is encouraged. Light activity at home.
   * **Days 4-7:** Most patients off prescription pain medication. Return to desk work between day 5 and 10 depending on comfort.
@@ -94,7 +92,7 @@ Standard inguinal hernia surgery has very low risk to fertility. The spermatic c
 
 ### How long do I have to wait if I have a hernia on both sides?
 
-Bilateral inguinal hernias can often be repaired in the same operation. Laparoscopic or robotic bilateral repair adds about 30-45 minutes to surgical time compared to a single side, and recovery is essentially the same.
+Bilateral inguinal hernias can often be repaired in the same operation. Laparoscopic bilateral repair adds about 30-45 minutes to surgical time compared to a single side, and recovery is essentially the same.
 
 ### What if I'm overweight or have other health conditions?
 

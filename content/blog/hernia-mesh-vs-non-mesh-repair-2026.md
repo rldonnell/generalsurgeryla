@@ -52,7 +52,7 @@ For the typical patient with an inguinal, umbilical, or incisional hernia in a h
 
 **Type of mesh.** Heavyweight, lightweight, or composite. Each has trade-offs. Lightweight mesh causes less stiffness and chronic discomfort but has slightly higher recurrence in high-tension repairs.
 
-**Placement technique.** Open mesh (Lichtenstein), laparoscopic mesh (TAPP or TEP for inguinal), or robotic mesh. Each has its own recovery profile and complication pattern.
+**Placement technique.** Open mesh (Lichtenstein), or laparoscopic mesh (TAPP or TEP for inguinal). Each has its own recovery profile and complication pattern.
 
 **Fixation method.** Sutures, tacks, glue, or self-fixating mesh. The newer self-fixating mesh products often have lower rates of chronic groin pain than tack-fixated mesh.
 
@@ -101,10 +101,6 @@ Permanently, with the synthetic mesh used for most hernia repairs. Biologic and 
 ### Can mesh be removed if I have problems?
 
 Yes, but it's technically demanding. The mesh integrates with surrounding tissue and removal involves dissection through scar tissue. Surgeons who specifically handle mesh removal have substantially better outcomes than general surgeons doing it occasionally. If you're considering removal, find a surgeon who does this regularly.
-
-### What about robotic hernia surgery?
-
-Robotic platforms (typically da Vinci) allow finer dissection and better visualization than traditional laparoscopy for some hernia types, especially complex incisional and inguinal cases. For most primary inguinal hernias, laparoscopic and robotic repair have comparable outcomes. The choice depends on surgeon experience and case complexity.
 
 ### What if I just leave the hernia alone?
 

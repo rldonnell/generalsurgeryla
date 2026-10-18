@@ -36,7 +36,7 @@ export default function Home() {
             <h1>General surgery in <span className="nowrap">Los Angeles</span>, through the smallest incision that works.</h1>
             <p className="lede">
               Dr. Babak Moein is a board-certified general surgeon in Century City. His general surgery practice treats
-              hernias, gallbladder disease and appendicitis with laparoscopic and robotic techniques. Many patients go home
+              hernias, gallbladder disease and appendicitis mostly laparoscopically. Most patients go home
               the same day.
             </p>
             <div className="actions">
@@ -113,7 +113,7 @@ export default function Home() {
           <div className="section-head">
             <h2>Minimally invasive or open general surgery?</h2>
             <p>
-              Dr. Moein uses laparoscopic or robotic techniques whenever they are safe for your case. Open surgery is still the right
+              Dr. Moein operates laparoscopically whenever they are safe for your case. Open surgery is still the right
               choice for some large or complicated repairs.
             </p>
           </div>
@@ -124,7 +124,7 @@ export default function Home() {
               </thead>
               <tbody>
                 <tr><th scope="row">Incisions</th><td>A few small incisions</td><td>One longer incision</td></tr>
-                <tr><th scope="row">Going home</th><td>Often the same day</td><td>Sometimes an overnight stay</td></tr>
+                <tr><th scope="row">Going home</th><td>Usually the same day</td><td>Sometimes an overnight stay</td></tr>
                 <tr><th scope="row">Pain after surgery</th><td>Usually less</td><td>Usually more</td></tr>
                 <tr><th scope="row">Back to desk work</th><td>Often within a week</td><td>Often two weeks or more</td></tr>
                 <tr><th scope="row">Scarring</th><td>Small, easy to hide</td><td>A longer scar</td></tr>

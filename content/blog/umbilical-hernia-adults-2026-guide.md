@@ -46,10 +46,6 @@ For small hernias (typically under 2 cm), an open repair through a small incisio
 
 For larger hernias, patients with prior abdominal surgery, or patients with recurrent hernia after previous repair, laparoscopic mesh repair is the standard of care. Three small incisions allow a camera and instruments into the abdomen; a piece of surgical mesh is placed underneath the defect and secured to the abdominal wall. Laparoscopic repair has lower long-term recurrence rates than open primary suture repair for defects over 2 cm, and typically results in less post-operative discomfort. Operative time is 60 to 90 minutes.
 
-### Robotic-assisted repair
-
-A subset of complex or recurrent umbilical / ventral hernia cases benefit from robotic-assisted repair, which gives the surgeon greater precision for mesh placement and fascial closure. Most straightforward umbilical hernias do not require robotic assistance; ask your surgeon which technique fits your specific case and why.
-
 ## Why Mesh Reinforcement Matters
 
 Umbilical hernias have historically had high recurrence rates when repaired with sutures alone, some series reporting 30 to 50 percent recurrence for larger defects. Modern polypropylene, PTFE, or biosynthetic mesh reinforcement drops recurrence rates to approximately 2 to 5 percent when placed correctly. That is why most modern surgeons use mesh for defects over 1.5 to 2 cm, even for uncomplicated cases. The mesh becomes incorporated into your abdominal wall over the following 6 to 12 months and functions as permanent reinforcement.
@@ -71,7 +67,6 @@ Insurance typically covers symptomatic umbilical hernia repair as medically nece
   * **Small open primary repair (no mesh)** : $4,500 to $7,500
   * **Open repair with mesh** : $6,500 to $10,500
   * **Laparoscopic repair with mesh** : $9,500 to $15,500
-  * **Robotic-assisted repair** : $12,500 to $20,000
   * **Complex or recurrent repair** : $15,000 to $28,000 depending on defect size and prior surgery history
 
 Cash-pay quotes should be itemized: surgeon fee, anesthesia, facility, mesh, follow-up visits. Facility choice matters, ambulatory surgery centers accredited by [AAAASF](https://www.aaaasf.org/), AAAHC, or The Joint Commission maintain higher safety standards than unaccredited settings.
