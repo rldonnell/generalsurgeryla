@@ -226,7 +226,7 @@ export function docGraph(doc: Doc) {
       reviewedBy: reviewed,
       publisher: { '@id': IDS.clinic },
       isPartOf: { '@id': IDS.website },
-      image: `${base}${s.doctor.photo}`,
+      image: doc.images.length ? doc.images.map((i) => `${base}${i.src}`) : `${base}${s.doctor.photo}`,
       inLanguage: 'en-US',
     });
     graph.push(breadcrumbs([{ name: 'Home', path: '/' }, { name: 'Blog', path: '/blog/' }, { name: doc.title, path: `/${doc.slug}/` }]));
@@ -240,6 +240,7 @@ export function docGraph(doc: Doc) {
       description: doc.description,
       isPartOf: { '@id': IDS.website },
       ...(isAbout ? { mainEntity: { '@id': IDS.physician } } : { reviewedBy: reviewed, lastReviewed: doc.updated }),
+      ...(doc.images.length ? { primaryImageOfPage: { '@type': 'ImageObject', url: `${base}${doc.images[0].src}`, caption: doc.images[0].caption || doc.images[0].alt } , image: doc.images.map((i) => `${base}${i.src}`) } : {}),
       dateModified: doc.updated,
       inLanguage: 'en-US',
     });

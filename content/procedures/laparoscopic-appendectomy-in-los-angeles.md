@@ -12,6 +12,17 @@ faqs:
 - q: How long is recovery after a laparoscopic appendectomy?
   a: For uncomplicated appendicitis, most patients go home the same day or the next day and return to light activity within about a week. Recovery is longer if the appendix had ruptured. Heavy lifting is usually avoided for a few weeks.
 videos: []
+images:
+- src: /images/appendectomy-laparoscopic-incisions.webp
+  alt: 'Diagram of a laparoscopic appendectomy showing three small incisions and where the instruments enter the abdomen'
+  caption: 'Laparoscopic appendectomy uses a few small incisions.'
+  width: 768
+  height: 576
+- src: /images/normal-vs-inflamed-appendix.webp
+  alt: 'Illustration comparing a normal appendix with an inflamed appendix attached to the colon'
+  caption: 'A normal appendix beside an inflamed one.'
+  width: 768
+  height: 576
 updated: '2026-09-29'
 ---
 

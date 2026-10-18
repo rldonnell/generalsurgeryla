@@ -88,6 +88,24 @@ export default function DocPage({ params }: { params: { slug: string } }) {
 
         <div className="layout">
           <article>
+            {d.images.length > 0 && (
+              <div className={`lead-figures${d.images[0].portrait ? ' portrait' : ''}${d.images.length === 1 ? ' single' : ''}`}>
+                {d.images.map((img, i) => (
+                  <figure key={img.src}>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={img.src}
+                      alt={img.alt}
+                      width={img.width || 768}
+                      height={img.height || 512}
+                      loading={i === 0 ? 'eager' : 'lazy'}
+                      decoding="async"
+                    />
+                    {img.caption && <figcaption>{img.caption}</figcaption>}
+                  </figure>
+                ))}
+              </div>
+            )}
             {d.diagram === 'hernia' && <HerniaMap />}
             <div className="prose" dangerouslySetInnerHTML={{ __html: d.html }} />
 

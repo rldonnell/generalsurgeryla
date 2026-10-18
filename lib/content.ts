@@ -14,6 +14,7 @@ export const allFaqs: Faq[] = (faqsJson as { items: Faq[] }).items;
 const root = path.join(process.cwd(), 'content');
 
 export type Heading = { id: string; text: string };
+export type DocImage = { src: string; alt: string; caption?: string; width?: number; height?: number; portrait?: boolean };
 
 export type Doc = {
   kind: 'procedure' | 'page' | 'post';
@@ -24,6 +25,7 @@ export type Doc = {
   html: string;
   headings: Heading[];
   videos: string[];
+  images: DocImage[];
   updated: string;
   // procedures
   navLabel?: string;
@@ -83,6 +85,7 @@ function readDir(dir: string, kind: Doc['kind']): Doc[] {
         html,
         headings,
         videos: data.videos || [],
+        images: data.images || [],
         updated: String(data.updated || data.date || ''),
         navLabel: data.navLabel,
         order: data.order,

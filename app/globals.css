@@ -306,6 +306,14 @@ p { margin: 0 0 1em; }
 }
 
 .article-figure { margin: 0 0 2.25rem; max-width: var(--measure); }
+.lead-figures { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 0 0 2.25rem; max-width: 52rem; align-items: start; }
+.lead-figures.single { grid-template-columns: minmax(0, 1fr); max-width: var(--measure); }
+.lead-figures figure { margin: 0; background: var(--white); border: 1px solid var(--rule); border-radius: 18px; overflow: hidden; }
+.lead-figures img { display: block; width: 100%; height: auto; }
+.lead-figures figcaption { font-size: .9rem; color: var(--ink-soft); padding: .65rem .9rem .8rem; line-height: 1.4; }
+.lead-figures.portrait { max-width: 22rem; }
+.lead-figures.portrait figure { border-radius: 28px 28px 28px 8px; }
+@media (max-width: 640px) { .lead-figures { grid-template-columns: minmax(0, 1fr); } }
 .body-map .hot.static { cursor: default; }
 .body-map .hot.static:hover .dot { fill: var(--white); }
 .body-map .hot.static:hover text { fill: var(--ink); text-decoration: none; }

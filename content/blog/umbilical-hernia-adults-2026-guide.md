@@ -3,6 +3,12 @@ title: 'Umbilical Hernia in Adults: When Surgery Is Really Needed (2026 Los Ange
 metaTitle: 'Umbilical Hernia in Adults: When Surgery Is Needed'
 description: Umbilical hernias &mdash; the small bulge or protrusion at or just above the belly button &mdash; affect an estimated 10 to 25 percent of adults at some point
 date: '2026-06-28'
+images:
+- src: /images/umbilical-hernia-illustration.webp
+  alt: 'Illustration of an umbilical hernia with tissue pushing through the abdominal wall at the belly button'
+  caption: 'An umbilical hernia pushes through the abdominal wall at the belly button.'
+  width: 768
+  height: 415
 updated: '2026-09-29'
 excerpt: Umbilical hernias &mdash; the small bulge or protrusion at or just above the belly button &mdash; affect an estimated 10 to 25 percent of adults at some point
 ---

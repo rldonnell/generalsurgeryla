@@ -14,6 +14,12 @@ faqs:
 videos:
 - LBf5wMnscoo
 - Kb_Gk0Bsemo
+images:
+- src: /images/inguinal-hernia-anatomy.webp
+  alt: 'Illustration comparing normal groin anatomy with an inguinal hernia, where a loop of bowel pushes through the lower abdominal wall'
+  caption: 'Normal groin anatomy beside an inguinal hernia.'
+  width: 768
+  height: 512
 updated: '2026-09-29'
 ---
 

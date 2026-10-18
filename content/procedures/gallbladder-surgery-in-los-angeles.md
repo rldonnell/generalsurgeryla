@@ -15,6 +15,17 @@ videos:
 - TIlHQyo21qY
 - rwLGf0ovWIc
 - tpgimjuAeks
+images:
+- src: /images/laparoscopic-gallbladder-surgery.webp
+  alt: 'Illustration of laparoscopic gallbladder removal with instruments entering through small abdominal incisions'
+  caption: 'Laparoscopic gallbladder removal uses small incisions and a camera.'
+  width: 768
+  height: 576
+- src: /images/gallstones-inflamed-gallbladder.webp
+  alt: 'Illustration of gallstones in an inflamed gallbladder blocking the cystic duct and the common bile duct'
+  caption: 'Gallstones can block the bile ducts and inflame the gallbladder.'
+  width: 768
+  height: 634
 updated: '2026-09-29'
 ---
 

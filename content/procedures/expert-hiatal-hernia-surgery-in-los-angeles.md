@@ -17,6 +17,17 @@ videos:
 - PTfhHe-tcRo
 - tX0BrRUNn8w
 - wXeKxpQPlkA
+images:
+- src: /images/hiatal-hernia-illustration.webp
+  alt: 'Illustration of a hiatal hernia with part of the stomach pushing up through the diaphragm into the chest'
+  caption: 'A hiatal hernia lets part of the stomach slide up into the chest.'
+  width: 768
+  height: 512
+- src: /images/hiatal-hernia-normal-vs-hernia-diagram.webp
+  alt: 'Diagram comparing a normal stomach and esophagus with a hiatal hernia, labeling the diaphragm, lower esophageal sphincter and stomach'
+  caption: 'Normal anatomy compared with a hiatal hernia.'
+  width: 768
+  height: 476
 updated: '2026-09-29'
 ---
 

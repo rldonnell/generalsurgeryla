@@ -23,6 +23,17 @@ collections:
       - { label: "Publish date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: "Last updated", name: "updated", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - label: "Page images (shown near the top)"
+        name: "images"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Image", name: "src", widget: "image" }
+          - { label: "Alt text (describe the picture)", name: "alt", widget: "string" }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+          - { label: "Width (px)", name: "width", widget: "number", value_type: "int", required: false }
+          - { label: "Height (px)", name: "height", widget: "number", value_type: "int", required: false }
+          - { label: "Portrait photo (About page only)", name: "portrait", widget: "boolean", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "procedures"
@@ -47,6 +58,17 @@ collections:
           - { label: "Question", name: "q", widget: "string" }
           - { label: "Answer", name: "a", widget: "text" }
       - { label: "YouTube video IDs", name: "videos", widget: "list", required: false }
+      - label: "Page images (shown near the top)"
+        name: "images"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Image", name: "src", widget: "image" }
+          - { label: "Alt text (describe the picture)", name: "alt", widget: "string" }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+          - { label: "Width (px)", name: "width", widget: "number", value_type: "int", required: false }
+          - { label: "Height (px)", name: "height", widget: "number", value_type: "int", required: false }
+          - { label: "Portrait photo (About page only)", name: "portrait", widget: "boolean", required: false }
       - { label: "Last reviewed", name: "updated", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
@@ -61,6 +83,17 @@ collections:
       - { label: "SEO title", name: "metaTitle", widget: "string" }
       - { label: "Meta description", name: "description", widget: "text" }
       - { label: "YouTube video IDs", name: "videos", widget: "list", required: false }
+      - label: "Page images (shown near the top)"
+        name: "images"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Image", name: "src", widget: "image" }
+          - { label: "Alt text (describe the picture)", name: "alt", widget: "string" }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+          - { label: "Width (px)", name: "width", widget: "number", value_type: "int", required: false }
+          - { label: "Height (px)", name: "height", widget: "number", value_type: "int", required: false }
+          - { label: "Portrait photo (About page only)", name: "portrait", widget: "boolean", required: false }
       - { label: "Last updated", name: "updated", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: "Body", name: "body", widget: "markdown" }
 

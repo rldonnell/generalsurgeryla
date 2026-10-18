@@ -5,6 +5,12 @@ description: Learn about general surgeon Dr. Babak Moein in Los Angeles, known f
 videos:
 - TVUIxAdJQww
 - tX0BrRUNn8w
+images:
+- src: /images/dr-babak-moein-portrait.webp
+  alt: 'Dr. Babak Moein, general surgeon in Century City, Los Angeles'
+  width: 500
+  height: 496
+  portrait: true
 updated: '2026-09-29'
 ---
 
