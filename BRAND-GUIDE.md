@@ -38,7 +38,8 @@ It leads with Dr. Moein explaining conditions on video, then sends people to the
 | Action | Terracotta | `#c93c22` | `--marker` | Primary buttons, "go" links, play buttons. Nothing decorative |
 | Action hover | Deep terracotta | `#a8311b` | `--marker-deep` | Hover and pressed state of terracotta buttons |
 | Link | Clinic blue | `#1f4f8f` | `--scrub` | Inline text links, small section labels |
-| Panel | Sky | `#e8f1fb` | `--sky`, `--mist` | Hero panel, appendix card, hernia guides, testimonials |
+| Panel | Blush | `#fdf1ec` | `--blush` | Home page hero panel (a very light tint of Terracotta) |
+| Panel | Sky | `#e8f1fb` | `--sky`, `--mist` | Appendix card, hernia guides, testimonials, "Watch" posters |
 | Panel | Sand | `#fff4e5` | `--sand` | Doctor panel, gallbladder card and gallbladder guides |
 | Highlight | Sun | `#ffe08a` | `--sun` | The one highlighted phrase in a headline; step labels on navy |
 | Ground | White | `#ffffff` | `--paper` | Page background, cards on colored panels |
@@ -46,7 +47,7 @@ It leads with Dr. Moein explaining conditions on video, then sends people to the
 
 **Topic color coding.** Hernia content sits on Sky with a blue label (`#1f4f8f`). Gallbladder content sits on Sand with an amber label (`#8a4b12`). Appendix sits on Sky with a terracotta border tint because it is urgent.
 
-**Proportion.** Roughly 70% white, 20% Sky and Sand panels, 10% Navy. Terracotta appears only where someone can act.
+**Proportion.** Roughly 70% white, 20% Blush, Sky and Sand panels, 10% Navy. Terracotta appears only where someone can act.
 
 **Contrast (WCAG 2.1).** Every pairing below passes AA for normal text.
 
@@ -146,4 +147,5 @@ Don't put terracotta text on Sky for small text, and don't put Slate on Navy.
 
 ## Change log
 
+- Nov 4, 2026: Home hero panel changed from Sky to Blush (#fdf1ec).
 - Nov 4, 2026: Guide created for the Explainer redesign (Montserrat and Figtree, Sky and Sand panels, navy header bar).

@@ -48,7 +48,7 @@ export default function Home() {
       <JsonLd data={{ '@context': 'https://schema.org', ...faqPage(homeFaqs, `${s.baseUrl}/`) }} />
 
       <section className="x-hero">
-        <div className="x-panel x-sky x-hero-grid">
+        <div className="x-panel x-blush x-hero-grid">
           <div className="x-hero-copy">
             <p className="x-pill">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>

@@ -15,6 +15,7 @@
   --sky: #e8f1fb;
   --sand: #fff4e5;
   --sun: #ffe08a;
+  --blush: #fdf1ec;
   --rule: #dbe3ee;
   --marker: #c93c22;
   --marker-deep: #a8311b;
@@ -344,6 +345,7 @@ p { margin: 0 0 1em; }
 .x-panel { max-width: 1376px; margin: 0 auto; border-radius: 32px; padding: clamp(2rem, 5vw, 4.5rem) clamp(1.25rem, 4vw, 3.5rem); }
 .x-sky { background: var(--sky); }
 .x-sand { background: var(--sand); }
+.x-blush { background: var(--blush); }
 .x-ink { background: var(--ink); color: #fff; }
 .x-ink h2, .x-ink h3 { color: #fff; }
 .x-hero, .x-band-wrap { padding: 0 16px; }
@@ -369,9 +371,9 @@ p { margin: 0 0 1em; }
 .x-chooser a:hover { transform: translateY(-2px); box-shadow: 0 10px 22px -14px rgba(14,26,43,.4); color: var(--ink); }
 .x-chooser strong { font-weight: 700; }
 .x-chooser span { font-size: .88rem; color: var(--ink-soft); line-height: 1.35; }
-.c-hernia { background: #f4f8fd; border-color: #cfe0f4; }
-.c-gall { background: #fff8ee; border-color: #f6dfbf; }
-.c-appx { background: #fdf0ed; border-color: #f1cbc2; }
+.x-chooser a.c-hernia { background: #f4f8fd; border-color: #cfe0f4; }
+.x-chooser a.c-gall { background: #fff8ee; border-color: #f6dfbf; }
+.x-chooser a.c-appx { background: #fdf0ed; border-color: #f1cbc2; }
 
 .x-hero-video { flex: 1 1 300px; max-width: 380px; margin: 0 auto; position: relative; }
 @media (max-width: 520px) { .x-hero-video { max-width: 280px; } }
