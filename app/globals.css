@@ -1,5 +1,5 @@
 /* General Surgery LA design tokens (Nov 2026 redesign: "Explainer", bright and video-led)
-   White paper, navy ink, light sky blue and warm sand panels, one terracotta
+   White paper, navy ink, light sky blue and warm sand panels, one burnt-orange
    action color. Headings are Montserrat semi-bold, body is Figtree.
    Variable names (--scrub, --marker) are historical from the first design:
    --scrub is navy, --marker is terracotta. Keep the names so the components
@@ -15,11 +15,11 @@
   --sky: #e8f1fb;
   --sand: #fff4e5;
   --sun: #ffe08a;
-  --blush: #fdf1ec;
+  --sun-soft: #ffeab8;
   --rule: #dbe3ee;
-  --marker: #c93c22;
-  --marker-deep: #a8311b;
-  --focus: #c93c22;
+  --marker: #bd4f1c;
+  --marker-deep: #9e4016;
+  --focus: #bd4f1c;
 
   --font-display: var(--font-montserrat), 'Helvetica Neue', Arial, sans-serif;
   --font-body: var(--font-figtree), -apple-system, 'Segoe UI', Roboto, sans-serif;
@@ -208,7 +208,7 @@ p { margin: 0 0 1em; }
 .form .row { display: grid; grid-template-columns: 1fr 1fr; gap: .9rem; }
 .form label { display: block; font-weight: 600; font-size: .92rem; margin: .9rem 0 .35rem; }
 .form input, .form textarea { width: 100%; font: 400 1rem var(--font-body); padding: .75rem .85rem; border: 1.5px solid var(--rule); border-radius: var(--radius-sm); background: #f7f9fc; color: var(--ink); }
-.form input:focus, .form textarea:focus { border-color: var(--marker); outline: none; box-shadow: 0 0 0 3px rgba(201,60,34,.18); }
+.form input:focus, .form textarea:focus { border-color: var(--marker); outline: none; box-shadow: 0 0 0 3px rgba(189,79,28,.18); }
 .form textarea { min-height: 110px; resize: vertical; }
 .form .btn { width: 100%; margin-top: 1.25rem; }
 .form .error { color: #9b1c1c; font-size: .95rem; margin-top: .75rem; }
@@ -345,7 +345,6 @@ p { margin: 0 0 1em; }
 .x-panel { max-width: 1376px; margin: 0 auto; border-radius: 32px; padding: clamp(2rem, 5vw, 4.5rem) clamp(1.25rem, 4vw, 3.5rem); }
 .x-sky { background: var(--sky); }
 .x-sand { background: var(--sand); }
-.x-blush { background: var(--blush); }
 .x-ink { background: var(--ink); color: #fff; }
 .x-ink h2, .x-ink h3 { color: #fff; }
 .x-hero, .x-band-wrap { padding: 0 16px; }
@@ -358,7 +357,7 @@ p { margin: 0 0 1em; }
 .x-hero-grid { display: flex; flex-wrap: wrap; align-items: center; gap: clamp(2rem, 5vw, 5rem); }
 .x-hero-copy { flex: 999 1 520px; min-width: 0; }
 .x-hero h1 { font-size: clamp(21px, 5.6vw, 44px); line-height: 1.08; letter-spacing: -0.02em; text-wrap: balance; }
-.x-hero h1 mark { background: var(--sun); color: inherit; padding: 0 6px; border-radius: 8px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.x-hero h1 mark { background: var(--sun-soft); color: inherit; padding: 0 6px; border-radius: 8px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
 .x-hero .lede { font-size: 1.15rem; color: var(--ink-soft); max-width: 54ch; margin: 1.5rem 0 0; }
 .x-pill { display: inline-flex; align-items: center; gap: .5rem; padding: .4rem .9rem; border-radius: 999px; background: #fff; font-size: .88rem; font-weight: 700; margin: 0 0 1.25rem; line-height: 1.3; }
 .x-pill svg { width: 16px; height: 16px; fill: var(--marker); flex: none; }

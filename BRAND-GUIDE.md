@@ -35,19 +35,19 @@ It leads with Dr. Moein explaining conditions on video, then sends people to the
 |---|---|---|---|---|
 | Ink | Navy | `#0e1a2b` | `--ink`, `--scrub-deep` | Headlines, body text on light, header bar, dark panels, footer |
 | Body soft | Slate | `#3d4a5c` | `--ink-soft` | Paragraphs, captions, secondary text |
-| Action | Terracotta | `#c93c22` | `--marker` | Primary buttons, "go" links, play buttons. Nothing decorative |
-| Action hover | Deep terracotta | `#a8311b` | `--marker-deep` | Hover and pressed state of terracotta buttons |
+| Action | Burnt orange | `#bd4f1c` | `--marker` | Every button (including About Dr. Moein), "go" links, play buttons. Nothing decorative |
+| Action hover | Deep burnt orange | `#9e4016` | `--marker-deep` | Hover and pressed state of buttons |
 | Link | Clinic blue | `#1f4f8f` | `--scrub` | Inline text links, small section labels |
-| Panel | Blush | `#fdf1ec` | `--blush` | Home page hero panel (a very light tint of Terracotta) |
 | Panel | Sky | `#e8f1fb` | `--sky`, `--mist` | Appendix card, hernia guides, testimonials, "Watch" posters |
-| Panel | Sand | `#fff4e5` | `--sand` | Doctor panel, gallbladder card and gallbladder guides |
-| Highlight | Sun | `#ffe08a` | `--sun` | The one highlighted phrase in a headline; step labels on navy |
+| Panel | Sand | `#fff4e5` | `--sand` | Home page hero, doctor panel, gallbladder card and gallbladder guides |
+| Highlight | Soft sun | `#ffeab8` | `--sun-soft` | The one highlighted phrase in a headline ("smallest incision") |
+| Accent on navy | Sun | `#ffe08a` | `--sun` | Step labels and small accents on navy only |
 | Ground | White | `#ffffff` | `--paper` | Page background, cards on colored panels |
 | Rule | Mist line | `#dbe3ee` | `--rule` | Hairlines, table borders, input borders |
 
-**Topic color coding.** Hernia content sits on Sky with a blue label (`#1f4f8f`). Gallbladder content sits on Sand with an amber label (`#8a4b12`). Appendix sits on Sky with a terracotta border tint because it is urgent.
+**Topic color coding.** Hernia content sits on Sky with a blue label (`#1f4f8f`). Gallbladder content sits on Sand with an amber label (`#8a4b12`). Appendix sits on Sky with a burnt orange border tint because it is urgent.
 
-**Proportion.** Roughly 70% white, 20% Blush, Sky and Sand panels, 10% Navy. Terracotta appears only where someone can act.
+**Proportion.** Roughly 70% white, 20% Sand and Sky panels, 10% Navy. Burnt orange appears only where someone can act.
 
 **Contrast (WCAG 2.1).** Every pairing below passes AA for normal text.
 
@@ -57,16 +57,17 @@ It leads with Dr. Moein explaining conditions on video, then sends people to the
 | Slate | White | 9.0:1 |
 | Slate | Sky | 7.9:1 |
 | Slate | Sand | 8.3:1 |
-| White | Terracotta | 5.1:1 |
-| Terracotta | White | 5.1:1 |
-| Terracotta | Sand | 4.7:1 |
+| White | Burnt orange | 4.9:1 |
+| Burnt orange | White | 4.9:1 |
+| Burnt orange | Sand | 4.5:1 |
+| Navy | Soft sun | 14.7:1 |
 | Clinic blue | White | 8.2:1 |
 | Amber label | Sand | 6.2:1 |
 | White | Navy | 17.5:1 |
 | Light grey `#c4cedb` | Navy | 11.0:1 |
 | Sun | Navy | 13.6:1 |
 
-Don't put terracotta text on Sky for small text, and don't put Slate on Navy.
+Don't put burnt orange text on Sky for small text, and don't put Slate on Navy.
 
 ## 5. Typography
 
@@ -83,7 +84,7 @@ Don't put terracotta text on Sky for small text, and don't put Slate on Navy.
 - Headings use a slight negative letter spacing (minus 0.02em).
 - Sentence case everywhere. No all-caps headlines.
 - Keep "Los Angeles" on one line (use a non-breaking space between the words).
-- One highlighted phrase per headline at most, in Sun with a small rounded background.
+- One highlighted phrase per headline at most, in Soft sun with a small rounded background.
 - Both fonts are free Google Fonts (SIL Open Font License), loaded through `next/font`. Nothing to renew. Garet was considered and rejected because it needs a paid web license.
 
 ## 6. Shape, space and depth
@@ -100,13 +101,13 @@ Don't put terracotta text on Sky for small text, and don't put Slate on Navy.
 
 | Component | Look | Where in code |
 |---|---|---|
-| Header bar | Navy, white text, white GS mark, terracotta Call button on desktop, translucent white Menu pill on phones | `components/Header.tsx`, CSS "Navy header bar" |
-| Primary button | Terracotta, white text | `.btn-marker` |
+| Header bar | Navy, white text, white GS mark, burnt orange Call button on desktop, translucent white Menu pill on phones | `components/Header.tsx`, CSS "Navy header bar" |
+| Primary button | Burnt orange, white text | `.btn-marker` |
 | Secondary button | White fill on colored panels, or navy fill | `.btn-white`, `.btn-ink` |
 | Outline button | Navy outline, used sparingly | `.btn-line` |
 | Hero | Sky panel, headline, pill badge, "What brought you here?" chooser, tilted video card | `.x-hero` |
 | Chooser chips | Three tinted chips: hernia (blue), gallbladder (amber), appendix (red tint) | `.x-chooser` |
-| Video card | 9:16 vertical, 20px radius, play button lower left; hero version has a centered terracotta play button | `components/ShortVideo.tsx` |
+| Video card | 9:16 vertical, 20px radius, play button lower left; hero version has a centered burnt orange play button | `components/ShortVideo.tsx` |
 | Service cards | Hernia in Navy with link list, Gallbladder on Sand with image, Appendix on Sky | `.x-services` |
 | Steps band | Navy panel, four translucent cards, Sun step labels | `.x-steps` |
 | Guide cards | Sky or Sand by topic, small uppercase topic label, Montserrat title | `.x-guides` |
@@ -136,16 +137,16 @@ Don't put terracotta text on Sky for small text, and don't put Slate on Navy.
 ## 10. Quick do and don't
 
 **Do**
-- Use one terracotta action per area.
+- Use one burnt orange action per area.
 - Match panel color to topic (hernia Sky, gallbladder Sand).
 - Check the home headline on a real phone after any copy change.
 
 **Don't**
 - Use serif fonts, the old green or violet palette, or the old navy-and-sand serif look.
 - Add other Moein brands, logos or links.
-- Use terracotta as decoration, or add gradients or heavy borders.
+- Use burnt orange as decoration, or add gradients or heavy borders.
 
 ## Change log
 
-- Nov 4, 2026: Home hero panel changed from Sky to Blush (#fdf1ec).
+- Nov 4, 2026: Home hero is now Sand (matches the doctor panel). Action color changed from the redder #c93c22 to a warmer Burnt orange #bd4f1c, and the About Dr. Moein button uses it too. Headline highlight softened to #ffeab8. Favicon updated to the GS mark.
 - Nov 4, 2026: Guide created for the Explainer redesign (Montserrat and Figtree, Sky and Sand panels, navy header bar).
