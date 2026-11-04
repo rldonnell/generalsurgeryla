@@ -11,12 +11,17 @@
   --ink-soft: #3d4a5c;
   --scrub: #1f4f8f;
   --scrub-deep: #0e1a2b;
-  --mist: #e8f1fb;
-  /* Sage: the sky blue's lightness and chroma (OKLCH) at the hue of #7c961c.
-     --sky now points here; the old sky value was #e8f1fb. */
+  --mist: var(--fog);
+  /* Sage: the old sky blue's lightness and chroma (OKLCH) at the hue of #7c961c.
+     Used for appendix. */
   --sage: #eef2e6;
   --sage-line: #dae2ca;
-  --sky: var(--sage);
+  /* Fog: neutral light gray at the same lightness, no blue. Replaces the old
+     sky blue #e8f1fb, which read purple on some monitors. --sky and --mist
+     point here so existing components keep working. */
+  --fog: #f1f1f1;
+  --fog-line: #dddddd;
+  --sky: var(--fog);
   --sand: #fff4e5;
   --sun: #ffe08a;
   --sun-soft: #ffeab8;
@@ -348,6 +353,7 @@ p { margin: 0 0 1em; }
    margin; .x-sky, .x-sand and .x-ink are the three panel colors. */
 .x-panel { max-width: 1376px; margin: 0 auto; border-radius: 32px; padding: clamp(2rem, 5vw, 4.5rem) clamp(1.25rem, 4vw, 3.5rem); }
 .x-sky { background: var(--sky); }
+.x-sage { background: var(--sage); }
 .x-sand { background: var(--sand); }
 .x-ink { background: var(--ink); color: #fff; }
 .x-ink h2, .x-ink h3 { color: #fff; }
@@ -374,7 +380,7 @@ p { margin: 0 0 1em; }
 .x-chooser a:hover { transform: translateY(-2px); box-shadow: 0 10px 22px -14px rgba(14,26,43,.4); color: var(--ink); }
 .x-chooser strong { font-weight: 700; }
 .x-chooser span { font-size: .88rem; color: var(--ink-soft); line-height: 1.35; }
-.x-chooser a.c-hernia { background: #f4f8fd; border-color: #cfe0f4; }
+.x-chooser a.c-hernia { background: var(--fog); border-color: var(--fog-line); }
 .x-chooser a.c-gall { background: #fff8ee; border-color: #f6dfbf; }
 .x-chooser a.c-appx { background: var(--sage); border-color: var(--sage-line); }
 

@@ -128,7 +128,7 @@ export default function Home() {
               <img src="/images/laparoscopic-gallbladder-surgery.webp" alt="Laparoscopic gallbladder surgery illustration" width={768} height={576} loading="lazy" />
               <span className="go">Gallbladder surgery</span>
             </Link>
-            <Link className="x-svc x-sky" href="/laparoscopic-appendectomy-in-los-angeles/">
+            <Link className="x-svc x-sage" href="/laparoscopic-appendectomy-in-los-angeles/">
               <h3>Appendix</h3>
               <p>Removes an inflamed appendix through a few small incisions. Appendicitis is treated as urgent.</p>
               <span className="go">Laparoscopic appendectomy</span>
