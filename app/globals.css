@@ -461,3 +461,35 @@ a.x-svc:hover { color: var(--ink); box-shadow: 0 16px 36px -22px rgba(14,26,43,.
 .x-ink .map { border-color: rgba(255,255,255,.15); }
 .x-ink .form { color: var(--ink); border: 0; }
 .x-ink .form h2, .x-ink .form h3 { color: var(--ink); }
+
+
+/* Header refresh, Nov 2026: soft shadow instead of a hard rule, a rounded
+   "GS" mark, pill navigation and a light hamburger button on phones. */
+.site-header { border-bottom: 0; box-shadow: 0 1px 0 rgba(14,26,43,.05), 0 8px 24px -18px rgba(14,26,43,.35); }
+.site-header .wrap { min-height: 76px; }
+.brand { flex-direction: row; align-items: center; gap: .7rem; }
+.brand-mark { flex: none; width: 40px; height: 40px; border-radius: 12px; background: var(--ink); color: #fff; display: flex; align-items: center; justify-content: center; font: 700 15px/1 var(--font-display); letter-spacing: .02em; }
+.brand-text { display: flex; flex-direction: column; line-height: 1.1; }
+.brand-sub { color: var(--ink-soft); }
+.nav > a:hover, .nav summary:hover, .nav details[open] > summary { background: var(--sky); }
+.nav .menu { border: 0; box-shadow: 0 24px 48px -20px rgba(14,26,43,.35), 0 0 0 1px rgba(14,26,43,.05); }
+.nav .menu a:hover { background: var(--sky); }
+.header-call { min-height: 44px; padding: .55rem 1.1rem; font-size: .95rem; }
+@media (max-width: 1060px) {
+  .menu-toggle summary { display: inline-flex; align-items: center; gap: .45rem; border: 0; background: var(--sky); color: var(--ink); padding: .6rem 1rem; min-height: 44px; font-size: .95rem; }
+  .menu-toggle summary:hover { background: #d9e8f8; }
+  .menu-toggle svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
+  .menu-toggle .icon-close { display: none; }
+  .menu-toggle[open] .icon-open { display: none; }
+  .menu-toggle[open] .icon-close { display: block; }
+  .menu-toggle[open] summary { background: var(--ink); color: #fff; }
+  .mobile-menu { border-bottom: 0; border-radius: 0 0 24px 24px; box-shadow: 0 24px 40px -24px rgba(14,26,43,.4); padding: .5rem var(--gutter) 1.5rem; }
+  .mobile-menu .menu-title { font-size: .75rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--scrub); margin: 1.25rem 0 .35rem; }
+  .mobile-menu a { border-bottom: 1px solid #eef2f7; padding: .65rem 0; font-weight: 500; }
+}
+@media (max-width: 760px) {
+  .site-header .wrap { min-height: 66px; gap: .75rem; }
+  .brand-mark { width: 36px; height: 36px; border-radius: 11px; font-size: 14px; }
+  .brand-name { font-size: 1.12rem; }
+  .brand-sub { font-size: .72rem; }
+}

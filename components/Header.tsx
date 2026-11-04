@@ -14,8 +14,11 @@ export default function Header() {
     <header className="site-header">
       <div className="wrap">
         <Link href="/" className="brand" aria-label={`${s.siteName} home`}>
-          <span className="brand-name">{s.siteName}</span>
-          <span className="brand-sub">{s.doctor.name}, {s.doctor.credentials}</span>
+          <span className="brand-mark" aria-hidden="true">GS</span>
+          <span className="brand-text">
+            <span className="brand-name">{s.siteName}</span>
+            <span className="brand-sub">{s.doctor.name}, {s.doctor.credentials}</span>
+          </span>
         </Link>
         <nav className="nav" aria-label="Main">
           <details>
@@ -42,7 +45,11 @@ export default function Header() {
           Call <span className="num">{s.phone}</span>
         </a>
         <details className="menu-toggle">
-          <summary>Menu</summary>
+          <summary>
+            <svg className="icon-open" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" /></svg>
+            <svg className="icon-close" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" /></svg>
+            <span>Menu</span>
+          </summary>
           <div className="mobile-menu">
             <p className="menu-title">Procedures</p>
             {procs.map((p) => (

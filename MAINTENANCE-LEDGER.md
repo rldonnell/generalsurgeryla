@@ -70,3 +70,7 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - Several of Dr. Moein's videos show a small Healthy Life logo inside the video itself. Same videos the site already embedded. Fully clean brand separation would need versions without the logo from him.
 - All pages pick up the new colors and fonts through app/globals.css tokens (--scrub and --marker names kept).
 - To undo: revert the commit "Homepage redesign: Explainer layout, Montserrat headings".
+
+## Header refresh, Nov 4, 2026
+- Look only: rounded navy "GS" mark beside the name, soft shadow instead of the hard bottom rule, pill hover on desktop links, light blue hamburger "Menu" button on phones that turns navy with an X when open, cleaner phone dropdown with small uppercase section labels. Links and menu contents unchanged.
+- Changed files: components/Header.tsx (mark and menu icons), app/globals.css (block headed "Header refresh"). To undo, revert the commit "Header refresh".
