@@ -493,3 +493,18 @@ a.x-svc:hover { color: var(--ink); box-shadow: 0 16px 36px -22px rgba(14,26,43,.
   .brand-name { font-size: 1.12rem; }
   .brand-sub { font-size: .72rem; }
 }
+
+/* Navy header bar, Nov 2026: reversed out like the Hernia card on the home page. */
+.site-header { background: rgba(14,26,43,.97); box-shadow: 0 10px 28px -20px rgba(14,26,43,.6); }
+.site-header .brand, .site-header .brand-name { color: #fff; }
+.site-header .brand-sub { color: #aebbcc; }
+.site-header .brand-mark { background: #fff; color: var(--ink); }
+.nav > a, .nav summary { color: #fff; }
+.nav > a:hover, .nav summary:hover, .nav details[open] > summary { background: rgba(255,255,255,.12); color: #fff; }
+.nav .menu a { color: var(--ink); }
+@media (max-width: 1060px) {
+  .menu-toggle summary { background: rgba(255,255,255,.12); color: #fff; }
+  .menu-toggle summary:hover { background: rgba(255,255,255,.2); }
+  .menu-toggle[open] summary { background: #fff; color: var(--ink); }
+  .mobile-menu { border-top: 1px solid rgba(255,255,255,.08); }
+}

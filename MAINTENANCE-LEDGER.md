@@ -74,3 +74,4 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 ## Header refresh, Nov 4, 2026
 - Look only: rounded navy "GS" mark beside the name, soft shadow instead of the hard bottom rule, pill hover on desktop links, light blue hamburger "Menu" button on phones that turns navy with an X when open, cleaner phone dropdown with small uppercase section labels. Links and menu contents unchanged.
 - Changed files: components/Header.tsx (mark and menu icons), app/globals.css (block headed "Header refresh"). To undo, revert the commit "Header refresh".
+- Nov 4, 2026, later the same day: header bar switched to navy with white text (reversed out like the home page Hernia card). GS mark is now white with navy letters; phone menu button is a translucent white pill that turns solid white when open. Dropdown panels stay white. CSS block headed "Navy header bar" in app/globals.css; delete that block to return to the white header.
