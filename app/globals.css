@@ -12,7 +12,11 @@
   --scrub: #1f4f8f;
   --scrub-deep: #0e1a2b;
   --mist: #e8f1fb;
-  --sky: #e8f1fb;
+  /* Sage: the sky blue's lightness and chroma (OKLCH) at the hue of #7c961c.
+     --sky now points here; the old sky value was #e8f1fb. */
+  --sage: #eef2e6;
+  --sage-line: #dae2ca;
+  --sky: var(--sage);
   --sand: #fff4e5;
   --sun: #ffe08a;
   --sun-soft: #ffeab8;
@@ -372,7 +376,7 @@ p { margin: 0 0 1em; }
 .x-chooser span { font-size: .88rem; color: var(--ink-soft); line-height: 1.35; }
 .x-chooser a.c-hernia { background: #f4f8fd; border-color: #cfe0f4; }
 .x-chooser a.c-gall { background: #fff8ee; border-color: #f6dfbf; }
-.x-chooser a.c-appx { background: #fdf0ed; border-color: #f1cbc2; }
+.x-chooser a.c-appx { background: var(--sage); border-color: var(--sage-line); }
 
 .x-hero-video { flex: 1 1 300px; max-width: 380px; margin: 0 auto; position: relative; }
 @media (max-width: 520px) { .x-hero-video { max-width: 280px; } }

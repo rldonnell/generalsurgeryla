@@ -38,7 +38,8 @@ It leads with Dr. Moein explaining conditions on video, then sends people to the
 | Action | Burnt orange | `#bd4f1c` | `--marker` | Every button (including About Dr. Moein), "go" links, play buttons. Nothing decorative |
 | Action hover | Deep burnt orange | `#9e4016` | `--marker-deep` | Hover and pressed state of buttons |
 | Link | Clinic blue | `#1f4f8f` | `--scrub` | Inline text links, small section labels |
-| Panel | Sky | `#e8f1fb` | `--sky`, `--mist` | Appendix card, hernia guides, testimonials, "Watch" posters |
+| Panel | Sage (trial, Nov 4 2026) | `#eef2e6`, border `#dae2ca` | `--sage`, `--sage-line`; `--sky` points to it | Appendix card and chooser chip, hernia guides, testimonials, "Watch" posters |
+| Panel | Mist (old Sky) | `#e8f1fb` | `--mist` | Table headers, body map, some nav hovers |
 | Panel | Sand | `#fff4e5` | `--sand` | Home page hero, doctor panel, gallbladder card and gallbladder guides |
 | Highlight | Soft sun | `#ffeab8` | `--sun-soft` | The one highlighted phrase in a headline ("smallest incision") |
 | Accent on navy | Sun | `#ffe08a` | `--sun` | Step labels and small accents on navy only |
