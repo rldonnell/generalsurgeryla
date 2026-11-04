@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next';
-import { Fraunces, Figtree } from 'next/font/google';
+import { Montserrat, Figtree } from 'next/font/google';
 import Script from 'next/script';
 import './globals.css';
 import Header from '@/components/Header';
@@ -9,7 +9,7 @@ import JsonLd from '@/components/JsonLd';
 import { getProcedures, settings as s } from '@/lib/content';
 import { siteGraph } from '@/lib/schema';
 
-const fraunces = Fraunces({ subsets: ['latin'], variable: '--font-fraunces', display: 'swap' });
+const montserrat = Montserrat({ subsets: ['latin'], weight: ['600', '700'], variable: '--font-montserrat', display: 'swap' });
 const figtree = Figtree({ subsets: ['latin'], variable: '--font-figtree', display: 'swap' });
 
 export const metadata: Metadata = {
@@ -23,11 +23,11 @@ export const metadata: Metadata = {
   icons: { icon: '/icon.svg' },
 };
 
-export const viewport: Viewport = { themeColor: '#10263f', width: 'device-width', initialScale: 1 };
+export const viewport: Viewport = { themeColor: '#0e1a2b', width: 'device-width', initialScale: 1 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en-US" className={`${fraunces.variable} ${figtree.variable}`}>
+    <html lang="en-US" className={`${montserrat.variable} ${figtree.variable}`}>
       <head>
         <JsonLd data={siteGraph(getProcedures())} />
       </head>

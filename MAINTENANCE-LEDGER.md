@@ -59,3 +59,14 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - `lib/links.ts` decides which blog posts and procedure pages link to each other (the "Related reading" and "Keep reading" blocks). Every new blog post needs a line in `postProcedures`, or it gets no procedure link and no siblings.
 - Home page, 3 post titles and several pages got POP term edits. Re-score after publish with `node scripts/pop-batch.mjs --force --only <path>`.
 - Next.js 14.2.33 prints a security-update warning on install. Not upgraded as part of this work. Price it separately.
+
+## Homepage redesign, Nov 4, 2026 ("Explainer", Montserrat and Figtree)
+- Approved by Robert from the design canvas "General Surgery LA homepage (Montserrat)". Bright, video-led look: white page, sky blue and sand panels, navy, one terracotta action color (#c93c22).
+- Fonts: Montserrat 600/700 for headings (replaces Fraunces), Figtree body unchanged. Loaded through next/font, nothing to renew. Montserrat is free (OFL); Garet was considered and needs a paid web license, so it was not used.
+- Home hero headline holds to three lines with no orphan on phones 360 to 430px wide (21px on phones, 44px max on desktop, text-wrap: balance, tighter hero side margins under 520px). If the headline copy changes, re-check this on a phone.
+- New on the home page, all built from existing site copy: "What brought you here?" links to the hernia, gallbladder and appendix pages; four short videos that play inline; a four-step "what to expect" band; four blog posts as guides (slugs listed in app/page.tsx, a post that is renamed or removed simply drops out).
+- Kept from the old home page: FAQ section and its FAQPage schema, the open vs minimally invasive table, the consult form and NAP/map block. Form code and UTM handling were not touched. No routes, menus or schema changed. The BodyMap diagram is no longer on the home page (component still in the repo).
+- Video poster images are local copies in public/images/videos/<id>.webp so nothing loads from YouTube until a visitor taps play. A new video needs its poster added there. The hiatal hernia slot uses tX0BrRUNn8w because the PTfhHe-tcRo thumbnail carries the Healthy Life Bariatrics podcast branding.
+- Several of Dr. Moein's videos show a small Healthy Life logo inside the video itself. Same videos the site already embedded. Fully clean brand separation would need versions without the logo from him.
+- All pages pick up the new colors and fonts through app/globals.css tokens (--scrub and --marker names kept).
+- To undo: revert the commit "Homepage redesign: Explainer layout, Montserrat headings".
