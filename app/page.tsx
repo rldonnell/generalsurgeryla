@@ -111,7 +111,7 @@ export default function Home() {
             </div>
           </div>
           <div className="x-services">
-            <div className="x-svc x-svc-dark">
+            <div className="x-svc x-svc-list x-sand">
               <h3>Hernia</h3>
               <p>Most hernias do not heal on their own and tend to grow.</p>
               <ul>
@@ -121,14 +121,14 @@ export default function Home() {
                 <li><Link href="/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/">Paraesophageal hernia</Link></li>
               </ul>
             </div>
-            <Link className="x-svc x-sand" href="/gallbladder-surgery-in-los-angeles/">
+            <Link className="x-svc x-sage" href="/gallbladder-surgery-in-los-angeles/">
               <h3>Gallbladder</h3>
               <p>Removes a gallbladder that is causing pain from gallstones or inflammation.</p>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src="/images/laparoscopic-gallbladder-surgery.webp" alt="Laparoscopic gallbladder surgery illustration" width={768} height={576} loading="lazy" />
               <span className="go">Gallbladder surgery</span>
             </Link>
-            <Link className="x-svc x-sage" href="/laparoscopic-appendectomy-in-los-angeles/">
+            <Link className="x-svc x-fog" href="/laparoscopic-appendectomy-in-los-angeles/">
               <h3>Appendix</h3>
               <p>Removes an inflamed appendix through a few small incisions. Appendicitis is treated as urgent.</p>
               <span className="go">Laparoscopic appendectomy</span>
@@ -160,7 +160,7 @@ export default function Home() {
             </div>
             <div className="x-guides">
               {guides.map((g) => (
-                <Link key={g.slug} href={`/${g.slug}/`} className={g.topic === 'Hernia' ? 'x-sky' : 'x-sand'}>
+                <Link key={g.slug} href={`/${g.slug}/`} className={g.topic === 'Hernia' ? 'x-sand' : 'x-sage'}>
                   <span className={`x-topic ${g.topic === 'Hernia' ? 't-blue' : 't-amber'}`}>{g.topic}</span>
                   <strong>{g.post!.title}</strong>
                 </Link>

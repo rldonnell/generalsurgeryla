@@ -13,7 +13,7 @@
   --scrub-deep: #0e1a2b;
   --mist: var(--fog);
   /* Sage: the old sky blue's lightness and chroma (OKLCH) at the hue of #7c961c.
-     Used for appendix. */
+     Used for gallbladder. Topic colors: hernia Sand, gallbladder Sage, appendix Fog. */
   --sage: #eef2e6;
   --sage-line: #dae2ca;
   /* Fog: neutral light gray at the same lightness, no blue. Replaces the old
@@ -354,6 +354,7 @@ p { margin: 0 0 1em; }
 .x-panel { max-width: 1376px; margin: 0 auto; border-radius: 32px; padding: clamp(2rem, 5vw, 4.5rem) clamp(1.25rem, 4vw, 3.5rem); }
 .x-sky { background: var(--sky); }
 .x-sage { background: var(--sage); }
+.x-fog { background: var(--fog); }
 .x-sand { background: var(--sand); }
 .x-ink { background: var(--ink); color: #fff; }
 .x-ink h2, .x-ink h3 { color: #fff; }
@@ -380,9 +381,9 @@ p { margin: 0 0 1em; }
 .x-chooser a:hover { transform: translateY(-2px); box-shadow: 0 10px 22px -14px rgba(14,26,43,.4); color: var(--ink); }
 .x-chooser strong { font-weight: 700; }
 .x-chooser span { font-size: .88rem; color: var(--ink-soft); line-height: 1.35; }
-.x-chooser a.c-hernia { background: var(--fog); border-color: var(--fog-line); }
-.x-chooser a.c-gall { background: #fff8ee; border-color: #f6dfbf; }
-.x-chooser a.c-appx { background: var(--sage); border-color: var(--sage-line); }
+.x-chooser a.c-hernia { background: #fff8ee; border-color: #f6dfbf; }
+.x-chooser a.c-gall { background: var(--sage); border-color: var(--sage-line); }
+.x-chooser a.c-appx { background: var(--fog); border-color: var(--fog-line); }
 
 .x-hero-video { flex: 1 1 300px; max-width: 380px; margin: 0 auto; position: relative; }
 @media (max-width: 520px) { .x-hero-video { max-width: 280px; } }
@@ -435,6 +436,13 @@ a.x-svc:hover { color: var(--ink); box-shadow: 0 16px 36px -22px rgba(14,26,43,.
 .x-svc-dark a { display: block; padding: .8rem 0; color: #fff; text-decoration: none; font-weight: 600; }
 .x-svc-dark a::after { content: ' \2192'; }
 .x-svc-dark a:hover { color: var(--sun); }
+/* Light link-list service card (Hernia on Sand, Nov 2026). */
+.x-svc-list ul { list-style: none; padding: 0; margin: .5rem 0 0; border-top: 1px solid rgba(14,26,43,.12); }
+.x-svc-list li { border-bottom: 1px solid rgba(14,26,43,.12); }
+.x-svc-list li:last-child { border-bottom: 0; }
+.x-svc-list a { display: block; padding: .8rem 0; color: var(--ink); text-decoration: none; font-weight: 600; }
+.x-svc-list a::after { content: ' \2192'; color: var(--marker); }
+.x-svc-list a:hover { color: var(--marker); }
 
 .x-sub { color: #c4cedb; margin: .5rem 0 2rem; max-width: 60ch; }
 .x-steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); gap: 1rem; }

@@ -38,7 +38,7 @@ It leads with Dr. Moein explaining conditions on video, then sends people to the
 | Action | Burnt orange | `#bd4f1c` | `--marker` | Every button (including About Dr. Moein), "go" links, play buttons. Nothing decorative |
 | Action hover | Deep burnt orange | `#9e4016` | `--marker-deep` | Hover and pressed state of buttons |
 | Link | Clinic blue | `#1f4f8f` | `--scrub` | Inline text links, small section labels |
-| Panel | Sage | `#eef2e6`, border `#dae2ca` | `--sage`, `--sage-line`, `.x-sage` | Appendix service card and chooser chip |
+| Panel | Sage | `#eef2e6`, border `#dae2ca` | `--sage`, `--sage-line`, `.x-sage` | Gallbladder chip, service card and guide cards |
 | Panel | Fog (replaces Sky) | `#f1f1f1`, border `#dddddd` | `--fog`, `--fog-line`; `--sky` and `--mist` point to it | Hernia chip and guides, testimonials, "Watch" posters, tables, body map, nav hovers |
 | Panel | Sand | `#fff4e5` | `--sand` | Home page hero, doctor panel, gallbladder card and gallbladder guides |
 | Highlight | Soft sun | `#ffeab8` | `--sun-soft` | The one highlighted phrase in a headline ("smallest incision") |
@@ -46,7 +46,7 @@ It leads with Dr. Moein explaining conditions on video, then sends people to the
 | Ground | White | `#ffffff` | `--paper` | Page background, cards on colored panels |
 | Rule | Mist line | `#dbe3ee` | `--rule` | Hairlines, table borders, input borders |
 
-**Topic color coding.** Hernia content sits on Sky with a blue label (`#1f4f8f`). Gallbladder content sits on Sand with an amber label (`#8a4b12`). Appendix sits on Sky with a burnt orange border tint because it is urgent.
+**Topic color coding (Nov 4, 2026).** Hernia sits on Sand with a blue label (`#1f4f8f`). Gallbladder sits on Sage with an amber label (`#8a4b12`). Appendix sits on Fog. Applies to the hero chooser chips, the home service cards and the guide cards.
 
 **Proportion.** Roughly 70% white, 20% Sand and Sky panels, 10% Navy. Burnt orange appears only where someone can act.
 
