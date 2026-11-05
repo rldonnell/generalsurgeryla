@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getProcedures, settings as s } from '@/lib/content';
 import { patientCare } from './Header';
+import Logo from './Logo';
 
 export default function Footer() {
   const procs = getProcedures();
@@ -9,7 +10,7 @@ export default function Footer() {
       <div className="wrap">
         <div className="footer-grid">
           <div>
-            <div className="footer-brand">{s.siteName}</div>
+            <div className="footer-brand" aria-label={s.siteName}><Logo /></div>
             <address className="nap" style={{ marginTop: '.75rem' }}>
               {s.street}<br />
               {s.city}, {s.region} {s.postalCode}<br />

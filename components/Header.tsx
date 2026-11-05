@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getProcedures, settings as s } from '@/lib/content';
+import Logo from './Logo';
 
 export const patientCare = [
   { href: '/pre-and-post-instructions/', label: 'Before and after surgery' },
@@ -14,11 +15,7 @@ export default function Header() {
     <header className="site-header">
       <div className="wrap">
         <Link href="/" className="brand" aria-label={`${s.siteName} home`}>
-          <span className="brand-mark" aria-hidden="true">GS</span>
-          <span className="brand-text">
-            <span className="brand-name">{s.siteName}</span>
-            <span className="brand-sub">{s.doctor.name}, {s.doctor.credentials}</span>
-          </span>
+          <Logo />
         </Link>
         <nav className="nav" aria-label="Main">
           <details>
