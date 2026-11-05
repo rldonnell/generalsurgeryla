@@ -540,3 +540,7 @@ a.x-svc:hover { color: var(--ink); box-shadow: 0 16px 36px -22px rgba(14,26,43,.
   .logo-initials { font-size: 1.6rem; }
   .logo-words { font-size: .58rem; letter-spacing: .22em; gap: .22rem; }
 }
+
+/* GHL form embed (Nov 5, 2026): tighter padding so the iframe's own form fills the card */
+.form-embed { padding: clamp(1rem, 2.5vw, 1.5rem); }
+.form-embed iframe { display: block; margin-top: .75rem; }

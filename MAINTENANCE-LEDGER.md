@@ -99,3 +99,11 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 ## idpixel visitor pixel: on hold, Nov 5, 2026
 - Robert asked to add the idpixel script (idp-analytics-6aece7491c5d5e0d5223e8f0) to the head, then put it on hold. It is NOT on the site. Analytics only for now.
 - Before adding it: confirm whose account holds the pixel, get counsel's OK for identity pixels on a medical site, and update the privacy policy.
+
+## Consult form switched to GoHighLevel embed, Nov 5, 2026
+- Why: the old custom form (posted to /api/lead, which upserts a GHL contact) was setting off a cosmetic surgery response in GHL. The embed is its own GHL form, "General Surgery LA" (id qAI6iVCpf7SPTn7ji7QD), so a general surgery workflow can trigger on "Form Submitted" for that form only.
+- Where: components/ConsultForm.tsx now renders the embed, so the home page, every procedure and page footer, and the contact page all use it. Callers unchanged. form_embed.js loads lazily (after the page is idle) to protect page speed.
+- Performance billing: UTM attribution now comes from GHL's own form attribution (form_embed.js passes the page URL and UTMs), not the old utm:source tags. Submit a test with ?utm_source=test on the URL and confirm GHL records it.
+- Thank-you page: the old form sent people to /thank-you/. For now the GHL form shows its own on-submit message (Robert's call). Switch On Submit to redirect to https://generalsurgeryla.com/thank-you/ once that page is updated.
+- Check in GHL: if the cosmetic workflow triggers on "Contact Created" or a broad tag rather than a specific form, the embed can set it off too. Filter that workflow to its own forms.
+- /api/lead and the GHL_* env vars are still deployed but unused. Old form kept in components/ConsultFormApi.tsx. To undo, revert this commit.
