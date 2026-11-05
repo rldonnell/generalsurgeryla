@@ -104,7 +104,7 @@ export default function Home() {
             <div>
               <h2>Surgical services in Los Angeles</h2>
               <p>
-                Dr. Moein&rsquo;s surgical services include hernia repair (inguinal, hiatal and paraesophageal), gallbladder
+                Dr. Moein&rsquo;s surgical services include hernia repair (inguinal, umbilical, hiatal and paraesophageal), gallbladder
                 surgery and laparoscopic appendectomy. Each service page explains the condition, how the operation is done,
                 and what recovery looks like, in plain language.
               </p>
@@ -115,7 +115,7 @@ export default function Home() {
               <h3>Hernia</h3>
               <p>Most hernias do not heal on their own and tend to grow.</p>
               <ul>
-                <li><Link href="/hernia-surgery-los-angeles-ca/">Hernia surgery</Link></li>
+                <li><Link href="/umbilical-hernia-surgery-los-angeles/">Umbilical hernia</Link></li>
                 <li><Link href="/inguinal-hernia-surgery-in-los-angeles-ca/">Inguinal hernia</Link></li>
                 <li><Link href="/expert-hiatal-hernia-surgery-in-los-angeles/">Hiatal hernia</Link></li>
                 <li><Link href="/laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca/">Paraesophageal hernia</Link></li>

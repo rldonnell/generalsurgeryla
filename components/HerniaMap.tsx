@@ -5,7 +5,7 @@ type Spot = { name: string; x: number; y: number; lx: number; ly: number; side: 
 const spots: Spot[] = [
   { name: 'Hiatal hernia', x: 290, y: 176, lx: 436, ly: 170, side: 'r', lines: ['Hiatal'], href: '/expert-hiatal-hernia-surgery-in-los-angeles/' },
   { name: 'Epigastric hernia', x: 280, y: 258, lx: 436, ly: 250, side: 'r', lines: ['Epigastric'] },
-  { name: 'Umbilical hernia', x: 280, y: 318, lx: 436, ly: 318, side: 'r', lines: ['Umbilical'], href: '/umbilical-hernia-adults-2026-guide/' },
+  { name: 'Umbilical hernia', x: 280, y: 318, lx: 436, ly: 318, side: 'r', lines: ['Umbilical'], href: '/umbilical-hernia-surgery-los-angeles/' },
   { name: 'Spigelian hernia', x: 342, y: 356, lx: 436, ly: 386, side: 'r', lines: ['Spigelian'] },
   { name: 'Incisional hernia', x: 280, y: 392, lx: 132, ly: 380, side: 'l', lines: ['Incisional', '(at a scar)'] },
   { name: 'Inguinal hernia', x: 226, y: 458, lx: 132, ly: 452, side: 'l', lines: ['Inguinal'], href: '/inguinal-hernia-surgery-in-los-angeles-ca/' },

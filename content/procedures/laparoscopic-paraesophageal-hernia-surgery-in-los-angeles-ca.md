@@ -3,7 +3,7 @@ title: Laparoscopic Paraesophageal Hernia Repair in Los Angeles, CA
 navLabel: Paraesophageal Hernia Surgery
 metaTitle: Laparoscopic Paraesophageal Hernia Repair Los Angeles
 description: Laparoscopic paraesophageal hernia repair in Los Angeles is performed with advanced techniques to relieve persistent reflux symptoms.
-order: 4
+order: 5
 area: hiatus
 summary: A paraesophageal hernia is a type of hiatal hernia where part of the stomach pushes up beside the esophagus. Because it can twist or trap the stomach, surgical repair is often recommended even when symptoms are mild. Most repairs can be done laparoscopically.
 faqs:

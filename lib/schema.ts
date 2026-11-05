@@ -101,6 +101,14 @@ const CONDITIONS: Record<string, Cond> = {
     prep: 'Pre-operative evaluation, medication review, and fasting before anesthesia.',
     followup: 'Post-operative check of healing. Many patients return to desk work within about a week.',
   },
+  'umbilical-hernia-surgery-los-angeles': {
+    name: 'Umbilical hernia', alt: ['Belly button hernia'],
+    symptoms: ['Bulge at or just above the belly button', 'Ache or pressure at the belly button, worse with activity or straining'],
+    risks: ['Pregnancy', 'Obesity', 'Chronic cough', 'Straining or heavy lifting', 'Previous abdominal surgery'],
+    anatomy: 'Abdominal wall at the umbilicus', bodyLocation: 'Umbilicus (belly button)',
+    prep: 'Pre-operative evaluation, medication review, and fasting before anesthesia.',
+    followup: 'Post-operative check of healing. Many patients return to desk work within about a week, with lifting restrictions for four to six weeks.',
+  },
   'expert-hiatal-hernia-surgery-in-los-angeles': {
     name: 'Hiatal hernia',
     symptoms: ['Heartburn and acid reflux', 'Regurgitation', 'Chest pressure or discomfort', 'Difficulty swallowing', 'Feeling full quickly'],

@@ -8,7 +8,7 @@ export const postProcedures: Record<string, string[]> = {
   'signs-you-need-gallbladder-surgery-and-when-you-can-safely-wait': ['gallbladder-surgery-in-los-angeles'],
   'hernia-mesh-vs-non-mesh-repair-2026': ['hernia-surgery-los-angeles-ca', 'inguinal-hernia-surgery-in-los-angeles-ca'],
   'inguinal-hernia-when-surgery-becomes-necessary': ['inguinal-hernia-surgery-in-los-angeles-ca', 'hernia-surgery-los-angeles-ca'],
-  'umbilical-hernia-adults-2026-guide': ['hernia-surgery-los-angeles-ca'],
+  'umbilical-hernia-adults-2026-guide': ['umbilical-hernia-surgery-los-angeles', 'hernia-surgery-los-angeles-ca'],
   'hiatal-hernia-heartburn-surgery': ['expert-hiatal-hernia-surgery-in-los-angeles', 'laparoscopic-paraesophageal-hernia-surgery-in-los-angeles-ca'],
 };
 

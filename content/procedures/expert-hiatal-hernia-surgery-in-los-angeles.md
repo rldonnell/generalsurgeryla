@@ -3,7 +3,7 @@ title: Expert Hiatal Hernia Surgery in Los Angeles
 navLabel: Hiatal Hernia Surgery
 metaTitle: Hiatal Hernia Surgery Los Angeles | Advanced Care
 description: Dr. Moein specializes in hiatal hernia surgery in Los Angeles, delivering expert diagnosis and minimally invasive treatment for symptom relief.
-order: 3
+order: 4
 area: hiatus
 summary: A hiatal hernia happens when part of the stomach slides up through the diaphragm into the chest, often causing reflux, chest pressure, or trouble swallowing. Surgery is recommended when symptoms are not controlled by medication or the hernia causes complications. Dr. Moein performs most repairs laparoscopically.
 faqs:

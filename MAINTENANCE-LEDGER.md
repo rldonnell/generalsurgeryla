@@ -87,3 +87,15 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - The header no longer shows the "Dr. Babak Moein, MD" line under the name. Put brand-sub back in components/Header.tsx if that is wanted.
 - Favicon (public/icon.svg) still says "GS". Four letters are unreadable at 16px, so it was left alone.
 - To undo: `git revert` this commit.
+
+## Umbilical hernia page and straight hero video, Nov 5, 2026
+- New procedure page /umbilical-hernia-surgery-los-angeles/ (content/procedures/umbilical-hernia-surgery-los-angeles.md), built from existing site copy (umbilical blog guide, hernia hub, Dr. Moein's umbilical video). No dollar figures, no robotic references, no new statistics.
+- Needs Dr. Moein's sign-off before launch: that small hernias are repaired through a belly button incision and larger or recurrent ones laparoscopically with mesh, and the recovery timeline (desk work in about a week, full activity at four to six weeks).
+- Home page "Hernia" service card: "Hernia surgery" (hub) link replaced by "Umbilical hernia". The hero "A hernia or a bulge" chip still goes to the hub, so the hub keeps a home page link. Services intro copy now lists umbilical.
+- Menu order: umbilical is 3, hiatal moved to 4, paraesophageal to 5. Menus, footer and sitemap pick it up automatically.
+- Interlinking: HerniaMap "Umbilical" now points to the new page (was the blog guide); hub page umbilical section links to it; lib/links.ts maps the umbilical blog post to the new page first. Condition schema added to CONDITIONS in lib/schema.ts. Keyword "umbilical hernia surgery los angeles" added to pop-keywords.json; the blog post keeps "umbilical hernia in adults" so the two don't compete.
+- Home hero video: removed the 2 degree tilt (.x-hero-video .short in app/globals.css). To undo, add `transform: rotate(2deg);` back.
+
+## idpixel visitor pixel: on hold, Nov 5, 2026
+- Robert asked to add the idpixel script (idp-analytics-6aece7491c5d5e0d5223e8f0) to the head, then put it on hold. It is NOT on the site. Analytics only for now.
+- Before adding it: confirm whose account holds the pixel, get counsel's OK for identity pixels on a medical site, and update the privacy policy.

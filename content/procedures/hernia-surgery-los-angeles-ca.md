@@ -58,7 +58,7 @@ Watch for digestive issues like bloating or heartburn. **Sudden, severe pain** a
 
 ### Umbilical Hernia
 
-This develops **near the belly button** when part of the intestine protrudes through the abdominal muscles. Common in both infants and adults, surgical repair is used to **restore abdominal strength**. Our [guide to umbilical hernia repair in adults](/umbilical-hernia-adults-2026-guide/) explains when surgery is needed.
+This develops **near the belly button** when part of the intestine protrudes through the abdominal muscles. Common in both infants and adults, surgical repair is used to **restore abdominal strength**. Read about [umbilical hernia surgery](/umbilical-hernia-surgery-los-angeles/), or see our [guide to umbilical hernia repair in adults](/umbilical-hernia-adults-2026-guide/) for when surgery is needed.
 
 ### Hiatal Hernia
 

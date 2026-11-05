@@ -18,7 +18,7 @@ Pushing to `main` deploys to Vercel. CMS edits arrive as `cms-drafts` pull reque
 - `app/` holds routes. `app/[slug]` renders procedure and page markdown. `app/api/` has the GHL lead form, plus the auth and callback routes for the CMS.
 - `content/` holds `procedures/`, `blog/`, `pages/` (markdown) and JSON for settings, FAQs and videos. Contact details live in `content/settings.json` ("Practice details" in the CMS).
 - `lib/links.ts` sets the interlinking. Every new blog post needs a line in `postProcedures`.
-- `lib/schema.ts` holds the JSON-LD, including the `CONDITIONS` for the six procedure pages.
+- `lib/schema.ts` holds the JSON-LD, including the `CONDITIONS` for the seven procedure pages.
 - `components/` and `app/globals.css` hold the UI. The CSS token names `--scrub` (navy) and `--marker` (terracotta) are historical. Keep them, because components and SVGs reference them.
 - `pop-keywords.json` maps pages to target keywords. Add new pages and posts to it.
 

@@ -387,7 +387,7 @@ p { margin: 0 0 1em; }
 
 .x-hero-video { flex: 1 1 300px; max-width: 380px; margin: 0 auto; position: relative; }
 @media (max-width: 520px) { .x-hero-video { max-width: 280px; } }
-.x-hero-video .short { transform: rotate(2deg); box-shadow: 0 24px 60px rgba(14,26,43,.25); border-radius: 28px; }
+.x-hero-video .short { box-shadow: 0 24px 60px rgba(14,26,43,.25); border-radius: 28px; }
 .x-views { position: absolute; left: -20px; bottom: 40px; margin: 0; background: #fff; border-radius: 18px; padding: .8rem 1rem; box-shadow: 0 12px 32px rgba(14,26,43,.18); max-width: 210px; line-height: 1.3; }
 .x-views strong { display: block; font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; }
 .x-views span { font-size: .85rem; color: var(--ink-soft); }
