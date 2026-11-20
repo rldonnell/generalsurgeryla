@@ -14,11 +14,19 @@ export default function MenuCloser() {
         if (d !== keep) d.open = false;
       });
 
-    const onPointer = (e: Event) => {
-      const target = e.target as Element | null;
-      const inside = target?.closest('.site-header details') ?? null;
+    const menuOf = (e: Event) =>
+      (e.target as Element | null)?.closest('.site-header details') ?? null;
+
+    // Focus moving elsewhere (tabbing, or the mousedown of a click) closes the
+    // other menus only. It must never close the menu being used: a mouse press
+    // on a menu link fires focusin before click, and hiding the link at that
+    // point swallows the click.
+    const onFocus = (e: Event) => closeAll(menuOf(e));
+    const onClick = (e: Event) => {
+      const inside = menuOf(e);
       // Following a link keeps the header mounted, so close the menu it sat in too.
-      closeAll(inside && target?.closest('a') ? null : inside);
+      const followedLink = inside && (e.target as Element).closest('a');
+      closeAll(followedLink ? null : inside);
     };
     const onKey = (e: KeyboardEvent) => {
       if (e.key !== 'Escape') return;
@@ -28,12 +36,12 @@ export default function MenuCloser() {
       open.querySelector('summary')?.focus();
     };
 
-    document.addEventListener('click', onPointer);
-    document.addEventListener('focusin', onPointer);
+    document.addEventListener('click', onClick);
+    document.addEventListener('focusin', onFocus);
     document.addEventListener('keydown', onKey);
     return () => {
-      document.removeEventListener('click', onPointer);
-      document.removeEventListener('focusin', onPointer);
+      document.removeEventListener('click', onClick);
+      document.removeEventListener('focusin', onFocus);
       document.removeEventListener('keydown', onKey);
     };
   }, []);
