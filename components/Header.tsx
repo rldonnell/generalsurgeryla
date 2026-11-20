@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getProcedures, settings as s } from '@/lib/content';
 import Logo from './Logo';
+import MenuCloser from './MenuCloser';
 
 export const patientCare = [
   { href: '/pre-and-post-instructions/', label: 'Before and after surgery' },
@@ -63,6 +64,7 @@ export default function Header() {
           </div>
         </details>
       </div>
+      <MenuCloser />
     </header>
   );
 }

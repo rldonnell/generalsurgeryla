@@ -107,3 +107,8 @@ Shipped by P5 Marketing, Sept 2026. Stack: Next.js 14, Vercel, markdown in repo,
 - Thank-you page: the old form sent people to /thank-you/. For now the GHL form shows its own on-submit message (Robert's call). Switch On Submit to redirect to https://generalsurgeryla.com/thank-you/ once that page is updated.
 - Check in GHL: if the cosmetic workflow triggers on "Contact Created" or a broad tag rather than a specific form, the embed can set it off too. Filter that workflow to its own forms.
 - /api/lead and the GHL_* env vars are still deployed but unused. Old form kept in components/ConsultFormApi.tsx. To undo, revert this commit.
+
+## Header menus close properly, Nov 19, 2026
+- Bug: the desktop "Procedures" and "Patient care" dropdowns only closed when their own label was clicked again, so both could sit open at once and stayed open after following a link.
+- Fix: new components/MenuCloser.tsx (client component, rendered inside components/Header.tsx). It closes the header menus on an outside click, on Escape, when a menu link is followed, and when the other menu opens. Covers the phone "Menu" panel too. No change to links, markup or styling.
+- To undo: remove `<MenuCloser />` and its import from components/Header.tsx and delete the file.
