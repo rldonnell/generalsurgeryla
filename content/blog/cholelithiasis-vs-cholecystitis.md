@@ -46,7 +46,7 @@ The gallbladder’s primary job is to store bile produced by the liver. Gallston
 ### Acute vs. Chronic Cholecystitis
 
   * **Acute Cholecystitis:** A sudden, severe inflammation requiring hospitalization and often surgery (cholecystectomy).
-  * **Chronic Cholecystitis:** Resulting from repeated bouts of minor inflammation, leading to a shrunken, scarred, and [non-functional gallbladder](/gallbladder-surgery-in-los-angeles).
+  * **Chronic Cholecystitis:** Resulting from repeated bouts of minor inflammation, leading to a shrunken, scarred, and [non-functional gallbladder](/gallbladder-surgery-in-los-angeles/).
 
 ## Comparing the Two Conditions
 
@@ -102,5 +102,5 @@ If you are seeking specialized care, [**Dr. Babak Moein**](/general-surgeon-dr-b
 To discuss your symptoms or schedule a consultation, please contact us through the following options:
 
   * **Call directly:** (**[310) 861 4093](https://www.google.com/search?q=tel:%2B13108614093)**
-  * **Online Inquiry:** **[Contact Us](/contact-us)**
+  * **Online Inquiry:** **[Contact Us](/contact-us/)**
   * **Insurance Information:** **[Check General Surgery Insurance](https://www.google.com/search?q=https://generalsurgeryla.com/general-surgery-surgery-insurance)**
